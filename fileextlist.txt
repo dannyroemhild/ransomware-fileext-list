@@ -1,3 +1,4 @@
+*._HE
 *.EG
 *.20dfs
 *.Badboy

@@ -13,8 +13,6 @@
 *.1c
 *.2020
 *.2048
-*._HE
-*.EG
 *.20dfs
 *.24H
 *.2new
@@ -567,6 +565,7 @@ FILESAREGONE.TXT
 *.hceem
 *.hcy
 *.hdmr
+*._HE
 *.heets
 *.hellomynameisransom
 HELLOTHERE.TXT

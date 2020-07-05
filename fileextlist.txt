@@ -22,6 +22,7 @@
 *.4k
 *.4rg-d4m-rs6
 *.4rwcry4w
+*.52pojie
 *.5ss5c
 *.666
 *.6be31
@@ -429,6 +430,7 @@ DECRYPT_ReadMe.TXT
 (enc)*
 *.enciphered
 *.EnCiPhErEd
+*.encoded_pl
 *.encoderpass
 *.encr
 *.enc_robbinhood
@@ -551,6 +553,7 @@ FILESAREGONE.TXT
 *.gusau
 *.guvara
 *.gw3w
+*.gyga
 *.HA3
 *.hac
 *.hack
@@ -760,6 +763,7 @@ _Locky_recover_instructions.txt
 *.lol
 *.LOL!
 *.loli
+*.lolkek
 *.LolSec
 *.londec
 *.lonleycryptedfile
@@ -1054,6 +1058,7 @@ _Locky_recover_instructions.txt
 *.r3store
 *.r5a
 *.r9uAV
+*.rabbit
 *.radman
 *.rag2hdst
 *.ragnar_*
@@ -1317,6 +1322,7 @@ SECRET.KEY
 *.vesrato
 *.video
 *.viiper
+*.VinDizelPux
 *.vivelag
 *.void
 *.volcano
@@ -1345,6 +1351,7 @@ SECRET.KEY
 *.werd
 *.whatthefuck
 *.whiterose
+*.wholocked
 *.why
 *.wiki
 *.WINDIE
@@ -1413,6 +1420,7 @@ YOUR_FILES.url
 *.Zenis-*
 *.zeoticus
 *.zeronine
+*.zida
 *.zilla
 *.zobm
 *.zoeticus

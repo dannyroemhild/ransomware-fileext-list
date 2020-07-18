@@ -62,6 +62,7 @@ About_Files.txt
 *@airmail.cc
 *.akira
 *.al1b1nal1
+*.al8p
 *.AlfaBlock
 *.alilibat
 *.alka
@@ -120,6 +121,7 @@ About_Files.txt
 *.beer
 *.beethoven
 *.beets
+*.beijing
 *.berost
 *.berosuce
 *.best
@@ -155,7 +157,7 @@ About_Files.txt
 *.blower
 *.bmps@*
 *.bmtf 
-*.bmtf
+*.bnfd
 *.bobelectron
 *.bomber
 *.bombo
@@ -337,6 +339,7 @@ Coin.Locker.txt
 *.danger
 *.daris
 *.darus
+*.data
 *.datastop
 *.DATASTOP
 *.datawait
@@ -474,6 +477,7 @@ encryptor_raas_readme_liesmich.txt
 *.facebook
 *.FailedAccess
 *.fairytale
+*.fastwind
 *.fat32
 *.fbuvkngy
 *.fc
@@ -492,6 +496,7 @@ FILESAREGONE.TXT
 *.firex3m
 *.fixt
 *.FJ7QvaR9VUmi
+*.flowencryption
 *.fonix
 *.foop
 *.for
@@ -534,6 +539,7 @@ FILESAREGONE.TXT
 *.getrekt
 *.GFS
 *.gillette
+*.Globeimposter-Alpha865qqz
 *@gmail.com
 *.gman
 *.gmbn
@@ -601,6 +607,7 @@ HELP_YOUR_FILES.TXT
 *.hilda
 *.himr
 *.hofos
+*.homer
 *.honor
 *.horon
 *.horrors
@@ -722,6 +729,7 @@ jpa.*
 *.kuajw
 *.kupidon
 *.kuub
+*.kuus
 *.kvag
 *.L1LL
 *.lalo
@@ -1121,6 +1129,7 @@ RECOVERY_KEY.txt
 *.rekensom
 *.rekt
 *.remk
+*.repl
 *.repp
 *.repter
 restorefiles.txt
@@ -1227,6 +1236,7 @@ SECRET.KEY
 *.sorryforthis
 *.spa
 *.space
+*.spare
 *.spartacus
 *.spartcrypt
 *.spct
@@ -1237,6 +1247,7 @@ SECRET.KEY
 *.sr0yz
 *.stare
 *.start
+*.sthd2
 *.stinger
 *.stone
 *.stop
@@ -1393,6 +1404,7 @@ SECRET.KEY
 *.xhspythxn
 *.XiaoBa
 *.XIAOBA
+*.xinof
 *.xLck
 *.XmdXtazX
 *@xmpp.jp
@@ -1430,6 +1442,7 @@ YOUR_FILES.url
 *.z9
 *.zatrov
 *.zax
+*.zbw
 *.zemblax
 *.Zenis-*
 *.zeoticus

@@ -749,6 +749,7 @@ jpa.*
 *.leen
 *.legacy
 *.leon
+*.leph0uxo
 *.leto
 *.lexei8bo
 *.LIGHTNING
@@ -827,6 +828,7 @@ _Locky_recover_instructions.txt
 *.mcafee
 *.MDEN
 *.mecury
+*.mechu4po
 *.meds
 *.meduza
 *.megac0rtx

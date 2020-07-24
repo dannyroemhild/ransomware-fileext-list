@@ -1108,6 +1108,7 @@ _Locky_recover_instructions.txt
 *.rbs
 *.RDM
 ReadDecryptFilesHere.txt
+*.RE78P
 *.readinstructions
 *.readme
 READTHISNOW!!!.TXT

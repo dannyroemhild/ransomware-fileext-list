@@ -421,6 +421,7 @@ DECRYPT_ReadMe.TXT
 *.ebal
 *.ebola
 *.ecc
+*.eduransom
 *.eg
 *.EG
 *.EG83
@@ -453,6 +454,7 @@ DECRYPT_ReadMe.TXT
 *.encrypteds
 encryptor_raas_readme_liesmich.txt
 *.erenahen
+*.erif
 *.eris
 *.ESCAL-p9yqoly
 *.ES_HELPs
@@ -1215,7 +1217,8 @@ SECRET.KEY
 *.sigareta
 *.sigrun
 *.Sil3nt5pring
-*simmyware
+*.silvertor
+*.simmyware
 *.sister
 *.sivo
 @sj.ms

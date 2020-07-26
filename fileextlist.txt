@@ -523,6 +523,7 @@ FILESAREGONE.TXT
 *.g0h8iwj
 *.game
 *.garantydecrypt
+*.garminwasted
 *.garrantydecrypt
 *.gate
 *.gblock
@@ -1410,6 +1411,7 @@ SECRET.KEY
 *.xhspythxn
 *.XiaoBa
 *.XIAOBA
+*.xienvkdoc
 *.xinof
 *.xLck
 *.XmdXtazX

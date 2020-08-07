@@ -11,6 +11,7 @@
 *.1beo18
 *.1btc
 *.1c
+*.1dex
 *.2020
 *.2048
 *.20dfs
@@ -325,6 +326,7 @@ Coin.Locker.txt
 *.cuba
 *.cube
 *.culex
+*.CULEX
 *.curumim
 *.c-vir
 *.cxk
@@ -669,6 +671,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.isolated
 *.israbye
 *.it
+*.itunes
 *.I'WANT MONEY
 *.iwanttits
 *@jabber.mipt.ru
@@ -843,6 +846,7 @@ _Locky_recover_instructions.txt
 *.meduza
 *.megac0rtx
 *.meka
+*.ment
 *.Mercury
 *.merl
 *.mers
@@ -903,6 +907,7 @@ _Locky_recover_instructions.txt
 *.ndarod
 *.ndpyhss
 *.nebupa
+*.nef1lim
 *.nefilim
 *.nelasod
 *.nemo-hacks.at.sigaint.org
@@ -916,6 +921,7 @@ _Locky_recover_instructions.txt
 *.networkmaze
 *.newlock
 *.news
+*.nile
 *.ninja
 *.njkwe
 *.nlah
@@ -1153,6 +1159,7 @@ restorefiles.txt
 *.revon
 *.rezm
 *.rezuc
+*.rgnk
 *.rhino
 *.ridik
 *.righ
@@ -1391,6 +1398,7 @@ SECRET.KEY
 *.wctc
 *.weapologize
 *.wecanhlep
+*.week
 *.werd
 *.whatthefuck
 *.whiterose
@@ -1459,6 +1467,7 @@ YOUR_FILES.url
 *.yum
 *.YYYYBJQOQDU
 *.z9
+*.ZaCaPa
 *.zatrov
 *.zax
 *.zbw
@@ -1466,6 +1475,7 @@ YOUR_FILES.url
 *.Zenis-*
 *.zeoticus
 *.zeronine
+*.zes
 *.zida
 *.zilla
 *.zobm

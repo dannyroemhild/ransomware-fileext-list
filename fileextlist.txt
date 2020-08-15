@@ -35,6 +35,7 @@
 *.a800
 *.aa1
 *.aaa
+*.AB89
 *.abarcy
 *.abat
 *.abc
@@ -99,6 +100,7 @@ About_Files.txt
 *.b00m
 *.b29
 *.b2fr
+*.back
 *.bad
 *.badboy
 *.Badboy
@@ -546,6 +548,7 @@ FILESAREGONE.TXT
 *.gero
 *.gerosan
 *.gesd
+*.get
 *.getrekt
 *.GFS
 *.gillette
@@ -976,6 +979,7 @@ _Locky_recover_instructions.txt
 *.oo7
 *.oof
 *.oofnik
+*.oonn
 *.oops
 *.ooss
 *.opqz
@@ -992,6 +996,7 @@ _Locky_recover_instructions.txt
 *.pablukCRYPT
 *.pack14
 *.pain
+*.pandemic
 *.panther
 *.paradox
 *.parrott
@@ -1259,6 +1264,7 @@ SECRET.KEY
 *.sorryforthis
 *.spa
 *.space
+*.spade
 *.spare
 *.spartacus
 *.spartcrypt
@@ -1358,6 +1364,7 @@ SECRET.KEY
 *.vally
 *.vanss
 *.vapor
+*.vari
 *.vash
 *.vault
 *.vavc2
@@ -1423,6 +1430,7 @@ SECRET.KEY
 *.x0lzs3c
 *.x1881
 *.x3
+*.xati
 *.xd
 *.xda
 *.xdrop

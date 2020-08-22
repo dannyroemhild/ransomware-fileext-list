@@ -17,6 +17,7 @@
 *.20dfs
 *.24H
 *.2new
+*.2spyware
 *.3v3r1s
 *.4035
 *.46d7k
@@ -60,6 +61,7 @@ About_Files.txt
 *.ag88g
 *.AG88G
 *.age
+*.aim
 *.air
 *@airmail.cc
 *.akira
@@ -359,6 +361,7 @@ Coin.Locker.txt
 *.deadfiles
 *.deadmin
 *.deal
+*.Death_of_Shadow
 *.debal
 *.decc
 *.decodeme666@tutanota_com
@@ -435,6 +438,7 @@ DECRYPT_ReadMe.TXT
 *.EG
 *.EG83
 *.egg
+*.ehre
 *.eject
 *.elvispresley
 *.eman50
@@ -687,6 +691,8 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.jeepers
 *.jes
 *.jest
+*.jigsaaw
+*.jigsaw
 *.jimm
 *.jnec
 *.JohnnieWalker
@@ -882,6 +888,7 @@ _Locky_recover_instructions.txt
 *.money
 *.mordor
 *.moresa
+*.morseop-7j9wrqr
 *.mosk
 *.mpaj
 *.mpal
@@ -1136,6 +1143,7 @@ READTHISNOW!!!.TXT
 Read.txt
 *.reaGAN
 *.rebus
+*.rec
 *.recme
 *.reco
 recoverfile*.txt
@@ -1272,6 +1280,7 @@ SECRET.KEY
 *.spectre
 *.spg
 *.sphinx
+*.spybuster
 *.sqpc
 *.sr0yz
 *.stare

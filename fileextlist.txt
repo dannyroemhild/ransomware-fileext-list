@@ -169,6 +169,7 @@ About_Files.txt
 *.bomber
 *.bombo
 *.booknish
+*.boop
 *.boost
 *.boot
 *.bopador
@@ -341,6 +342,7 @@ Coin.Locker.txt
 *.cyborg
 *.cyclone
 *.cypher
+*.cyrat
 *.cyron
 *.D00med
 *.dalle
@@ -501,6 +503,7 @@ encryptor_raas_readme_liesmich.txt
 *.fedasot
 *.felix
 *.ferosas
+*.fezmm
 *.fff
 *.file
 *.FileEncrypted
@@ -556,6 +559,7 @@ FILESAREGONE.TXT
 *.getrekt
 *.GFS
 *.gillette
+*gladius
 *.Globeimposter-Alpha865qqz
 *.GlUtEzOn.VaNoLe
 *@gmail.com
@@ -1050,6 +1054,7 @@ _Locky_recover_instructions.txt
 *.pox
 *.ppdddp
 *.pr0lock
+*.pr0Lock
 *.prandel
 *.prcp
 *.predator
@@ -1195,6 +1200,7 @@ restorefiles.txt
 *.rumba
 *.rxx
 *.ryk
+*.RZsGKi
 *.sad
 *.safe
 *@safetyjabber.com
@@ -1220,6 +1226,7 @@ restorefiles.txt
 _secret_code.txt
 SECRETIDHERE.KEY
 SECRET.KEY
+*.secure
 *.securityP
 *.seed
 *.sell
@@ -1273,6 +1280,7 @@ SECRET.KEY
 *.spa
 *.space
 *.spade
+*.Spade
 *.spare
 *.spartacus
 *.spartcrypt
@@ -1451,6 +1459,7 @@ SECRET.KEY
 *.xinof
 *.xLck
 *.XmdXtazX
+*.xmrlocker
 *@xmpp.jp
 *.xncrypt
 *.xolzsec

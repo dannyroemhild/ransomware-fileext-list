@@ -134,6 +134,7 @@ About_Files.txt
 *.best
 *.besub
 *.betta
+*.BG85
 *.bhacks
 *.biglock
 *.BI_ID
@@ -162,6 +163,7 @@ About_Files.txt
 *.blocked
 *.blocking
 *.blower
+*.bmd
 *.bmps@*
 *.bmtf 
 *.bnfd
@@ -442,6 +444,7 @@ DECRYPT_ReadMe.TXT
 *.egg
 *.ehre
 *.eject
+*.eking
 *.elvispresley
 *.eman50
 *.embrace
@@ -494,12 +497,14 @@ encryptor_raas_readme_liesmich.txt
 *.facebook
 *.FailedAccess
 *.fairytale
+*.fappy
 *.fastwind
 *.fat32
 *.fbuvkngy
 *.fc
 *.fcrypt
 *.fdfk
+*.FDFK22
 *.fedasot
 *.felix
 *.ferosas
@@ -658,6 +663,7 @@ IAMREADYTOPAY.TXT
 *.ID.VENDETTA
 *.iGotYou
 IHAVEYOURSECRET.KEY
+*.ILMWL
 *.imi
 *.impect
 *.improved
@@ -1201,6 +1207,7 @@ restorefiles.txt
 *.rxx
 *.ryk
 *.RZsGKi
+*support@lzt.design*
 *.sad
 *.safe
 *@safetyjabber.com
@@ -1361,8 +1368,10 @@ SECRET.KEY
 *.tsar
 *.ttt
 *.tunca
+*.txd0t
 *@tuta.io
 *@tutanota.com
+*.UAKXC
 *.uanl
 *.udjvu
 *.UIK1J
@@ -1492,6 +1501,7 @@ YOUR_FILES.url
 *.your_last_chance
 *.yum
 *.YYYYBJQOQDU
+*.z3enc
 *.z9
 *.ZaCaPa
 *.zatrov

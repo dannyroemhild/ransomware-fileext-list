@@ -751,6 +751,7 @@ jpa.*
 *.kjh
 *.kk
 *.kkll
+*.klavins
 *.klope
 *.kodc
 *.kodg
@@ -1386,6 +1387,8 @@ SECRET.KEY
 *.UAKXC
 *.uanl
 *.udjvu
+*.ugmh
+*.UGMH
 *.UIK1J
 *.uiwix
 *.uk6ge

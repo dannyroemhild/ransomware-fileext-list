@@ -159,6 +159,7 @@ About_Files.txt
 *.bleep
 *.blind
 *.blind2
+*.blm
 *.BlockBax_v3.2
 *.blocked
 *.blocking
@@ -263,6 +264,7 @@ Coin.Locker.txt
 *.commonransom
 *.comrade
 *.conficker
+*.consciousness
 *.contactus
 *.conti
 *.coom
@@ -448,6 +450,7 @@ DECRYPT_ReadMe.TXT
 *.elvispresley
 *.eman50
 *.embrace
+*.emilisub
 *.emilysupp
 *.empty
 *.emsisosisoft
@@ -480,6 +483,7 @@ encryptor_raas_readme_liesmich.txt
 *.eth
 *.etols
 *.euclid
+*.eur
 *.eV3rbe
 *.everest
 *.EVIL*
@@ -519,6 +523,7 @@ FILESAREGONE.TXT
 *.firex3m
 *.fixt
 *.FJ7QvaR9VUmi
+*.FLAMINGO
 *.flowencryption
 *.fonix
 *.foop
@@ -602,6 +607,7 @@ FILESAREGONE.TXT
 *.haka
 *.harma
 *.haters
+*.hbdalna
 *.hccapx
 *.hceem
 *.hcy
@@ -633,6 +639,7 @@ HELP_YOUR_FILES.TXT
 *.H_F_D_locked
 *.hilda
 *.himr
+*.hnx911
 *.hofos
 *.homer
 *.honor
@@ -692,6 +699,8 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.I'WANT MONEY
 *.iwanttits
 *@jabber.mipt.ru
+*.j91d
+*.J91D
 *.jack
 *.james
 *.jamper
@@ -742,6 +751,7 @@ jpa.*
 *.kjh
 *.kk
 *.kkll
+*.klavins
 *.klope
 *.kodc
 *.kodg
@@ -981,6 +991,7 @@ _Locky_recover_instructions.txt
 *.odayo
 *.odin
 *.odveta
+*.ogdo
 *.ogre
 *.OhNo!
 *.okokokokok
@@ -1374,6 +1385,8 @@ SECRET.KEY
 *.UAKXC
 *.uanl
 *.udjvu
+*.ugmh
+*.UGMH
 *.UIK1J
 *.uiwix
 *.uk6ge

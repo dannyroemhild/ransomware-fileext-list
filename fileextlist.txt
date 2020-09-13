@@ -1219,6 +1219,7 @@ restorefiles.txt
 *.ryk
 *.RZsGKi
 *support@lzt.design*
+*.s996
 *.sad
 *.safe
 *@safetyjabber.com
@@ -1379,6 +1380,7 @@ SECRET.KEY
 *.tsar
 *.ttt
 *.tunca
+*.tx_locked
 *.txd0t
 *@tuta.io
 *@tutanota.com

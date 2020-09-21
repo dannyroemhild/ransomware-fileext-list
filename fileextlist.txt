@@ -42,6 +42,7 @@
 *.abc
 *.abcd
 *.abiyq
+*.abkir
 About_Files.txt
 *.actor
 *.acuf2
@@ -61,6 +62,8 @@ About_Files.txt
 *.ag88g
 *.AG88G
 *.age
+*.ahp
+*.AHP
 *.aim
 *.air
 *@airmail.cc
@@ -69,6 +72,7 @@ About_Files.txt
 *.al8p
 *.AlfaBlock
 *.alilibat
+*.Alix1011RVA
 *.alka
 *.allcry
 *.amber
@@ -122,6 +126,7 @@ About_Files.txt
 *.bbawasted
 *.bboo
 *.bclaw
+*.bd
 *.bddy
 *.bdkr
 *.BD.Recovery
@@ -235,6 +240,7 @@ About_Files.txt
 *.chernolocker
 *.china
 *.choda
+*.chuk
 *.cifgksaffsfyghd
 *.ciop
 *.cipher
@@ -413,6 +419,8 @@ DECRYPT_ReadMe.TXT
 *.dodged
 *.dodger
 *.dodoc
+*.dogecrypt
+*.DogeCrypt
 *.dolphin
 *.domn
 *.donut
@@ -755,6 +763,7 @@ jpa.*
 *.klope
 *.kodc
 *.kodg
+*.kolz
 *.kook
 *.korea
 *.koreaGame
@@ -799,6 +808,7 @@ jpa.*
 *.likud
 *.lilocked
 *.limbo
+*.lina
 *.litar
 *.litra
 *.live
@@ -873,6 +883,8 @@ _Locky_recover_instructions.txt
 *.mechu4po
 *.meds
 *.meduza
+*.mefilin
+*.MEFILIN
 *.megac0rtx
 *.meka
 *.ment
@@ -971,6 +983,7 @@ _Locky_recover_instructions.txt
 *._not_a_joke
 *.notfound
 *.novasof
+*.npph
 *.nppp
 *.npsg
 *.npsk
@@ -1196,6 +1209,8 @@ restorefiles.txt
 *.rezuc
 *.rgnk
 *.rhino
+*.rhmlm
+*.RHMLM
 *.ridik
 *.righ
 *.robinhood
@@ -1331,6 +1346,8 @@ SECRET.KEY
 *.syss
 *.system
 *.tabe
+*.taka
+*.TAKA
 *.TaRoNiS
 *.tastylock
 *.tax
@@ -1342,6 +1359,8 @@ SECRET.KEY
 *.teamV
 *.tears
 *.telegram
+*.teren
+*.TEREN
 *.teslarvng
 *.tfude
 *.tfudeq
@@ -1402,6 +1421,7 @@ SECRET.KEY
 *.uudjvu
 *.vaca
 *.vacv2
+*.Valley
 *.vally
 *.vanss
 *.vapor
@@ -1512,6 +1532,7 @@ SECRET.KEY
 *.yolo
 YOUR_FILES.HTML
 YOUR_FILES.url
+*.young
 *.yourhope*
 *.your_last_chance
 *.yum
@@ -1527,6 +1548,7 @@ YOUR_FILES.url
 *.zeoticus
 *.zeronine
 *.zes
+*.zhen
 *.zida
 *.zilla
 *.zobm

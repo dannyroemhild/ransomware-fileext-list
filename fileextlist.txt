@@ -101,6 +101,7 @@ About_Files.txt
 *.atlas
 *.audit
 *.avdn
+*.AW46
 *.awt
 *.azero
 *.b00m
@@ -275,6 +276,7 @@ Coin.Locker.txt
 *.conti
 *.coom
 *.coot
+*.copa
 *.copan
 *.core
 *.corona
@@ -305,6 +307,7 @@ Coin.Locker.txt
 *.croc
 *.CroNi.ZoNe
 *.crown
+*.CRPTD
 *.crptxxx
 *.cruel
 *.cry
@@ -392,6 +395,7 @@ DECRYPT_ReadMe.TXT
 *.destroy.executioner
 *.desu
 *.desync
+*.deus
 *.deuscrypt
 *.dever
 *.devil
@@ -522,6 +526,7 @@ encryptor_raas_readme_liesmich.txt
 *.ferosas
 *.fezmm
 *.fff
+*.FG69
 *.file
 *.FileEncrypted
 FILESAREGONE.TXT
@@ -715,6 +720,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.javaencrypt
 *.javalocker
 *.jaythl
+*.JB88
 *.jeepers
 *.jes
 *.jest
@@ -918,6 +924,7 @@ _Locky_recover_instructions.txt
 *.mole
 *.moncrypt
 *.money
+*.montana
 *.mordor
 *.moresa
 *.morseop-7j9wrqr
@@ -1384,6 +1391,7 @@ SECRET.KEY
 *.tornado
 *.toxcrypt
 *.tr
+*.TRAPGET
 *.trchwd
 *.triple_m
 *.trmt

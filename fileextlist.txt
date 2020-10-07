@@ -107,6 +107,7 @@ About_Files.txt
 *.b00m
 *.b29
 *.b2fr
+*.babaxed
 *.back
 *.bad
 *.badboy
@@ -371,6 +372,7 @@ Coin.Locker.txt
 *.dbger
 *.dc
 *.dcrtr
+*.Dcry
 *.dd
 *.ddos
 *.deadfiles
@@ -442,6 +444,7 @@ DECRYPT_ReadMe.TXT
 *.DS335
 *.dsec
 *.[dungeon]-0_0
+*.dusk
 *.dutan
 *.dviide
 *.dwbiwty
@@ -549,6 +552,7 @@ FILESAREGONE.TXT
 *.freezing
 *.frend
 *.frendi
+*.fresh
 *.frm
 *.frog
 *.frs
@@ -706,6 +710,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.ironhead
 *.isis
 *.isolated
+*.isos
 *.israbye
 *.it
 *.itunes
@@ -858,6 +863,7 @@ _Locky_recover_instructions.txt
 *.lx
 *.lxhlp
 *.LyaS
+*.lyli
 *.M0rphine
 *.m3gac0rtx
 *.maas
@@ -970,6 +976,7 @@ _Locky_recover_instructions.txt
 *.networkmaze
 *.newlock
 *.news
+*.nibiru
 *.nile
 *.ninja
 *.njkwe
@@ -1493,6 +1500,7 @@ SECRET.KEY
 *.WORMCRYPT0R
 *.wrar
 *.write
+*.wshlp
 *.WSmile
 *.wtdi
 *.wvtr0

@@ -24,6 +24,7 @@
 *.2048
 *.20dfs
 *.24H
+*.259
 *.2new
 *.2spyware
 *.32aa
@@ -103,6 +104,7 @@ About_Files.txt
 *.allcry
 *.Al-Namrood
 *.Alpha
+*.ALVIN
 *.amber
 *.amnesia
 *.Amnesia2
@@ -116,6 +118,7 @@ About_Files.txt
 *.Annabelle
 *.anon
 *.anonymous
+*.AnoymouS
 *.AnteFrigus
 *.anubis
 *@aol.com
@@ -203,6 +206,7 @@ About_Files.txt
 *.BetaSup
 *.betta
 *.BG85
+*.bH4T
 *.bhacks
 *.BigBobRoss
 *.biglock
@@ -311,6 +315,7 @@ About_Files.txt
 *.cash
 *.cashdashsentme@protonmail.com
 *.cbsoz
+*.CC4H
 *.ccc
 *.cccmn
 *.ccd
@@ -584,6 +589,8 @@ DECRYPT_ReadMe.TXT
 *.diller13
 *.DilmaLocker
 *.__dilmaV1
+*.__r4gN4r*
+*._encrypted
 *.DirtyDecrypt
 *.Dishwasher
 *.DiskDoctor
@@ -618,6 +625,7 @@ DECRYPT_ReadMe.TXT
 *.doppled
 *.dotmap
 *.DoubleLocker
+*.Down_With_Usa
 *.dqb
 *.dragnea
 *.dream
@@ -714,6 +722,7 @@ encryptor_raas_readme_liesmich.txt
 *.eV3rbe
 *.Everbe*
 *.everest
+*.evil
 *.EVIL*
 *.evolution
 *.evopro
@@ -801,6 +810,7 @@ FILESAREGONE.TXT
 *.fun
 *.FunFact
 *.funny
+*.FUSION
 *.FuxSocy
 *.g0h8iwj
 *.g8R4rqWIp9
@@ -881,6 +891,7 @@ FILESAREGONE.TXT
 *.gw3w
 *.GX40
 *.gyga
+*.H@RM@
 *.HA3
 *.hac
 *.hack
@@ -982,6 +993,7 @@ IAMREADYTOPAY.TXT
 *.IFN643
 *.iGotYou
 IHAVEYOURSECRET.KEY
+*.iiss
 *.ILElection2020
 *.ILMWL
 *.imi
@@ -1153,6 +1165,7 @@ jpa.*
 *.lbiaf6c8
 *.lbkut
 *.lckd
+*.LCK
 *.lcked
 *.ldpr
 *.LeChiffre
@@ -1186,6 +1199,7 @@ jpa.*
 *.lock.browse.htm
 *.LockCrypt
 *.locked
+*.locked3dllkierff
 locked.*
 *.LockedByte
 *.locked_file
@@ -1234,6 +1248,7 @@ _Locky_recover_instructions.txt
 *.ltml
 *.luceq
 *.luces
+*.luckyday
 *.lukitus
 *.Lulz
 *.Lulz!
@@ -1352,6 +1367,7 @@ _Locky_recover_instructions.txt
 *.mosk
 *.moss
 *.MOTD
+*.mouse
 *.MoWare
 *.mpaj
 *.mpal
@@ -1458,6 +1474,7 @@ MZReverenge*
 *.Nx
 *.nyan
 *.nypd
+*.nypg
 *.nytom
 *.Nyton
 *.o$l
@@ -1541,6 +1558,7 @@ MZReverenge*
 *.pepe
 *.persephone666
 *.peta
+*.pethya*
 *.Petna
 *.petruk
 *.PewCrypt
@@ -1557,6 +1575,7 @@ MZReverenge*
 *.pidon
 *.pigzqbqnvbu
 *.piny
+*.pizhon-*
 *.plague17-*
 *.Plague17
 *.planetary
@@ -1752,6 +1771,7 @@ restorefiles.txt
 *.revenge
 *.REvil
 *.revon
+*.RexCrypt
 *.rezm
 *.rezuc
 *.rgnk
@@ -1841,6 +1861,7 @@ SECRET.KEY
 *.server
 *.seto
 *.sev
+*.sext
 *.sexy
 *.SFile
 *.sfile2
@@ -1891,6 +1912,7 @@ SECRET.KEY
 *.Smrss32
 *.snatch
 *.snc
+*.SNPDRGN
 *.SNSLocker
 *.sntg
 *.SoFucked
@@ -1949,6 +1971,7 @@ SECRET.KEY
 *.system
 *.SystemCrypter
 *.SZFLocker
+*.Szymekk
 *.T1Happy
 *.tabe
 *.taka
@@ -2065,6 +2088,7 @@ SECRET.KEY
 *.V8Locker
 *.vaca
 *.vacv2
+*.VAGGEN
 *.Valley
 *.vally
 *.vanss
@@ -2082,6 +2106,7 @@ SECRET.KEY
 *.velar
 *.vendetta
 *.Venis
+*.Venom
 *.Venus
 *.veracrypt
 *.verasto
@@ -2102,6 +2127,7 @@ SECRET.KEY
 *.Vortex
 *.voyager
 *.vpgvlkb
+*.vpsh
 *.vrmrkz
 *.Vurten
 *.vusad
@@ -2225,6 +2251,7 @@ YOUR_FILES.url
 *.z3zmh
 *.z9
 *.ZaCaPa
+*.ZaLtOn
 *.ZariqaCrypt
 *.zatrov
 *.zax
@@ -2242,6 +2269,7 @@ YOUR_FILES.url
 *.zhen!
 *.zida
 *.zilla
+*.zimba
 *.ZimbraCryptor
 *.ZinoCrypt
 *.ZipLocker

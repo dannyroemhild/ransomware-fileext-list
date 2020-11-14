@@ -85,7 +85,9 @@ About_Files.txt
 *.ag88g
 *.AG88G
 *.age
+*.agho
 *.*AgeLocker
+*.*anta
 *.ahegao
 *.ahp
 *.AHP
@@ -190,6 +192,7 @@ About_Files.txt
 *.bb4-230*
 *.bbawasted
 *.bboo
+*.BCCaEaadBA
 *.bclaw
 *.bd
 *.bddy
@@ -258,6 +261,7 @@ About_Files.txt
 *.bobelectron
 *.bomber
 *.bombo
+*.bondy
 *.booknish
 *.BoooamCrypt
 *.boop
@@ -309,6 +313,7 @@ About_Files.txt
 *.cammora
 *.Cancer
 *.cap
+*.captcha
 *.carcn
 *.carlos
 *.carote
@@ -605,6 +610,7 @@ DECRYPT_ReadMe.TXT
 *.djvut
 *.djvuu
 *.dlenggrl
+*.dme
 *.dmo
 *.dmr64
 *.doc!
@@ -640,7 +646,7 @@ DECRYPT_ReadMe.TXT
 *.dtbc
 *.[dungeon]-0_0
 *.dusk
-*.Dusk!
+*.Dusk*
 *.dutan
 *.dviide
 *.DVPN
@@ -673,6 +679,7 @@ DECRYPT_ReadMe.TXT
 *.eight
 *.eject
 *.eking
+*.Elvis
 *.elvispresley
 *.eman50
 *.embrace
@@ -884,6 +891,7 @@ FILESAREGONE.TXT
 *.group
 *.grovas
 *.grovat
+*.gtsc
 *.guarded
 *.gusau
 *.GusCrypter
@@ -947,6 +955,7 @@ HELP_YOUR_FILES.TXT
 *.hese
 *.hex911
 *.H_F_D_locked
+*.Hidden
 *.HiddenTear
 *.hilda
 *.HildaCrypt
@@ -966,6 +975,7 @@ HELP_YOUR_FILES.TXT
 *.horseliker
 *.horsuke
 *.how
+*.howareyou
 _how_recover.txt
 howrecover+*.txt
 HOW_TO_DECRYPT_FILES.TXT
@@ -1032,6 +1042,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.isos
 *.israbye
 *.it
+*.ITTZN
 *.itunes
 *.I'WANT MONEY
 *.iwanttits
@@ -1050,6 +1061,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.javalocker
 *.jaythl
 *.JB88
+*.jdyi
 *.jeepers
 *.JeepersCrypt
 *.Jemd
@@ -1121,6 +1133,7 @@ jpa.*
 *.kkll
 *.klavins
 *.klope
+*.kmd
 *.kodc
 *.kodg
 *.KokoKrypt
@@ -1198,6 +1211,7 @@ jpa.*
 *.LockBox
 *.lock.browse.htm
 *.LockCrypt
+*.LockDown
 *.locked
 *.locked3dllkierff
 locked.*
@@ -1262,6 +1276,7 @@ _Locky_recover_instructions.txt
 *.maas
 *.MadBit
 *.maddog
+*.MadDog
 *.madek
 *.mado
 *.MAFIA
@@ -1313,6 +1328,7 @@ _Locky_recover_instructions.txt
 *.meka
 *.ment
 *.Mercury
+*.MERIN
 *.merl
 *.mers
 *.Mespinoza
@@ -1850,6 +1866,7 @@ SECRETIDHERE.KEY
 SECRET.KEY
 *.secure
 *.securityP
+*.see_read_me
 *.seed
 *.sell
 *.Seon
@@ -1942,6 +1959,7 @@ SECRET.KEY
 *.start
 *.sthd2
 *.stinger
+*.stj888
 *.stone
 *.stop
 *.stopdata
@@ -1970,6 +1988,7 @@ SECRET.KEY
 *.syss
 *.system
 *.SystemCrypter
+*.sz40
 *.SZFLocker
 *.Szymekk
 *.T1Happy
@@ -1991,6 +2010,7 @@ SECRET.KEY
 *.TellYouThePass
 *.teren
 *.TEREN
+*.termit
 *.Termite
 *.TeslaCrypt
 *.teslarvng
@@ -2131,6 +2151,7 @@ SECRET.KEY
 *.vrmrkz
 *.Vurten
 *.vusad
+*.vvoa
 *.vvv
 *.w7KFlkB
 *.waffle
@@ -2209,6 +2230,7 @@ SECRET.KEY
 *@xmpp.jp
 *.xmrlocker
 *.xncrypt
+*.XNMMP
 *.xolzsec
 *.XONIF
 *.xoza

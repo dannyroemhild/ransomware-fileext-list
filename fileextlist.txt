@@ -510,6 +510,7 @@ Coin.Locker.txt
 *.CULEX
 *.CURATOR
 *.curumim
+*.cvc
 *.cve
 *.c-vir
 *.cxk
@@ -586,6 +587,7 @@ DECRYPT_ReadMe.TXT
 *.devon
 *.devos
 *.dewar
+*.dex
 *.dexter
 *.dharma
 *.diablo6
@@ -679,6 +681,7 @@ DECRYPT_ReadMe.TXT
 *.eight
 *.eject
 *.eking
+*.ELDAOLSA
 *.Elvis
 *.elvispresley
 *.eman50
@@ -712,6 +715,7 @@ encryptor_raas_readme_liesmich.txt
 *.encS
 *.Enjey Crypter
 *.EnkripsiPC
+*.epor
 *.Erebus
 *.erenahen
 *.Erica
@@ -719,6 +723,7 @@ encryptor_raas_readme_liesmich.txt
 *.eris
 *.ESCAL*
 *.ES_HELPs
+*.esexz
 *.Estemani
 *.Eternal
 *.eTeRnItY
@@ -1075,6 +1080,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.JobCrypter
 *.JoeGo
 *.JohnnieWalker
+*.joker
 *.jope
 *.josep
 *.JosepCrypt
@@ -1201,6 +1207,7 @@ jpa.*
 *.litra
 *.LittleFinger
 *.live
+*.LIZARD
 *.LLTP
 *.lm
 *.LMAOxUS
@@ -1652,6 +1659,7 @@ MZReverenge*
 *.psafe
 *.PshCrypt
 *.pstKll
+*.pulpit
 *.pulsar1
 *.puma
 *.pumas
@@ -1689,6 +1697,7 @@ MZReverenge*
 *.qwex
 *_r00t_*
 *.R16M01D05
+*.r2block
 *.r3f5s
 *.R3K7M9
 *.r3store
@@ -1883,6 +1892,7 @@ SECRET.KEY
 *.SFile
 *.sfile2
 *.sfs
+*.sglh
 *.sgs911
 *.sgs911-*
 *.sguard
@@ -1954,6 +1964,7 @@ SECRET.KEY
 *.SQ_
 *.sqpc
 *.sr0yz
+*.sss
 *.Stampado
 *.stare
 *.start
@@ -1980,6 +1991,7 @@ SECRET.KEY
 *.suspended
 *.svn
 *.switch
+*.SWP
 *.SXS
 *.SynAck
 *.SyncCrypt
@@ -2293,6 +2305,7 @@ YOUR_FILES.url
 *.zilla
 *.zimba
 *.ZimbraCryptor
+*.ZIN
 *.ZinoCrypt
 *.ZipLocker
 *.Zipper
@@ -2306,6 +2319,7 @@ YOUR_FILES.url
 *.zphs
 *.zq
 *.zqde
+*.ZqVIkE
 *.zrb
 *.ZRB
 *.Zv7uN

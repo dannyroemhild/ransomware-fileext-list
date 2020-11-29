@@ -192,6 +192,7 @@ About_Files.txt
 *.bb4-230*
 *.bbawasted
 *.bboo
+*.bcBDBbAEDb
 *.BCCaEaadBA
 *.bclaw
 *.bd
@@ -1203,6 +1204,7 @@ jpa.*
 *.limbo
 *.lina
 *.Lion
+*.lisp
 *.litar
 *.litra
 *.LittleFinger
@@ -1935,6 +1937,7 @@ SECRET.KEY
 *.skynet
 *.skystars
 *.slank
+*.slgh
 *.smpl
 *.Smrss32
 *.snatch
@@ -2163,6 +2166,7 @@ SECRET.KEY
 *.vrmrkz
 *.Vurten
 *.vusad
+*.vvao
 *.vvoa
 *.vvv
 *.w7KFlkB

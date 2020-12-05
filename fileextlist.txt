@@ -587,6 +587,7 @@ DECRYPT_ReadMe.TXT
 *.devil
 *.devon
 *.devos
+*.devoscpu
 *.dewar
 *.dex
 *.dexter
@@ -912,6 +913,7 @@ FILESAREGONE.TXT
 *.hackdoor
 *.hacked
 *.hacker_decryption@protonmail.ch
+*.hacker*.data
 *.hacking
 *.hades666
 *.HadesLocker
@@ -1468,6 +1470,7 @@ MZReverenge*
 *.NMoreira
 *.nobad
 *.noblis
+*.NOBU
 *.nols
 *.Nomikon
 *.no_more_ransom
@@ -1556,6 +1559,7 @@ MZReverenge*
 *.paradox
 *.paradox!
 *.parrott
+*.partially.nocry
 *.pashka
 *.PA-SIEM
 *.pausa
@@ -1985,6 +1989,7 @@ SECRET.KEY
 *.Stupid
 *.suddentax
 *.suffer
+*.SUKA
 *.sun
 *.SunCrypt
 *.SuperB
@@ -2003,6 +2008,7 @@ SECRET.KEY
 *.syss
 *.system
 *.SystemCrypter
+*.SYTCO
 *.sz40
 *.SZFLocker
 *.Szymekk
@@ -2193,6 +2199,7 @@ SECRET.KEY
 *.weapologize
 *.wecanhlep
 *.week
+*.weiu
 *.werd
 *.Wesker
 *.WhatAFuck
@@ -2291,6 +2298,7 @@ YOUR_FILES.url
 *.ZaCaPa
 *.ZaLtOn
 *.ZariqaCrypt
+*.zasifrovano*
 *.zatrov
 *.zax
 *.zbw

@@ -761,6 +761,7 @@ encryptor_raas_readme_liesmich.txt
 *.fappy
 *.fastwind
 *.fat32
+*.FBSYW
 *.fbuvkngy
 *.fc
 *.fcfceee
@@ -1009,6 +1010,7 @@ IAMREADYTOPAY.TXT
 *.IEncrypt
 *.Ieph0uxo
 *.IFN643
+*.igdm
 *.iGotYou
 IHAVEYOURSECRET.KEY
 *.iiss
@@ -1026,6 +1028,7 @@ IHAVEYOURSECRET.KEY
 *.indrik
 *.InducVirus
 *.infected
+*.INFECTION
 *.infileshop@gmail_com_ID44
 *.InfiniteTear
 *.InfinityLock
@@ -2050,6 +2053,7 @@ SECRET.KEY
 *.thTC
 *.thunder
 *_TIME_IS_LIMITED
+*.TJMBK
 *.TJODT
 *.tl30z
 *.tmteam
@@ -2282,6 +2286,7 @@ SECRET.KEY
 *.yG
 *.ykcol
 *.ykup
+*.yoAD
 *.yolo
 *.YouAreFucked
 *.young

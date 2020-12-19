@@ -21,6 +21,7 @@
 *.1dec
 *.1dex
 *.2020
+*.2020END
 *.2048
 *.20dfs
 *.24H
@@ -122,6 +123,7 @@ About_Files.txt
 *.anonymous
 *.AnoymouS
 *.AnteFrigus
+*.Antivirus
 *.anubis
 *@aol.com
 *.apocalypse
@@ -263,6 +265,7 @@ About_Files.txt
 *.bomber
 *.bombo
 *.bondy
+*.booa
 *.booknish
 *.BoooamCrypt
 *.boop
@@ -795,6 +798,7 @@ FILESAREGONE.TXT
 *.FLKR
 *.flowencryption
 *.FLYU
+*.fmfgmfgm
 *.fonix
 *.foop
 *.foqe
@@ -1116,6 +1120,7 @@ jpa.*
 *.KawaiiLocker
 *.*KBK
 *.KCW
+*.KCWTT
 *.keepcalm
 *.kekw
 *.KENS@TUTA.IO
@@ -1404,6 +1409,7 @@ _Locky_recover_instructions.txt
 *.MrDec
 *.Mr-X666
 *.ms13
+*.msf
 *.msplt
 *.MTC
 *.mtogas
@@ -1521,6 +1527,7 @@ MZReverenge*
 *.OhNo!
 *.okokokokok
 *.omerta
+*.omfl
 *.OMG!
 *.oneway
 *.ONI
@@ -1754,6 +1761,7 @@ MZReverenge*
 *.RaRansomware
 *.RarVault
 *.RASTAKHIZ
+*.rastar
 *.ravack
 *.razor
 *.rbs
@@ -1956,6 +1964,7 @@ SECRET.KEY
 *.solo
 *.somik1
 *.sonic
+*.Sophos
 *.sorry
 *.sorryforthis
 *.spa

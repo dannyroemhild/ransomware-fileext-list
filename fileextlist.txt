@@ -13,6 +13,7 @@
 *.0x009d8a
 *.101
 *.111111
+*.16x
 *.1999
 *.1be018
 *.1beo18
@@ -24,6 +25,7 @@
 *.2020END
 *.2048
 *.20dfs
+*.21btc
 *.24H
 *.259
 *.2new
@@ -922,6 +924,7 @@ FILESAREGONE.TXT
 *.hacking
 *.hades666
 *.HadesLocker
+*.HaHaHaHaHaHaHaHa
 *.haka
 *.Hakbit
 *.Halloware
@@ -1014,6 +1017,7 @@ IAMREADYTOPAY.TXT
 *.IEncrypt
 *.Ieph0uxo
 *.IFN643
+*.igal
 *.igdm
 *.iGotYou
 IHAVEYOURSECRET.KEY
@@ -1076,6 +1080,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.javalocker
 *.jaythl
 *.JB88
+*.jcrypt
 *.jdyi
 *.jeepers
 *.JeepersCrypt
@@ -1237,6 +1242,7 @@ locked.*
 *.LockedByte
 *.locked_file
 *.lockedfile
+*.lockedv1
 *.Locked-In
 *.locker16
 *.LockerGoga
@@ -1326,6 +1332,7 @@ _Locky_recover_instructions.txt
 *.math
 *.MauriGo
 *.maxicrypt
+*.MaxSteel.*
 *.maya
 *.Maykolin
 *.maykolin1234@aol.com
@@ -1362,6 +1369,7 @@ _Locky_recover_instructions.txt
 *.micro
 *.middleman2020
 *.midwestsurinc
+*.mijnal
 *.mike
 *.mikoyan
 *.MindSystem
@@ -1847,6 +1855,7 @@ restorefiles.txt
 *.RSA-NI
 *.RSAUtil
 *.rt4block
+*.rtcrypted
 *.rubina5
 *.ruby
 *.rumba

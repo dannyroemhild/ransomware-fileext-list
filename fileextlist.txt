@@ -11,6 +11,7 @@
 *.0.vb
 *.0x0
 *.0x009d8a
+*.0x0M4R
 *.101
 *.111111
 *.16x
@@ -267,6 +268,7 @@ About_Files.txt
 *.bomber
 *.bombo
 *.bondy
+*.bonsoir
 *.booa
 *.booknish
 *.BoooamCrypt
@@ -1396,6 +1398,7 @@ _Locky_recover_instructions.txt
 *.mogranos
 *.moka
 *.mole
+*.moloch
 *.moncrypt
 *.money
 *.MongoLock
@@ -1970,6 +1973,7 @@ SECRET.KEY
 *.SNSLocker
 *.sntg
 *.SoFucked
+*.solaso
 *.solo
 *.somik1
 *.sonic
@@ -2337,6 +2341,7 @@ YOUR_FILES.url
 *.zhen
 *.zhen!
 *.zida
+*.ZIEBF_4561drgf
 *.zilla
 *.zimba
 *.ZimbraCryptor

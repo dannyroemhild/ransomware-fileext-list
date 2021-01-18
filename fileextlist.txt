@@ -14,6 +14,7 @@
 *.0x0M4R
 *.101
 *.111111
+*.14x
 *.16x
 *.1999
 *.1be018
@@ -128,6 +129,7 @@ About_Files.txt
 *.AnteFrigus
 *.Antivirus
 *.anubis
+*.aol
 *@aol.com
 *.apocalypse
 *.ApocalypseVM
@@ -271,6 +273,7 @@ About_Files.txt
 *.bonsoir
 *.booa
 *.booknish
+*.boom
 *.BoooamCrypt
 *.boop
 *.boost
@@ -392,6 +395,7 @@ Coin.Locker.txt
 *.contactus
 *.conti
 *.coom
+*.coos
 *.coot
 *.copa
 *.copan
@@ -1007,6 +1011,7 @@ Howto_Restore_FILES.TXT
 *.hrosa
 *.hrosas
 *.htrs
+*.hub
 *.Hucky
 *.Hydra
 *.HydraCrypt
@@ -1106,6 +1111,7 @@ jpa.*
 *.jsus
 *.jsworm
 *.jswrm
+*.judge
 *.JuicyLemon
 *.jungle@*
 *.JungleSec
@@ -1712,6 +1718,7 @@ MZReverenge*
 *.qewe
 *.qh24
 *.qkG
+*.qlkm
 *.qnbqw
 *.QP
 *@qq.com*

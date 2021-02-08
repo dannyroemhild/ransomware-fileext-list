@@ -1,6 +1,7 @@
 *.#
 *.~~~~
 *.$anta
+*.@LyDarkr
 *.0000
 *.0.cs
 *.0D34E0
@@ -409,6 +410,7 @@ Coin.Locker.txt
 *.corrupt
 *.CorruptCrypt
 *.cosakos
+*.cosd
 *.Cossy
 *.cov19
 *.covid
@@ -504,6 +506,7 @@ Coin.Locker.txt
 *.CryptoWall
 *.cryptowin
 *.CryptoWire
+*.CryptPethya
 *.cryptwalker
 *.CryptXXX
 *.CryPy
@@ -518,6 +521,7 @@ Coin.Locker.txt
 *.ctrlalt*
 *.cuba
 *.cube
+*.Cukiesi
 *.culex
 *.CULEX
 *.CURATOR
@@ -589,6 +593,7 @@ DECRYPT_ReadMe.TXT
 *.Deniz_kizi
 *.DeriaLock
 *.derp
+*.DERZKO
 *.destroy.executioner
 *.desu
 *.desync
@@ -610,6 +615,7 @@ DECRYPT_ReadMe.TXT
 *.DilmaLocker
 *.__dilmaV1
 *.__r4gN4r*
+*._enc
 *._encrypted
 *.DirtyDecrypt
 *.Dishwasher
@@ -711,6 +717,7 @@ DECRYPT_ReadMe.TXT
 *.encoderpass
 *.encr
 *.enc_robbinhood
+*.EnCryp13d
 *.encrypt
 *.encrypted
 *.encrypted*
@@ -1295,6 +1302,7 @@ _Locky_recover_instructions.txt
 *.ltml
 *.luceq
 *.luces
+*.lucifer
 *.luckyday
 *.lukitus
 *.Lulz
@@ -1380,6 +1388,7 @@ _Locky_recover_instructions.txt
 *.mijnal
 *.mike
 *.mikoyan
+*.MILIHPEN
 *.MindSystem
 *.Minotaur
 *.mira
@@ -1508,6 +1517,7 @@ MZReverenge*
 *.NotAHero
 *._not_a_joke
 *.notfound
+*.NOV
 *.novasof
 *.npph
 *.nppp
@@ -1634,6 +1644,7 @@ MZReverenge*
 *.pizhon-*
 *.plague17-*
 *.Plague17
+*.plam
 *.planetary
 *.plant
 *.plex
@@ -1644,6 +1655,7 @@ MZReverenge*
 *@pm.me*
 *.po1hg
 *.PoisonFang
+*.pola
 *.PonyFinal
 *.poolezoor
 *.poop
@@ -2331,6 +2343,7 @@ YOUR_FILES.url
 *.z9
 *.ZaCaPa
 *.ZaLtOn
+*.zaplat.*
 *.ZariqaCrypt
 *.zasifrovano*
 *.zatrov
@@ -2362,6 +2375,7 @@ YOUR_FILES.url
 *.Zoldon
 *.zoro
 *.zorro
+*.ZoToN
 *_ZOSTA
 *.zphs
 *.zq

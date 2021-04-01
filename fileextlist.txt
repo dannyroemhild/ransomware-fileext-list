@@ -288,6 +288,7 @@ About_Files.txt
 *.boruta
 *.boston
 *.bot
+*.bqd2
 *.braincrypt
 *.Brazilian
 *.bRcrypT
@@ -317,6 +318,7 @@ About_Files.txt
 *.c0hen
 *.c1h
 *.C4H
+*.cadq
 *.cago
 *.caleb
 *.caley
@@ -363,6 +365,7 @@ About_Files.txt
 *.clean
 *.ClicoCrypter
 *.clinton
+*.clman
 *.clop
 *.cloud
 *.Clouded
@@ -700,6 +703,7 @@ DECRYPT_ReadMe.TXT
 *.eight
 *.eject
 *.eking
+*.ekvf
 *.ELDAOLSA
 *.Elvis
 *.elvispresley
@@ -821,6 +825,7 @@ FILESAREGONE.TXT
 *.forasom
 *.fordan
 *.format
+*.four
 *.fox
 *.fredd
 *.FreeMe
@@ -941,6 +946,7 @@ FILESAREGONE.TXT
 *.haka
 *.Hakbit
 *.Halloware
+*.HANTA
 *.harma
 *.haters
 *.hbdalna
@@ -1065,6 +1071,7 @@ IHAVEYOURSECRET.KEY
 INSTRUCCIONES_DESCIFRADO.TXT
 *.Ipcrestore
 *.ipm
+*.IQ_IQ
 *.iqy
 *.iRansom
 *.Iron
@@ -1572,6 +1579,7 @@ MZReverenge*
 *.OpenToYou
 *.OpJerusalem
 *.opqz
+*.oral
 *.ordinal
 *.Ordinypt
 *.origami
@@ -1599,6 +1607,7 @@ MZReverenge*
 *.partially.nocry
 *.pashka
 *.PA-SIEM
+*.pauq
 *.pausa
 *.paxynok
 *.pay2me
@@ -1615,6 +1624,7 @@ MZReverenge*
 *.PClock
 *.pdff
 *.PEC
+*.pecunia
 *.pedant
 *.pedro
 *.peekaboo
@@ -1783,9 +1793,11 @@ MZReverenge*
 *.RansomMine
 *.Ransomnix
 *.RansomPlus
+*.RansomTrojanLock
 *_ransomware!_
 *.ransomwared
 *.RansomWarrior
+*.RANZYLOCKED
 *@rape.lol*
 *.rapid
 *.RaRansomware
@@ -1850,6 +1862,7 @@ restorefiles.txt
 *.rhino
 *.rhmlm
 *.RHMLM
+*.ribd
 *.ridik
 *.righ
 *.rjali@protonmail.ch
@@ -1988,6 +2001,7 @@ SECRET.KEY
 *.Smrss32
 *.snatch
 *.snc
+*.Snoopdoog
 *.SNPDRGN
 *.SNSLocker
 *.sntg
@@ -2052,6 +2066,7 @@ SECRET.KEY
 *.syss
 *.system
 *.SystemCrypter
+*.systems32x
 *.SYTCO
 *.sz40
 *.SZFLocker
@@ -2163,6 +2178,7 @@ SECRET.KEY
 *unluckyware*
 *.unwa
 *.UPS-*
+*.urs
 *.usa
 *.usam
 *.Useless
@@ -2181,6 +2197,7 @@ SECRET.KEY
 *.vapor
 *.vari
 *.vash
+*.vassago
 *.vault
 *.VaultCrypt
 *.vavc2

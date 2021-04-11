@@ -3,6 +3,7 @@
 *.$anta
 *.@LyDarkr
 *.0000
+*.03rK
 *.0.cs
 *.0D34E0
 *.0day
@@ -39,6 +40,7 @@
 *.46d7k
 *.46orz
 *.4k
+*.4o4
 *.4rg-d4m-rs6
 *.4rw5w
 *.4rwcry4w
@@ -183,6 +185,7 @@ About_Files.txt
 *.BadEncript
 *.bado
 *.BadRabbit
+*.bagli
 *.bananaCrypt
 *.BandarChor
 *.bang
@@ -207,6 +210,7 @@ About_Files.txt
 *.bddy
 *.bdkr
 *.BD.Recovery
+*.beaf
 *.beer
 *.beethoven
 *.beets
@@ -521,6 +525,7 @@ Coin.Locker.txt
 *.CTB-Faker
 *.CTBL
 *.CTB-Locker
+*.ctpl
 *.ctrlalt*
 *.cuba
 *.cube
@@ -551,6 +556,7 @@ Coin.Locker.txt
 *.dan@cock.email
 *.danger
 *.daris
+*.dark
 *.DarkoderCryptor
 *.darus
 *.data
@@ -721,6 +727,7 @@ DECRYPT_ReadMe.TXT
 *.encoderpass
 *.encr
 *.enc_robbinhood
+*.encrpt3d
 *.EnCryp13d
 *.encrypt
 *.encrypted
@@ -790,6 +797,7 @@ encryptor_raas_readme_liesmich.txt
 *.FCP
 *.fcrypt
 *.FCT
+*.fdcz
 *.fdfk
 *.FDFK22
 *FDFK*INFO*
@@ -868,6 +876,7 @@ FILESAREGONE.TXT
 *.ge0l0gic
 *.gefest
 *.gehad
+*.gehenna
 *.gembok
 *.geminis3
 *.GEnc
@@ -893,6 +902,7 @@ FILESAREGONE.TXT
 *.GlobeImposter
 *.Globeimposter-Alpha865qqz
 *.GlobeimposterAlpha865qqz
+*.glock
 *.GlUtEzOn.VaNoLe
 *@gmail.com
 *.gman
@@ -1250,6 +1260,7 @@ jpa.*
 *.LLTP
 *.lm
 *.LMAOxUS
+*.lmas
 *.lO8s42
 *.Lock2017
 *.lock2bits
@@ -2178,6 +2189,7 @@ SECRET.KEY
 *unluckyware*
 *.unwa
 *.UPS-*
+*.urnb
 *.urs
 *.usa
 *.usam
@@ -2277,6 +2289,7 @@ SECRET.KEY
 *.WininiCrypt
 *.Winnix
 *.WinRarer
+*.wintenzz
 *.wlu
 *.wncry
 *.wncrypt
@@ -2353,6 +2366,7 @@ YOUR_FILES.url
 *.yourhope*
 *.your_last_chance
 *.YOURPCISHACK16024752552658
+*.ytbn
 *.yum
 *.YYYYBJQOQDU
 *.z3enc

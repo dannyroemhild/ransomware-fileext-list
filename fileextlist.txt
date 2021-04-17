@@ -352,6 +352,7 @@ About_Files.txt
 *.cezor
 *.charck
 *.charcl
+*.charlie.j0hnson
 *.charmant
 *.chch
 *.chech
@@ -396,6 +397,7 @@ Coin.Locker.txt
 *.colorit
 *.com2
 *.combo
+*.combo13
 *.commonransom
 *.comrade
 *.conficker
@@ -929,6 +931,7 @@ FILESAREGONE.TXT
 *.GPAA
 *.GPCode
 *.GPGQwerty
+*.graysuit
 *.grinch
 *.group
 *.grovas
@@ -2067,6 +2070,7 @@ SECRET.KEY
 *support@lzt.design*
 *.suspended
 *.svn
+*.swagkarna
 *.switch
 *.SWP
 *.SXS
@@ -2303,6 +2307,7 @@ SECRET.KEY
 *.WORMCRYPT0R
 *.wrar
 *.write
+*.wrui
 *.wshlp
 *.WSmile
 *.wtdi

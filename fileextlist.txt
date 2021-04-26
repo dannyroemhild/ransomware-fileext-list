@@ -29,6 +29,7 @@
 *.2020END
 *.2048
 *.20dfs
+*.2122
 *.21btc
 *.24H
 *.259
@@ -215,6 +216,7 @@ About_Files.txt
 *.beethoven
 *.beets
 *.beijing
+*.BENTLEY
 *.berost
 *.berosuce
 *.best
@@ -304,6 +306,7 @@ About_Files.txt
 *.btc
 *.BTCamant
 *.BtcKING
+*.btCry_zip
 *.btcware
 *.btHTlb
 *.btix
@@ -893,11 +896,13 @@ FILESAREGONE.TXT
 *.GetCrypt
 *.getrekt
 *.GFS
+*.GFYPK
 *.GhostCrypt
 *.GhostHammer
 *.Gibberish
 *.Gibon
 *.gillette
+*.givemenitro
 *gladius
 *.*GLADIUS
 *.Globe3
@@ -1031,6 +1036,7 @@ How_To_Recover_Files.txt
 howto_recover_file.txt
 HowtoRestore_FILES.txt
 Howto_Restore_FILES.TXT
+*.HPJ
 *.hr
 *.HR
 *.hrm
@@ -1613,6 +1619,7 @@ MZReverenge*
 *.pack14
 *.pain
 *.pandemic
+*.pandora
 *.panther
 *.Paradise
 *.paradox

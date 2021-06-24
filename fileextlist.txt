@@ -680,6 +680,7 @@ DECRYPT_ReadMe.TXT
 *.dsec
 *.dtbc
 *.[dungeon]-0_0
+*.ducky
 *.dusk
 *.Dusk*
 *.dutan
@@ -784,6 +785,7 @@ encryptor_raas_readme_liesmich.txt
 *.Extortion
 *.Extractor
 *.exx
+*.eye
 *.ezdz
 *.ezz
 *.f41o1
@@ -807,6 +809,7 @@ encryptor_raas_readme_liesmich.txt
 *.FDFK22
 *FDFK*INFO*
 *.fedasot
+*.FEEDC
 *.felix
 *.FenixLocker
 *.Fenrir
@@ -928,6 +931,7 @@ FILESAREGONE.TXT
 *.GoldenEye
 *.Gomasom
 *.gomer
+*.GoNNaCry
 *.good
 *.goofed
 *.GoRansom
@@ -999,6 +1003,7 @@ HELP_RESTORE_FILES.txt
 HELP_TO_DECRYPT_YOUR_FILES.txt
 HELP_TO_SAVE_FILES.txt
 HELP_YOUR_FILES.TXT
+*.henry217
 *.herad
 *.hermes666
 *.hermes837
@@ -1058,6 +1063,7 @@ IAMREADYTOPAY.TXT
 *.IFN643
 *.igal
 *.igdm
+*.igvm
 *.iGotYou
 IHAVEYOURSECRET.KEY
 *.iiss
@@ -1252,6 +1258,7 @@ jpa.*
 *.leto
 *.lexei8bo
 *.lezp
+*.LGNLCKD
 *.LIGHTNING
 *.LightningCrypt
 *.like
@@ -1428,6 +1435,7 @@ _Locky_recover_instructions.txt
 *.mmm
 *.mmnn
 *.mmpa
+*.MMTA
 *.mmteam
 *.mnbzr
 *.Mnd4
@@ -1560,6 +1568,7 @@ MZReverenge*
 *.NullByte
 *.numberdot
 *.nusar
+*.nusm
 *.nvetud
 *.nwa
 *.Nx
@@ -1626,6 +1635,7 @@ MZReverenge*
 *.paradox!
 *.parrott
 *.partially.nocry
+*.PARTY
 *.pashka
 *.PA-SIEM
 *.pauq
@@ -1638,11 +1648,13 @@ MZReverenge*
 *.payforunlock
 *.PAY_IN_MAXIM_24_HOURS_OR_ALL_YOUR_FILES_WILL_BE_PERMANENTLY_DELETED_PLEASE_BE_REZONABLE_you_have_only_1_single_chance_to_make_the_payment
 *.payload
+*.PAYLOADBIN
 *.payman
 *.Paymen45
 *.PayPalGenerator2019
 *.PaySafeGen
 *.PClock
+*.pcqq
 *.pdff
 *.PEC
 *.pecunia
@@ -1858,6 +1870,7 @@ RECOVERY_KEY.txt
 *.refols
 *.reha
 *.reimageplus
+*.rejg
 *.rekensom
 *.rekt
 *.REKTLocker
@@ -1899,6 +1912,7 @@ restorefiles.txt
 *.rontok
 *.rooster865qq
 *.rooster865qqz
+*.root
 *.RoshaLock
 *.rote
 *.RotorCrypt
@@ -1945,6 +1959,7 @@ restorefiles.txt
 *.save
 *.saved
 *.savefiles
+*.saverswasted
 *.savethequeen
 *.savethequeening
 *.sblock

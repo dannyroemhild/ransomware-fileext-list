@@ -14,6 +14,7 @@
 *.0x0
 *.0x009d8a
 *.0x0M4R
+*.0xxx
 *.101
 *.111111
 *.14x
@@ -367,6 +368,7 @@ About_Files.txt
 *.ChineseRarypt
 *.choda
 *.chuk
+*.ChupaCabra
 *.cifgksaffsfyghd
 *.ciop
 *.cipher
@@ -577,6 +579,7 @@ Coin.Locker.txt
 *.Dcry
 *.dd
 *.ddos
+*.ddsg
 *.deadfiles
 *.Deadly
 *.deadmin
@@ -1097,6 +1100,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.Ipcrestore
 *.ipm
 *.IQ_IQ
+*.iqll
 *.iqy
 *.iRansom
 *.Iron
@@ -1440,6 +1444,7 @@ _Locky_recover_instructions.txt
 *.mnbzr
 *.Mnd4
 *.MNS
+*.mo2
 *.mo7n
 *.moba
 *.Mobef
@@ -1494,6 +1499,7 @@ MZReverenge*
 *.NanoLocker
 *.napoleon
 *.nasoh
+*.nat
 *.navi
 *.nbes
 *.ncov
@@ -1515,6 +1521,7 @@ MZReverenge*
 *.NEPHILIM
 *.neptune
 *.neras
+*.nermer
 *.nesa
 *.net
 *.NETCrypton
@@ -1536,6 +1543,7 @@ MZReverenge*
 *.nlocker
 *.nm4
 *.nm8kci
+*.nmc
 *.nmcrypt!
 *.NMoreira
 *.nobad
@@ -1841,6 +1849,7 @@ MZReverenge*
 *.razor
 *.rbs
 *.RDM
+*.rdp
 *.RE78P
 ReadDecryptFilesHere.txt
 *.readinstructions
@@ -1864,6 +1873,7 @@ RECOVERY_KEY.txt
 *.rectot
 *.red
 *.RedBoot
+*.reddot
 *.redeye
 *.redmat
 *.redrum
@@ -2037,6 +2047,7 @@ SECRET.KEY
 *.Smrss32
 *.snatch
 *.snc
+*.snoopdog
 *.Snoopdoog
 *.SNPDRGN
 *.SNSLocker
@@ -2062,9 +2073,11 @@ SECRET.KEY
 *.spg
 *.sphinx
 *.spybuster
+*.Spyro
 *.SQ_
 *.sqpc
 *.sr0yz
+*.sspq
 *.sss
 *.Stampado
 *.stare
@@ -2225,6 +2238,7 @@ SECRET.KEY
 *.uta
 *.uudjvu
 *.Uyari
+*.v-society
 *.V8Locker
 *.vaca
 *.vacv2
@@ -2416,6 +2430,7 @@ YOUR_FILES.url
 *.zeronine
 *.ZeroRansom
 *.zes
+*.ZEUS
 *.zhen
 *.zhen!
 *.zida

@@ -606,6 +606,7 @@ DECRYPT_ReadMe.TXT
 *.Defray
 *.Defray777
 *.*-DELETED-FOREVER
+*.delta
 *.demon
 *.Deniz_kizi
 *.DeriaLock
@@ -936,6 +937,7 @@ FILESAREGONE.TXT
 *.gomer
 *.GoNNaCry
 *.good
+*.GoodMorning
 *.goofed
 *.GoRansom
 *.gore
@@ -1021,6 +1023,7 @@ HELP_YOUR_FILES.TXT
 *.hilda
 *.HildaCrypt
 *.himr
+*.hive
 *.HKCrypt
 *.hnx911
 *.hofos
@@ -1256,6 +1259,7 @@ jpa.*
 *.ldpr
 *.LeChiffre
 *.leen
+*.leex
 *.legacy
 *.leon
 *.leph0uxo
@@ -1423,6 +1427,7 @@ _Locky_recover_instructions.txt
 *.micro
 *.middleman2020
 *.midwestsurinc
+*.miis
 *.mijnal
 *.mike
 *.mikoyan
@@ -1472,6 +1477,7 @@ _Locky_recover_instructions.txt
 *.MoWare
 *.mpaj
 *.mpal
+*.mppq
 *.MrDec
 *.Mr-X666
 *.ms13
@@ -1507,6 +1513,7 @@ MZReverenge*
 *.ndarod
 *.ndpyhss
 *.nebupa
+*.neer
 *.nef1lim
 *.nefilim
 *.NegozI
@@ -1634,6 +1641,7 @@ MZReverenge*
 *.pabluk300CrYpT!
 *.pablukCRYPT
 *.pack14
+*.pahd
 *.pain
 *.pandemic
 *.pandora
@@ -1691,6 +1699,7 @@ MZReverenge*
 *.pidom
 *.pidon
 *.pigzqbqnvbu
+*.piiq
 *.piny
 *.pizhon-*
 *.plague17-*
@@ -1706,6 +1715,7 @@ MZReverenge*
 *@pm.me*
 *.po1hg
 *.PoisonFang
+*.poker
 *.pola
 *.PonyFinal
 *.poolezoor
@@ -1719,6 +1729,7 @@ MZReverenge*
 *.pox
 *.ppdddp
 *.PPHL
+*.pr09
 *.pr0lock
 *.pr0Lock
 *.Pr0tector
@@ -2041,6 +2052,7 @@ SECRET.KEY
 *.skymap
 *.skynet
 *.skystars
+*.SLAM
 *.slank
 *.slgh
 *.smpl
@@ -2435,6 +2447,7 @@ YOUR_FILES.url
 *.zhen!
 *.zida
 *.ZIEBF_4561drgf
+*.zig
 *.zilla
 *.zimba
 *.ZimbraCryptor

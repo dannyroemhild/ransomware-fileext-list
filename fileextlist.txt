@@ -166,6 +166,7 @@ About_Files.txt
 *.AVCrypt
 *.avdn
 *.Avest
+*.avos
 *.AW46
 *.awt
 *.AxCrypter
@@ -1339,6 +1340,7 @@ _Locky_recover_instructions.txt
 *.lovewindows
 *.loveyouisreal
 *.LowLevel04
+*.lowprice
 *.lr
 *.LSOBKMHG
 *.ltml
@@ -1556,6 +1558,7 @@ MZReverenge*
 *.nobad
 *.noblis
 *.NOBU
+*.nohope
 *.nols
 *.Nomikon
 *.no_more_ransom
@@ -1720,6 +1723,7 @@ MZReverenge*
 *.PonyFinal
 *.poolezoor
 *.poop
+*.poor
 *.PopCornTime
 *.popotic
 *.popoticus
@@ -2287,6 +2291,7 @@ SECRET.KEY
 *.VindowsLocker
 *.vivelag
 *.VMola
+*.vn_os
 *.void
 *.VoidCrypt
 *.volcano
@@ -2361,6 +2366,7 @@ SECRET.KEY
 *.wtdi
 *.Wulfric
 *.wvtr0
+*.wwka
 *.x0lzs3c
 *.x1881
 *.x3
@@ -2466,6 +2472,7 @@ YOUR_FILES.url
 *.zphs
 *.zq
 *.zqde
+*.zqqw
 *.ZqVIkE
 *.zrb
 *.ZRB
@@ -2474,6 +2481,7 @@ YOUR_FILES.url
 *.zxcv
 *.ZyNoXiOn
 *.Zyr
+*.zzla
 *.zzz
 *.zzz12
 *.zzzzz

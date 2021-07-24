@@ -947,6 +947,7 @@ FILESAREGONE.TXT
 *.GPCode
 *.GPGQwerty
 *.graysuit
+*.grej
 *.grinch
 *.group
 *.grovas
@@ -1019,6 +1020,7 @@ HELP_YOUR_FILES.TXT
 *.hese
 *.hex911
 *.H_F_D_locked
+*.hhqa
 *.Hidden
 *.HiddenTear
 *.hilda
@@ -1081,6 +1083,7 @@ IHAVEYOURSECRET.KEY
 *.impect
 *.improved
 *.Ims00ry
+*.Imshifau
 *.imsorry
 *.inchin
 *@india.com
@@ -1449,6 +1452,7 @@ _Locky_recover_instructions.txt
 *.MMTA
 *.mmteam
 *.mnbzr
+*.mnc
 *.Mnd4
 *.MNS
 *.mo2
@@ -1467,6 +1471,7 @@ _Locky_recover_instructions.txt
 *.montana
 *.Montserrat
 *.MoonCrypter
+*.moqs
 *.mordor
 *.moresa
 *.MorrisBatchCrypt
@@ -1493,6 +1498,7 @@ _Locky_recover_instructions.txt
 *.mwahah*
 *.mwahahah
 *.myblacksun@tuta.io
+*.myday
 *.myskle
 *.Mystic
 *.mz173801

@@ -91,6 +91,7 @@ About_Files.txt
 *.AES_KEY_GEN_ASSIST
 *.AES-Matrix
 *.aes_ni_0day
+*.aeur
 *.Afrodita
 *.ag88g
 *.AG88G
@@ -642,6 +643,7 @@ DECRYPT_ReadMe.TXT
 *.disposed2017
 *.District
 *.divine
+*.Divinity
 *.djang0unchain3d
 *.djvu
 *.djvuq
@@ -799,6 +801,7 @@ encryptor_raas_readme_liesmich.txt
 *.Fadesoft
 *.FailedAccess
 *.fairytale
+*.FancyLeaks
 *.fappy
 *.fastwind
 *.fat32
@@ -878,6 +881,7 @@ FILESAREGONE.TXT
 *.game
 *.GandCrab
 *.GandCrab2
+*.GanP
 *.garantydecrypt
 *.garminwasted
 *.garrantydecrypt
@@ -954,6 +958,7 @@ FILESAREGONE.TXT
 *.grovat
 *.gtsc
 *.guarded
+*.guer
 *.gusau
 *.GusCrypter
 *.guvara
@@ -992,6 +997,7 @@ FILESAREGONE.TXT
 *._HE
 *.heets
 *.Heimdall
+*.Hela
 *.hellomynameisransom
 HELLOTHERE.TXT
 *.Hells
@@ -1495,6 +1501,7 @@ _Locky_recover_instructions.txt
 *.mtxlock
 *.muhstik
 *.muslat
+*.muuq
 *.mwahah*
 *.mwahahah
 *.myblacksun@tuta.io
@@ -1569,6 +1576,7 @@ MZReverenge*
 *.Nomikon
 *.no_more_ransom
 *.non
+*.nooa
 *.noos
 *.norvas
 *.nostro
@@ -1670,6 +1678,7 @@ MZReverenge*
 *.payb
 *.paycoin
 *.payday
+*.payfast500
 *.payforunlock
 *.PAY_IN_MAXIM_24_HOURS_OR_ALL_YOUR_FILES_WILL_BE_PERMANENTLY_DELETED_PLEASE_BE_REZONABLE_you_have_only_1_single_chance_to_make_the_payment
 *.payload
@@ -1973,6 +1982,7 @@ restorefiles.txt
 *.safe
 *@safetyjabber.com
 *.SaherBlueEagleRansomware
+*.salma
 *.Salsa
 *.sambo
 *.SamSam
@@ -2347,6 +2357,7 @@ SECRET.KEY
 *wifi*hacker*
 *.wiki
 *.WildFire
+*.Win
 *.WINDIE
 *.windows
 *.WininiCrypt

@@ -1046,6 +1046,7 @@ HELP_YOUR_FILES.TXT
 *.horsedeal
 *.horseleader
 *.horseliker
+*.HORSEMONEY
 *.horsuke
 *.how
 *.howareyou
@@ -1164,6 +1165,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.JosepCrypt
 jpa.*
 *.jpg.js*
+*.JRP
 *.jsus
 *.jsworm
 *.jswrm
@@ -1919,9 +1921,11 @@ RECOVERY_KEY.txt
 *.RemindMe
 *.remk
 *.RenLocker
+*.repg
 *.repl
 *.repp
 *.repter
+*.reqg
 restorefiles.txt
 *.restoreserver
 *.resurrection

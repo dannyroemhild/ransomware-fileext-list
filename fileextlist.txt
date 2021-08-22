@@ -157,6 +157,7 @@ About_Files.txt
 *.artilkilin@tuta.io.wq2k
 *.asasin
 *.ASN1
+*.AstraLocker
 *.asus
 *.Ataware
 *.Atchbo
@@ -326,6 +327,7 @@ About_Files.txt
 *.burn
 *.bwall
 *.c0hen
+*.c0v
 *.c1h
 *.C4H
 *.cadq
@@ -1315,6 +1317,7 @@ locked.*
 *.Locked-In
 *.locker16
 *.LockerGoga
+*.lockfile
 *.lockon
 *.LockTaiwan
 *.locky
@@ -1383,6 +1386,7 @@ _Locky_recover_instructions.txt
 *@mail.com.mkmk
 *.makkonahi
 *.makop
+*.MALKI
 *.malwarehunterteam
 *.MalwareTech*
 *.mamba

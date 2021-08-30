@@ -376,6 +376,7 @@ About_Files.txt
 *.cifgksaffsfyghd
 *.ciop
 *.cipher
+*.clay
 *.clean
 *.ClicoCrypter
 *.clinton
@@ -642,7 +643,7 @@ DECRYPT_ReadMe.TXT
 *.DirtyDecrypt
 *.Dishwasher
 *.DiskDoctor
-*.disposed2017
+*.dispf*osed2017
 *.District
 *.divine
 *.Divinity
@@ -688,6 +689,7 @@ DECRYPT_ReadMe.TXT
 *.DS335
 *.dsec
 *.dtbc
+*.DTS
 *.[dungeon]-0_0
 *.ducky
 *.dusk
@@ -1355,6 +1357,7 @@ _Locky_recover_instructions.txt
 *.loveyouisreal
 *.LowLevel04
 *.lowprice
+*.lqqw
 *.lr
 *.LSOBKMHG
 *.ltml
@@ -1651,6 +1654,7 @@ MZReverenge*
 *.Ordinypt
 *.origami
 *.orion
+*.orkf
 *.osiris
 *.osnoed
 *.ouchachia
@@ -1997,6 +2001,7 @@ restorefiles.txt
 *.Sanctions
 *.sanders4
 *.santa
+*.sanwai
 *.sapphire
 *.saramat
 *.sars-cov-2
@@ -2145,6 +2150,7 @@ SECRET.KEY
 *support@lzt.design*
 *.suspended
 *.svn
+*.svyx
 *.swagkarna
 *.switch
 *.SWP

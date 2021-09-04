@@ -50,6 +50,7 @@
 *.5ss5c
 *.666
 *.6be31
+*.6ix9
 *.7303yt
 *.777
 *.7ev3n
@@ -716,6 +717,7 @@ DECRYPT_ReadMe.TXT
 *.EdgeLocker
 *.EduCrypt
 *.eduransom
+*.efdc
 *.efji
 *.eg
 *.EG
@@ -1062,6 +1064,7 @@ howto_recover_file.txt
 HowtoRestore_FILES.txt
 Howto_Restore_FILES.TXT
 *.HPJ
+*.HQ_52_42
 *.hr
 *.HR
 *.hrm
@@ -1709,6 +1712,7 @@ MZReverenge*
 *.Pendor
 *.pennywise
 *.pepe
+*.PERDAK
 *.persephone666
 *.peta
 *.pethya*
@@ -1985,6 +1989,7 @@ restorefiles.txt
 *.Russian
 *.rxx
 *.ryk
+*.RZA
 *.RZsGKi
 *.s996
 *.sad
@@ -2176,6 +2181,7 @@ SECRET.KEY
 *.tax
 *.tcprx
 *.tcwwasted
+*.TCYO
 *.tdelf
 *.team
 *.teamo

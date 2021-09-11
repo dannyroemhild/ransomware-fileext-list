@@ -489,6 +489,7 @@ Coin.Locker.txt
 *.crypted000007
 *.crypted034
 *.CryptedOpps
+*.CRYPTEDPAY
 *.cryptedx
 *.cryptes
 *.CryptFuck
@@ -1958,6 +1959,7 @@ restorefiles.txt
 *.rjali@protonmail.ch
 *.rlhwasted
 *.rlhwasted_info
+*.RME
 *.RNZ
 *.robinhood
 *.Roga

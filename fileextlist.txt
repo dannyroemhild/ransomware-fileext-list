@@ -163,6 +163,7 @@ About_Files.txt
 *.Ataware
 *.Atchbo
 *.atlas
+*.ATOMSILO
 *.audit
 *.AutoLocky
 *.AutoWannaCryV2
@@ -1146,6 +1147,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.Jager
 *.*jalicry*
 *.james
+*_jamesbond
 *.jamper
 *.JapanLocker
 *.javaencrypt
@@ -2386,6 +2388,7 @@ SECRET.KEY
 *.Winnix
 *.WinRarer
 *.wintenzz
+*.wiot
 *.wlu
 *.wncry
 *.wncrypt
@@ -2465,6 +2468,7 @@ YOUR_FILES.url
 *.your_last_chance
 *.YOURPCISHACK16024752552658
 *.ytbn
+*.yUixN
 *.yum
 *.YYYYBJQOQDU
 *.z3enc

@@ -1200,6 +1200,7 @@ jpa.*
 *.katyusha
 *.KawaiiLocker
 *.*KBK
+*.kcry
 *.KCW
 *.KCWTT
 *.keepcalm
@@ -1238,6 +1239,7 @@ jpa.*
 *.Kolobo
 *.kolz
 *.kook
+*.koom
 *.korea
 *.koreaGame
 *.koti
@@ -1834,6 +1836,7 @@ MZReverenge*
 *@qq.com*
 *.qrja
 *.QuakeWay
+*.quantum
 *.Quimera
 *.qwerty
 *.QwertyCrypt
@@ -1921,6 +1924,7 @@ RECOVERY_KEY.txt
 *.red
 *.RedBoot
 *.reddot
+*.redeem
 *.redeye
 *.redmat
 *.redrum
@@ -2453,6 +2457,7 @@ SECRET.KEY
 *@yahoo.com
 *@yahoo.com.cryptotes
 *.yakuza
+*.yandex
 *.yarraq
 *.ydhm
 *.yG

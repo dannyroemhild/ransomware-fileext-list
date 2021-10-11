@@ -171,6 +171,7 @@ About_Files.txt
 *.avdn
 *.Avest
 *.avos
+*.avos2
 *.AW46
 *.awt
 *.AxCrypter
@@ -183,6 +184,7 @@ About_Files.txt
 *.b2fr
 *.babaxed
 *.babaxed!
+*.babyduck
 *.back
 *.bad
 *.BadBlock
@@ -323,6 +325,7 @@ About_Files.txt
 *.budak
 *.bufas
 *.bug
+*.bugs
 *.bugware
 *.builder
 *.bukyak
@@ -372,6 +375,7 @@ About_Files.txt
 *.china
 *.ChinaYunLong
 *.ChineseRarypt
+*.chld
 *.choda
 *.chuk
 *.ChupaCabra
@@ -1190,9 +1194,11 @@ jpa.*
 *.jyqji
 *.k
 *.Kaenlupuf
+*.Karen
 *.karl
 *.karls
 *.Karma
+*.KARMA_V2
 *.Karmen
 *.Karo
 *.Kasiski
@@ -1493,6 +1499,7 @@ _Locky_recover_instructions.txt
 *.MongoLock
 *.montana
 *.Montserrat
+*.MOON
 *.MoonCrypter
 *.moqs
 *.mordor
@@ -1590,6 +1597,7 @@ MZReverenge*
 *.NOBU
 *.nohope
 *.nols
+*.nomad
 *.Nomikon
 *.no_more_ransom
 *.non
@@ -1608,6 +1616,7 @@ MZReverenge*
 *.npsg
 *.npsk
 *.nqix
+*.nqsq
 *.NSB
 *.ntuseg
 *.nuclear
@@ -1751,6 +1760,7 @@ MZReverenge*
 *.pluto
 *@pm.me*
 *.po1hg
+*.poison
 *.PoisonFang
 *.poker
 *.pola
@@ -1961,6 +1971,7 @@ restorefiles.txt
 *.RHMLM
 *.ribd
 *.ridik
+*.rigd
 *.righ
 *.rjali@protonmail.ch
 *.rlhwasted
@@ -2029,6 +2040,7 @@ restorefiles.txt
 *.saverswasted
 *.savethequeen
 *.savethequeening
+*.saylessrsnm
 *.sblock
 *.ScareCrow
 *.scorpion
@@ -2112,6 +2124,7 @@ SECRET.KEY
 *.sntg
 *.SoFucked
 *.solaso
+*.soli
 *.solo
 *.somik1
 *.sonic
@@ -2180,6 +2193,7 @@ SECRET.KEY
 *.sz40
 *.SZFLocker
 *.Szymekk
+*.t1000
 *.T1Happy
 *.tabe
 *.taka
@@ -2219,6 +2233,7 @@ SECRET.KEY
 *.thTC
 *.thunder
 *_TIME_IS_LIMITED
+*.tisc
 *.TJMBK
 *.TJODT
 *.tl30z

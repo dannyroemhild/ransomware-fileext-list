@@ -1060,6 +1060,7 @@ HELP_YOUR_FILES.TXT
 *.horseliker
 *.HORSEMONEY
 *.horsuke
+*.hotcoffee
 *.how
 *.howareyou
 _how_recover.txt
@@ -1130,6 +1131,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.iqll
 *.iqy
 *.iRansom
+*.irjg
 *.Iron
 *.ironhead
 *.Ishtar
@@ -1375,6 +1377,7 @@ _Locky_recover_instructions.txt
 *.lr
 *.LSOBKMHG
 *.ltml
+*.ltnuhr
 *.luceq
 *.luces
 *.lucifer
@@ -2320,6 +2323,7 @@ SECRET.KEY
 *.VAGGEN
 *.Valley
 *.vally
+*.VanGoth
 *.vanss
 *.vapor
 *.vari
@@ -2360,6 +2364,7 @@ SECRET.KEY
 *.vpgvlkb
 *.vpsh
 *.vrmrkz
+*.vtua
 *.Vurten
 *.vusad
 *.vvao

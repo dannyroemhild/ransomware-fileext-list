@@ -47,6 +47,7 @@
 *.4rw5w
 *.4rwcry4w
 *.52pojie
+*.54bb47h
 *.5ss5c
 *.666
 *.6be31
@@ -231,6 +232,7 @@ About_Files.txt
 *.besub
 *.BetaSup
 *.betta
+*.BFVEY
 *.BG85
 *.bH4T
 *.bhacks
@@ -863,6 +865,7 @@ FILESAREGONE.TXT
 *.format
 *.four
 *.fox
+*.foxxy
 *.fredd
 *.FreeMe
 *.freezing
@@ -1096,6 +1099,7 @@ IAMREADYTOPAY.TXT
 *.igvm
 *.iGotYou
 IHAVEYOURSECRET.KEY
+*.IHA
 *.iiss
 *.ILElection2020
 *.ILMWL
@@ -1144,6 +1148,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.itunes
 *.I'WANT MONEY
 *.iwanttits
+*.j3ster
 *.j91d
 *.J91D
 *.JabaCrypter
@@ -1275,6 +1280,7 @@ jpa.*
 *.L33TAF
 *.Ladon
 *.lalo
+*.lcry
 *.LambdaLocker
 *.langolier
 *.LanRan2.0.5
@@ -1375,6 +1381,7 @@ _Locky_recover_instructions.txt
 *.lowprice
 *.lqqw
 *.lr
+*.lsas
 *.LSOBKMHG
 *.ltml
 *.ltnuhr
@@ -1414,6 +1421,7 @@ _Locky_recover_instructions.txt
 *.mamo434376
 *.maniac
 *.Maoloa
+*.Maql
 *.Marduk
 *.mariacbc
 *.Marlboro
@@ -1824,6 +1832,7 @@ MZReverenge*
 *.pumax
 *.punisher
 *.PureLocker
+*.pussy
 *.pwnd
 *.PwndLocker
 *.pwned
@@ -1976,6 +1985,7 @@ restorefiles.txt
 *.ridik
 *.rigd
 *.righ
+*.rivd
 *.rjali@protonmail.ch
 *.rlhwasted
 *.rlhwasted_info
@@ -2006,6 +2016,7 @@ restorefiles.txt
 *.rtcrypted
 *.rubina5
 *.ruby
+*.rugj
 *.rumba
 *.Russenger
 *.Russian
@@ -2156,6 +2167,7 @@ SECRET.KEY
 *.Stampado
 *.stare
 *.start
+*.steriok
 *.sthd2
 *.stinger
 *.stj888
@@ -2399,6 +2411,7 @@ SECRET.KEY
 *.Wesker
 *.WhatAFuck
 *.whatthefuck
+*.WhiteHorse
 *.whiterose
 *.wholocked
 *.why
@@ -2502,6 +2515,7 @@ YOUR_FILES.url
 *.ZaCaPa
 *.ZaLtOn
 *.zaplat.*
+*.zaps
 *.ZariqaCrypt
 *.zasifrovano*
 *.zatrov

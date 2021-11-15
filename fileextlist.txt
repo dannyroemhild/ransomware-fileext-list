@@ -261,6 +261,7 @@ About_Files.txt
 *.BKRansomware
 *@bk.ru
 *.black007
+*.BlackCocaine
 *.BlackHeart
 *.BlackKingdom
 *.Blackout
@@ -422,6 +423,7 @@ Coin.Locker.txt
 *.consciousness
 *.contactus
 *.conti
+*.cool
 *.coom
 *.coos
 *.coot
@@ -697,6 +699,7 @@ DECRYPT_ReadMe.TXT
 *.DryCry
 *.DS335
 *.dsec
+*.dst
 *.dtbc
 *.DTS
 *.[dungeon]-0_0
@@ -750,6 +753,7 @@ DECRYPT_ReadMe.TXT
 *.Enc1
 *.enciphered
 *.EnCiPhErEd
+*.encoded01
 *.encoded_pl
 *.encoderpass
 *.encr
@@ -995,6 +999,7 @@ FILESAREGONE.TXT
 *.haka
 *.Hakbit
 *.Halloware
+*.Hamster
 *.HANTA
 *.harma
 *.haters
@@ -1136,6 +1141,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.iqy
 *.iRansom
 *.irjg
+*.irkf
 *.Iron
 *.ironhead
 *.Ishtar
@@ -1160,6 +1166,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.james
 *_jamesbond
 *.jamper
+*.JANELLE
 *.JapanLocker
 *.javaencrypt
 *.javalocker
@@ -1698,6 +1705,7 @@ MZReverenge*
 *.pack14
 *.pahd
 *.pain
+*.palq
 *.pandemic
 *.pandora
 *.panther
@@ -1848,11 +1856,13 @@ MZReverenge*
 *@qbmail.biz
 *.qbtex
 *.qbx
+*.qdla
 *.qensvlcbymk
 *.qewe
 *.qh24
 *.qkG
 *.qlkm
+*.qmak
 *.qnbqw
 *.QP
 *@qq.com*
@@ -2167,6 +2177,7 @@ SECRET.KEY
 *.Stampado
 *.stare
 *.start
+*.stax
 *.steriok
 *.sthd2
 *.stinger

@@ -2178,6 +2178,7 @@ SECRET.KEY
 *.stare
 *.start
 *.stax
+*.stepik
 *.steriok
 *.sthd2
 *.stinger

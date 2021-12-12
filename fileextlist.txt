@@ -123,6 +123,7 @@ About_Files.txt
 *.amber
 *.amnesia
 *.Amnesia2
+*.amogus
 *.Anatova
 *.andonio
 *.android
@@ -171,6 +172,7 @@ About_Files.txt
 *.AVCrypt
 *.avdn
 *.Avest
+*.AvGhost
 *.avos
 *.avos2
 *.AW46
@@ -268,6 +270,7 @@ About_Files.txt
 *.BlackPink
 *.blackrouter
 *.BlackRuby
+*.BlackSun
 *.blank
 *.bleep
 *.blind
@@ -292,6 +295,7 @@ About_Files.txt
 *.booa
 *.booknish
 *.boom
+*.boombye
 *.BoooamCrypt
 *.boop
 *.boost
@@ -310,6 +314,7 @@ About_Files.txt
 *.Brazilian
 *.bRcrypT
 *.breakingbad
+*.brg
 *.brickr
 *.browec
 *.brusaf
@@ -374,6 +379,7 @@ About_Files.txt
 *.chech
 *.cheetah
 *.chernolocker
+*.chichi
 *.Chimera
 *.china
 *.ChinaYunLong
@@ -541,6 +547,7 @@ Coin.Locker.txt
 *.CryptXXX
 *.CryPy
 *.Crystal
+*.cryt0y
 *.cs16
 *_csp
 *.CSP
@@ -617,6 +624,7 @@ DECRYPT_INSTRUCTION.TXT
 DECRYPT_ReadMe.TXT
 *.DecYourData
 *.DEDCryptor
+*.Deeep
 *.deep
 *.defender
 *.Defray
@@ -688,6 +696,8 @@ DECRYPT_ReadMe.TXT
 *.dotmap
 *.DoubleLocker
 *.Down_With_Usa
+*.doyuk
+*.doyuk2
 *.dqb
 *.dragnea
 *.dream
@@ -893,6 +903,7 @@ FILESAREGONE.TXT
 *.FunFact
 *.funny
 *.FUSION
+*.futm
 *.FuxSocy
 *.g0h8iwj
 *.g8R4rqWIp9
@@ -1018,6 +1029,7 @@ FILESAREGONE.TXT
 *.heets
 *.Heimdall
 *.Hela
+*.hello
 *.hellomynameisransom
 HELLOTHERE.TXT
 *.Hells
@@ -1046,6 +1058,7 @@ HELP_YOUR_FILES.TXT
 *.hese
 *.hex911
 *.H_F_D_locked
+*.hgsh
 *.hhqa
 *.Hidden
 *.HiddenTear
@@ -1105,6 +1118,7 @@ IAMREADYTOPAY.TXT
 *.iGotYou
 IHAVEYOURSECRET.KEY
 *.IHA
+*.iisa
 *.iiss
 *.ILElection2020
 *.ILMWL
@@ -1213,6 +1227,7 @@ jpa.*
 *.karls
 *.Karma
 *.KARMA_V2
+*.KARMANKA
 *.Karmen
 *.Karo
 *.Kasiski
@@ -1235,6 +1250,7 @@ jpa.*
 *.KEYHolder
 *.keypass
 *.kharma
+*.khonsari
 *.kick
 *.kilit
 *.KillerLocker
@@ -1404,6 +1420,7 @@ _Locky_recover_instructions.txt
 *.LyaS
 *.lyli
 *.lyli!
+*.m0nk3y
 *.M0rphine
 *.m3gac0rtx
 *.maas
@@ -1492,7 +1509,9 @@ _Locky_recover_instructions.txt
 *.Mischa
 *.missing
 *.mkos
+*.mkp
 *mlagham.exe
+*.mljx
 *.mmm
 *.mmnn
 *.mmpa
@@ -1509,6 +1528,7 @@ _Locky_recover_instructions.txt
 *.mockba
 *.mogera
 *.mogranos
+*.moia
 *.moka
 *.mole
 *.moloch
@@ -1570,6 +1590,7 @@ MZReverenge*
 *.ndarod
 *.ndpyhss
 *.nebupa
+*.NEEH
 *.neer
 *.nef1lim
 *.nefilim
@@ -1635,6 +1656,7 @@ MZReverenge*
 *.npsk
 *.nqix
 *.nqsq
+*.nrcl
 *.NSB
 *.ntuseg
 *.nuclear
@@ -1759,6 +1781,7 @@ MZReverenge*
 *.phobos
 *.phoenix
 *.PhoneNumber
+*.pHv1
 *.Pickles
 *.picocode*
 *.pidom
@@ -1796,6 +1819,7 @@ MZReverenge*
 *.pox
 *.ppdddp
 *.PPHL
+*.pqgs
 *.pr09
 *.pr0lock
 *.pr0Lock
@@ -1942,6 +1966,7 @@ Read.txt
 *.reaGAN
 *.rebus
 *.rec
+*.Recon
 *Rec0very*
 *.recme
 *.reco
@@ -1995,6 +2020,7 @@ restorefiles.txt
 *.ridik
 *.rigd
 *.righ
+*.rigj
 *.rivd
 *.rjali@protonmail.ch
 *.rlhwasted
@@ -2002,12 +2028,14 @@ restorefiles.txt
 *.RME
 *.RNZ
 *.robinhood
+*.robm
 *.Roga
 *.roger
 *.rogue
 *.roland
 *.roldat
 *.rontok
+*.rook
 *.rooster865qq
 *.rooster865qqz
 *.root
@@ -2325,6 +2353,7 @@ SECRET.KEY
 *.Ungluk
 *.unit09
 *.Unknown
+*.unlock
 *.Unlock26
 *.Unlock92
 *unluckyware*
@@ -2338,6 +2367,7 @@ SECRET.KEY
 *.UselessFiles
 *.UserFilesLocker
 *.uta
+*.utjg
 *.uudjvu
 *.Uyari
 *.v-society
@@ -2438,6 +2468,7 @@ SECRET.KEY
 *.WinRarer
 *.wintenzz
 *.wiot
+*.wixawm
 *.wlu
 *.wncry
 *.wncrypt
@@ -2471,6 +2502,7 @@ SECRET.KEY
 *.XiaoBa
 *.XIAOBA
 *.xienvkdoc
+*.XIII
 *.xinof
 *.XINOF
 *.xLck
@@ -2481,8 +2513,10 @@ SECRET.KEY
 *.XNMMP
 *.xolzsec
 *.XONIF
+*.xot5ik
 *.xoza
 *.xp10-ransom
+*.Xqxqx
 *.xraw
 *.xrtn
 *.xsmb
@@ -2520,6 +2554,7 @@ YOUR_FILES.url
 *.ytbn
 *.yUixN
 *.yum
+*.yqal
 *.YYYYBJQOQDU
 *.z3enc
 *.z3zmh

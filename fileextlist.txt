@@ -341,6 +341,7 @@ About_Files.txt
 *.bwall
 *.c0hen
 *.c0v
+*.C1024
 *.c1h
 *.C4H
 *.cadq
@@ -1101,6 +1102,7 @@ Howto_Restore_FILES.TXT
 *.htrs
 *.hub
 *.Hucky
+*.hudf
 *.Hydra
 *.HydraCrypt
 *.hyena
@@ -2097,6 +2099,7 @@ restorefiles.txt
 *.ScareCrow
 *.scorpion
 *.scr
+*.scrypt
 *.SDEN
 _secret_code.txt
 SECRETIDHERE.KEY
@@ -2129,6 +2132,7 @@ SECRET.KEY
 *.shariz
 *.shelbyboom
 *.ShellLocker
+*.Shgv
 *.Shigo
 *.shinya
 *.ShivaGood
@@ -2288,6 +2292,7 @@ SECRET.KEY
 *.thTC
 *.thunder
 *_TIME_IS_LIMITED
+*.timetime
 *.tisc
 *.TJMBK
 *.TJODT
@@ -2551,6 +2556,7 @@ YOUR_FILES.url
 *.yourhope*
 *.your_last_chance
 *.YOURPCISHACK16024752552658
+*.yjqs
 *.ytbn
 *.yUixN
 *.yum

@@ -702,6 +702,7 @@ DECRYPT_ReadMe.TXT
 *.dqb
 *.dragnea
 *.dream
+*.drik
 *.drlk
 *.Drop
 *.droprapid
@@ -1027,6 +1028,7 @@ FILESAREGONE.TXT
 *.HDDCryptor
 *.hdmr
 *._HE
+*.health
 *.heets
 *.Heimdall
 *.Hela
@@ -1633,6 +1635,7 @@ MZReverenge*
 *.nmc
 *.nmcrypt!
 *.NMoreira
+*.nnqp
 *.nobad
 *.noblis
 *.NOBU
@@ -2096,6 +2099,7 @@ restorefiles.txt
 *.savethequeening
 *.saylessrsnm
 *.sblock
+*.sbpg
 *.ScareCrow
 *.scorpion
 *.scr
@@ -2233,6 +2237,7 @@ SECRET.KEY
 *.SUPERCRYPT
 *.support
 *support@lzt.design*
+*.surtr
 *.suspended
 *.svn
 *.svyx
@@ -2401,6 +2406,7 @@ SECRET.KEY
 *.Venis
 *.Venom
 *.Venus
+*.ver
 *.veracrypt
 *.verasto
 *.vesad
@@ -2499,6 +2505,7 @@ SECRET.KEY
 *.x3
 *.xati
 *.XCry
+*.xcmb
 *.xd
 *.xda
 *.xdrop

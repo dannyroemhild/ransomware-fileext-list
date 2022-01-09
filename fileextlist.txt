@@ -20,6 +20,7 @@
 *.14x
 *.16x
 *.1999
+*.1admin
 *.1be018
 *.1beo18
 *.1btc
@@ -34,9 +35,11 @@
 *.21btc
 *.24H
 *.259
+*.2admin
 *.2new
 *.2spyware
 *.32aa
+*.3admin
 *.3v3r1s
 *.4035
 *.46d7k
@@ -81,6 +84,9 @@ About_Files.txt
 *.adame
 *.AdamLocker
 *.adhubllka
+*.admin1
+*.admin2
+*.admin3
 *.adobe
 *.adobee
 *.AdolfHitler
@@ -631,6 +637,7 @@ DECRYPT_ReadMe.TXT
 *.Defray
 *.Defray777
 *.*-DELETED-FOREVER
+*.dehd
 *.delta
 *.demon
 *.Deniz_kizi
@@ -1389,6 +1396,7 @@ _Locky_recover_instructions.txt
 *.lonleycryptedfile
 *.lonleyencryptedfile
 *.LooCipher
+*.loov
 *.lordofshadow
 *.Lortok
 *.losers
@@ -1442,6 +1450,7 @@ _Locky_recover_instructions.txt
 *.makkonahi
 *.makop
 *.MALKI
+*.mallox
 *.malwarehunterteam
 *.MalwareTech*
 *.mamba
@@ -1500,6 +1509,7 @@ _Locky_recover_instructions.txt
 *.micro
 *.middleman2020
 *.midwestsurinc
+*.miia
 *.miis
 *.mijnal
 *.mike
@@ -1655,6 +1665,7 @@ MZReverenge*
 *.notfound
 *.NOV
 *.novasof
+*.noway
 *.npph
 *.nppp
 *.npsg
@@ -1835,6 +1846,7 @@ MZReverenge*
 *.PrincessLocker
 *.prnds
 *prnds
+*.Problem
 *.proced
 *.prodecryptor
 *.proden
@@ -2412,6 +2424,7 @@ SECRET.KEY
 *.vesad
 *.vesrato
 *.vfcfocxph
+*.vgkf
 *.ViACrypt
 *.video
 *.viiper

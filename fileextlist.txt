@@ -862,6 +862,7 @@ encryptor_raas_readme_liesmich.txt
 *.fezmm
 *.fff
 *.FG69
+*.fhkf
 *.file
 *.FileEncrypted
 FILESAREGONE.TXT
@@ -1670,6 +1671,7 @@ MZReverenge*
 *.nppp
 *.npsg
 *.npsk
+*.nqhd
 *.nqix
 *.nqsq
 *.nrcl
@@ -2424,6 +2426,7 @@ SECRET.KEY
 *.vesad
 *.vesrato
 *.vfcfocxph
+*.vfgj
 *.vgkf
 *.ViACrypt
 *.video
@@ -2589,6 +2592,7 @@ YOUR_FILES.url
 *.ZaLtOn
 *.zaplat.*
 *.zaps
+*.zaqi
 *.ZariqaCrypt
 *.zasifrovano*
 *.zatrov

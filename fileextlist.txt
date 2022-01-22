@@ -184,6 +184,7 @@ About_Files.txt
 *.AW46
 *.awt
 *.AxCrypter
+*.az
 *.aZaZeL
 *.azero
 *.azor
@@ -397,6 +398,7 @@ About_Files.txt
 *.ChupaCabra
 *.cifgksaffsfyghd
 *.ciop
+*.cip
 *.cipher
 *.clay
 *.clean
@@ -759,6 +761,7 @@ DECRYPT_ReadMe.TXT
 *.eject
 *.eking
 *.ekvf
+*.ELBOW
 *.ELDAOLSA
 *.Elvis
 *.elvispresley
@@ -835,6 +838,7 @@ encryptor_raas_readme_liesmich.txt
 *.f41o1
 *.Fabiansomware
 *.facebook
+*.factfull
 *.Fadesoft
 *.FailedAccess
 *.fairytale
@@ -1436,6 +1440,7 @@ _Locky_recover_instructions.txt
 *.m0nk3y
 *.M0rphine
 *.m3gac0rtx
+*.maak
 *.maas
 *.MadBit
 *.maddog
@@ -1575,6 +1580,7 @@ _Locky_recover_instructions.txt
 *.msplt
 *.MTC
 *.mtogas
+*.mtx
 *.mtxlock
 *.muhstik
 *.muslat
@@ -1596,6 +1602,7 @@ MZReverenge*
 *.nano
 *.NanoLocker
 *.napoleon
+*.NARUMI
 *.nasoh
 *.nat
 *.navi
@@ -2331,6 +2338,7 @@ SECRET.KEY
 *.TowerWeb
 *.toxcrypt
 *.tr
+*.trap
 *.TRAPGET
 *.TRAPGET!
 *.trchwd

@@ -844,6 +844,7 @@ encryptor_raas_readme_liesmich.txt
 *.fairytale
 *.FancyLeaks
 *.fappy
+*.farattack
 *.fastwind
 *.fat32
 *.FBSYW
@@ -1176,6 +1177,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.ironhead
 *.Ishtar
 *.isis
+*.iskaluz
 *.isolated
 *.isos
 *.israbye
@@ -1273,6 +1275,7 @@ jpa.*
 *.killrabbit
 *.kimchenyn
 *.king_ouroboros*
+*.king
 *.kir
 *.kiratos
 *.Kirk
@@ -1916,6 +1919,8 @@ MZReverenge*
 *.qnbqw
 *.QP
 *@qq.com*
+*.qqqe
+*.qqqw
 *.qrja
 *.QuakeWay
 *.quantum
@@ -2580,6 +2585,7 @@ SECRET.KEY
 *.ykup
 *.yoAD
 *.yolo
+*.yoqs
 *.YouAreFucked
 *.young
 YOUR_FILES.HTML

@@ -181,6 +181,7 @@ About_Files.txt
 *.AvGhost
 *.avos
 *.avos2
+*.avyu
 *.AW46
 *.awt
 *.AxCrypter
@@ -221,6 +222,7 @@ About_Files.txt
 *.basslock
 *.bb4-230*
 *.bbawasted
+*.bbbw
 *.bboo
 *.bcBDBbAEDb
 *.BCCaEaadBA
@@ -371,6 +373,7 @@ About_Files.txt
 *.ccc
 *.cccmn
 *.ccd
+*.ccps
 *.ccryptor
 *.cdrpt
 *.cekisan
@@ -566,6 +569,7 @@ Coin.Locker.txt
 *.CTB-Locker
 *.ctpl
 *.ctrlalt*
+*.cuag
 *.cuba
 *.cube
 *.Cukiesi
@@ -1135,6 +1139,7 @@ IAMREADYTOPAY.TXT
 *.iGotYou
 IHAVEYOURSECRET.KEY
 *.IHA
+*.iips
 *.iisa
 *.iiss
 *.ILElection2020
@@ -1456,6 +1461,7 @@ _Locky_recover_instructions.txt
 *.Magniber
 *@.mail
 *@mail.com.mkmk
+*.maiv
 *.makkonahi
 *.makop
 *.MALKI
@@ -1661,6 +1667,7 @@ MZReverenge*
 *.noblis
 *.NOBU
 *.nohope
+*.NOKOYAWA
 *.nols
 *.nomad
 *.Nomikon
@@ -2209,6 +2216,7 @@ SECRET.KEY
 *.SNSLocker
 *.sntg
 *.SoFucked
+*.sojusz
 *.solaso
 *.soli
 *.solo
@@ -2641,6 +2649,7 @@ YOUR_FILES.url
 *.zoro
 *.zorro
 *.ZoToN
+*.ZOZL
 *_ZOSTA
 *.zphs
 *.zq

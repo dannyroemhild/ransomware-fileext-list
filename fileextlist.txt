@@ -216,6 +216,7 @@ About_Files.txt
 *.bantana
 *.barak
 *.BARRACUDA
+*.barrel
 *.bart
 *.bart.zip
 *.base
@@ -361,6 +362,7 @@ About_Files.txt
 *.calum
 *.cammora
 *.Cancer
+*.cantopen
 *.cap
 *.captcha
 *.carcn
@@ -403,6 +405,7 @@ About_Files.txt
 *.ciop
 *.cip
 *.cipher
+*.ckae
 *.clay
 *.clean
 *.ClicoCrypter
@@ -593,6 +596,7 @@ Coin.Locker.txt
 *.cyrat
 *.cyron
 *.D00med
+*.d3ad
 *.daaefc
 *.Dablio
 *.dalle
@@ -818,6 +822,7 @@ encryptor_raas_readme_liesmich.txt
 *.eth
 *.etols
 *.euclid
+*.eucy
 *.eur
 *.eV3rbe
 *.Everbe*
@@ -1290,6 +1295,7 @@ jpa.*
 *.kjh
 *.kk
 *.kkll
+*.kl
 *.klavins
 *.klope
 *.kmd
@@ -1626,6 +1632,7 @@ MZReverenge*
 *.nef1lim
 *.nefilim
 *.NegozI
+*.nekochan
 *.nelasod
 *.nemo-hacks.at.sigaint.org
 *._nemty_*
@@ -1924,6 +1931,7 @@ MZReverenge*
 *.qlkm
 *.qmak
 *.qnbqw
+*.qnty
 *.QP
 *@qq.com*
 *.qqqe

@@ -798,6 +798,7 @@ DECRYPT_ReadMe.TXT
 *.encryptedALL
 *.encrypted_backup
 *.encryptedbybb
+*.encryptedJB
 *.encryptedl
 *.encrypted_rsa
 *.encryptedRSA
@@ -876,6 +877,8 @@ encryptor_raas_readme_liesmich.txt
 *.fezmm
 *.fff
 *.FG69
+*.fgnh
+*.fgui
 *.fhkf
 *.file
 *.FileEncrypted
@@ -942,6 +945,7 @@ FILESAREGONE.TXT
 *.gate
 *.gblock
 *.GC47
+*.gcyi
 *.gdcb
 *.gdpr
 *.ge0l0gic
@@ -1144,6 +1148,7 @@ IAMREADYTOPAY.TXT
 *.iGotYou
 IHAVEYOURSECRET.KEY
 *.IHA
+*.iiof
 *.iips
 *.iisa
 *.iiss
@@ -1224,6 +1229,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.jigsaaw
 *.jigsaw
 *.jimm
+*.jjtt
 *.jnec
 *.JNEC.a
 *.JobCrypter
@@ -1598,6 +1604,7 @@ _Locky_recover_instructions.txt
 *.mtx
 *.mtxlock
 *.muhstik
+*.MURK
 *.muslat
 *.muuq
 *.mwahah*
@@ -1742,6 +1749,7 @@ MZReverenge*
 *.oo7
 *.oof
 *.oofnik
+*.ooii
 *.oonn
 *.oops
 *.ooss
@@ -2098,6 +2106,7 @@ restorefiles.txt
 *.RSAUtil
 *.rt4block
 *.rtcrypted
+*.rtgf
 *.rubina5
 *.ruby
 *.rugj
@@ -2146,6 +2155,7 @@ restorefiles.txt
 *.scr
 *.scrypt
 *.SDEN
+*.sdjm
 _secret_code.txt
 SECRETIDHERE.KEY
 SECRET.KEY
@@ -2480,6 +2490,7 @@ SECRET.KEY
 *.vvao
 *.vvoa
 *.vvv
+*.vyia
 *.w7KFlkB
 *.waffle
 *.waifu
@@ -2555,6 +2566,7 @@ SECRET.KEY
 *.xda
 *.xdrop
 *.xero
+*.xgpr
 *.xhspythxn
 *.XiaoBa
 *.XIAOBA

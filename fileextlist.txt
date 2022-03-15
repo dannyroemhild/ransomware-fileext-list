@@ -319,6 +319,7 @@ About_Files.txt
 *.boruta
 *.boston
 *.bot
+*.bpqd
 *.bqd2
 *.braincrypt
 *.Brazilian
@@ -899,6 +900,7 @@ FILESAREGONE.TXT
 *.fmfgmfgm
 *.fonix
 *.foop
+*.fopa
 *.foqe
 *.for
 *.forasom
@@ -1318,6 +1320,7 @@ jpa.*
 *.kovasoh
 *.KoxENy1Wq
 *.Kozy.Jozy
+*.kqgs
 *.kr
 *.krab
 *.KratosCrypt
@@ -1927,6 +1930,7 @@ MZReverenge*
 *.pysa
 *.pzdc
 *.Q1G
+*.qbaa
 *.qbix
 *@qbmail.biz
 *.qbtex
@@ -2047,6 +2051,7 @@ RECOVERY_KEY.txt
 *.rekt
 *.REKTLocker
 *.Rektware
+*.reL
 *.Relock
 *.RemindMe
 *.remk
@@ -2485,6 +2490,7 @@ SECRET.KEY
 *.vpsh
 *.vrmrkz
 *.vtua
+*.vtym
 *.Vurten
 *.vusad
 *.vvao
@@ -2560,8 +2566,9 @@ SECRET.KEY
 *.x1881
 *.x3
 *.xati
-*.XCry
+*.xcbg
 *.xcmb
+*.XCry
 *.xd
 *.xda
 *.xdrop

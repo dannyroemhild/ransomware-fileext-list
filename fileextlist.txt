@@ -77,6 +77,7 @@
 *.abkir
 About_Files.txt
 *.ACCDFISA
+*.acepy
 *.actor
 *.acuf2
 *.adage
@@ -392,6 +393,7 @@ About_Files.txt
 *.chch
 *.chech
 *.cheetah
+*.chernobyl
 *.chernolocker
 *.chichi
 *.Chimera
@@ -844,6 +846,7 @@ encryptor_raas_readme_liesmich.txt
 *.Extractor
 *.exx
 *.eye
+*.eyrv
 *.ezdz
 *.ezz
 *.f41o1
@@ -1143,6 +1146,7 @@ IAMREADYTOPAY.TXT
 *.ID.VENDETTA
 *.IEncrypt
 *.Ieph0uxo
+*.iFire
 *.IFN643
 *.igal
 *.igdm
@@ -2411,6 +2415,7 @@ SECRET.KEY
 *.udjvu
 *.ugmh
 *.UGMH
+*.uigd
 *.UIK1J
 *.uiwix
 *.uk6ge
@@ -2478,6 +2483,7 @@ SECRET.KEY
 *.VinDizelPux
 *.VindowsLocker
 *.vivelag
+*.vlff
 *.VMola
 *.vn_os
 *.void

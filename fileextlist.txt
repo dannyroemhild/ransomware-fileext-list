@@ -953,6 +953,7 @@ FILESAREGONE.TXT
 *.gcyi
 *.gdcb
 *.gdpr
+*.gdwill
 *.ge0l0gic
 *.gefest
 *.gehad
@@ -1092,6 +1093,7 @@ HELP_YOUR_FILES.TXT
 *.hese
 *.hex911
 *.H_F_D_locked
+*.hfgd
 *.hgsh
 *.hhqa
 *.Hidden
@@ -1306,6 +1308,7 @@ jpa.*
 *.kitty
 *.kjh
 *.kk
+*.kkia
 *.kkll
 *.kl
 *.klavins
@@ -1565,6 +1568,7 @@ _Locky_recover_instructions.txt
 *.mmpa
 *.MMTA
 *.mmteam
+*.mmuz
 *.mnbzr
 *.mnc
 *.Mnd4
@@ -1875,6 +1879,7 @@ MZReverenge*
 *.PowerWare
 *.pox
 *.ppdddp
+*.pphg
 *.PPHL
 *.pqgs
 *.pr09
@@ -2076,6 +2081,7 @@ restorefiles.txt
 *.rezm
 *.rezuc
 *.rgnk
+*.rguy
 *.rhino
 *.rhmlm
 *.RHMLM
@@ -2269,6 +2275,7 @@ SECRET.KEY
 *.SQ_
 *.sqpc
 *.sr0yz
+*.ssoi
 *.sspq
 *.sss
 *.Stampado
@@ -2524,6 +2531,7 @@ SECRET.KEY
 *.wch
 *.wcry
 *.wctc
+*.wdlo
 *.weapologize
 *.wecanhlep
 *.week

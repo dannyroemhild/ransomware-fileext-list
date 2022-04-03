@@ -1021,6 +1021,7 @@ FILESAREGONE.TXT
 *.grovas
 *.grovat
 *.gtsc
+*.gtys
 *.guarded
 *.guer
 *.gusau
@@ -1345,6 +1346,7 @@ jpa.*
 *.kuub
 *.kuus
 *.kvag
+*.kxde
 *.L1LL
 *.L33TAF
 *.Ladon
@@ -1602,6 +1604,7 @@ _Locky_recover_instructions.txt
 *.MOTD
 *.mouse
 *.MoWare
+*.mpag
 *.mpaj
 *.mpal
 *.mppq
@@ -2248,6 +2251,7 @@ SECRET.KEY
 *.SNPDRGN
 *.SNSLocker
 *.sntg
+*.snwd
 *.SoFucked
 *.sojusz
 *.solaso
@@ -2420,6 +2424,7 @@ SECRET.KEY
 *.uanl
 *.UCCU
 *.udjvu
+*.udla
 *.ugmh
 *.UGMH
 *.uigd
@@ -2497,6 +2502,7 @@ SECRET.KEY
 *.VoidCrypt
 *.volcano
 *.volvo33_36_37_39__44
+*.voom
 *.Vortex
 *.voyager
 *.vpgvlkb

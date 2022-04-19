@@ -283,6 +283,7 @@ About_Files.txt
 *.BlackRuby
 *.BlackSun
 *.blank
+*.blaze
 *.bleep
 *.blind
 *.blind2
@@ -291,6 +292,7 @@ About_Files.txt
 *.blocked
 *.BlockFile12
 *.blocking
+*.blockZ
 *.Blooper
 *.blower
 *.Blue
@@ -320,6 +322,7 @@ About_Files.txt
 *.boruta
 *.boston
 *.bot
+*.bozon
 *.bpqd
 *.bqd2
 *.braincrypt
@@ -408,6 +411,7 @@ About_Files.txt
 *.ciop
 *.cip
 *.cipher
+*.Cj
 *.ckae
 *.clay
 *.clean
@@ -652,6 +656,7 @@ DECRYPT_ReadMe.TXT
 *.*-DELETED-FOREVER
 *.dehd
 *.delta
+*.democ
 *.demon
 *.Deniz_kizi
 *.DeriaLock
@@ -973,10 +978,12 @@ FILESAREGONE.TXT
 *.getrekt
 *.GFS
 *.GFYPK
+*.ghas
 *.GhostCrypt
 *.GhostHammer
 *.Gibberish
 *.Gibon
+*.Gilfillan
 *.gillette
 *.givemenitro
 *gladius
@@ -1042,6 +1049,7 @@ FILESAREGONE.TXT
 *.hades666
 *.HadesLocker
 *.HaHaHaHaHaHaHaHa
+*.hajd
 *.haka
 *.Hakbit
 *.Halloware
@@ -1509,6 +1517,7 @@ _Locky_recover_instructions.txt
 *.masodas
 *.masok
 *.math
+*.MATILAN
 *.MauriGo
 *.maxicrypt
 *.MaxSteel.*
@@ -1642,6 +1651,7 @@ MZReverenge*
 *.nasoh
 *.nat
 *.navi
+*.NB65
 *.nbes
 *.ncov
 *.NCrypt
@@ -1842,6 +1852,7 @@ MZReverenge*
 *.PGPSnippet
 *.PhantomChina
 *.Philadelphia
+*.phmqdw
 *.phobos
 *.phoenix
 *.PhoneNumber
@@ -1942,6 +1953,7 @@ MZReverenge*
 *.pysa
 *.pzdc
 *.Q1G
+*.qall
 *.qbaa
 *.qbix
 *@qbmail.biz
@@ -1957,6 +1969,7 @@ MZReverenge*
 *.qnbqw
 *.qnty
 *.QP
+*.qpss
 *@qq.com*
 *.qqqe
 *.qqqw
@@ -2173,6 +2186,7 @@ restorefiles.txt
 *.scr
 *.scrypt
 *.SDEN
+*.sdhvqq
 *.sdjm
 _secret_code.txt
 SECRETIDHERE.KEY
@@ -2189,6 +2203,7 @@ SECRET.KEY
 *.serp
 *.serpom
 *.server
+*.sessions
 *.seto
 *.sev
 *.sext
@@ -2294,6 +2309,7 @@ SECRET.KEY
 *.stone
 *.stop
 *.stopdata
+*.stopfiles
 *.StorageCrypter
 *.Storm
 *.Striked
@@ -2451,10 +2467,12 @@ SECRET.KEY
 *.Useless
 *.UselessFiles
 *.UserFilesLocker
+*.ust29
 *.uta
 *.utjg
 *.uudjvu
 *.Uyari
+*.uyjh
 *.v-society
 *.V8Locker
 *.vaca

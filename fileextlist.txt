@@ -2,6 +2,7 @@
 *.~~~~
 *.$anta
 *.@LyDarkr
+*.@PIPIKAKI
 *.0000
 *.03rK
 *.0.cs
@@ -186,6 +187,7 @@ About_Files.txt
 *.AW46
 *.awt
 *.AxCrypter
+*.axxes
 *.az
 *.aZaZeL
 *.azero
@@ -222,6 +224,7 @@ About_Files.txt
 *.bart.zip
 *.base
 *.basslock
+*.Basta
 *.bb4-230*
 *.bbawasted
 *.bbbw
@@ -673,6 +676,7 @@ DECRYPT_ReadMe.TXT
 *.devos
 *.devoscpu
 *.dewar
+*.dewd
 *.dex
 *.dexter
 *.dharma
@@ -1147,6 +1151,7 @@ Howto_Restore_FILES.TXT
 *.hub
 *.Hucky
 *.hudf
+*.huis_bn
 *.Hydra
 *.HydraCrypt
 *.hyena
@@ -1243,6 +1248,8 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.Jemd
 *.jes
 *.jest
+*.jhbg
+*.jhgn
 *.jigsaaw
 *.jigsaw
 *.jimm
@@ -1430,6 +1437,7 @@ _Locky_recover_instructions.txt
 *.lokd
 *.lokf
 *.loki
+*.LokiLok
 *.lol
 *.LOL!
 *.loli
@@ -1808,6 +1816,7 @@ MZReverenge*
 *.Paradise
 *.paradox
 *.paradox!
+*.parker
 *.parrott
 *.partially.nocry
 *.PARTY

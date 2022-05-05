@@ -228,6 +228,7 @@ About_Files.txt
 *.bb4-230*
 *.bbawasted
 *.bbbw
+*.bbnm
 *.bboo
 *.bcBDBbAEDb
 *.BCCaEaadBA
@@ -460,6 +461,7 @@ Coin.Locker.txt
 *.coot
 *.copa
 *.copan
+*.cope
 *.core
 *.corona
 *CoronaCrypt*
@@ -774,6 +776,7 @@ DECRYPT_ReadMe.TXT
 *.eg
 *.EG
 *.EG83
+*.egfg
 *.egg
 *.EggLocker
 *.ehre
@@ -818,6 +821,7 @@ DECRYPT_ReadMe.TXT
 *.EncryptoJJS
 encryptor_raas_readme_liesmich.txt
 *.encS
+*.enfp
 *.Enjey Crypter
 *.EnkripsiPC
 *.epor
@@ -1034,6 +1038,7 @@ FILESAREGONE.TXT
 *.gtsc
 *.gtys
 *.guarded
+*.GUCCI
 *.guer
 *.gusau
 *.GusCrypter
@@ -1108,6 +1113,7 @@ HELP_YOUR_FILES.TXT
 *.H_F_D_locked
 *.hfgd
 *.hgsh
+*.hhjk
 *.hhqa
 *.Hidden
 *.HiddenTear
@@ -1504,6 +1510,7 @@ _Locky_recover_instructions.txt
 *.maiv
 *.makkonahi
 *.makop
+*.Mal
 *.MALKI
 *.mallox
 *.malwarehunterteam
@@ -1572,6 +1579,7 @@ _Locky_recover_instructions.txt
 *.mikoyan
 *.MILIHPEN
 *.MindSystem
+*.mine
 *.Minotaur
 *.mira
 *.MirCop
@@ -1584,6 +1592,7 @@ _Locky_recover_instructions.txt
 *.mljx
 *.mmm
 *.mmnn
+*.mmob
 *.mmpa
 *.MMTA
 *.mmteam
@@ -1697,6 +1706,7 @@ MZReverenge*
 *.NHLP
 *.Nhtnwcuf
 *.nibiru
+*.nigra
 *.nile
 *.ninja
 *.njkwe
@@ -2204,6 +2214,7 @@ SECRET.KEY
 *.securityP
 *.see_read_me
 *.seed
+*.Selena
 *.sell
 *.Seon
 *.sepsis
@@ -2244,6 +2255,7 @@ SECRET.KEY
 *.sigareta
 *.Sigma
 *.sigrun
+*.sijr
 *.Sil3nt5pring
 *.SilentDeath
 *.SilentSpring
@@ -2436,6 +2448,7 @@ SECRET.KEY
 *.trun.KEY
 *.Try2Cry
 *.tsar
+*.ttii
 *.ttt
 *.tunca
 *.TurkStatik
@@ -2616,6 +2629,7 @@ SECRET.KEY
 *.xcbg
 *.xcmb
 *.XCry
+*.xcvf
 *.xd
 *.xda
 *.xdrop

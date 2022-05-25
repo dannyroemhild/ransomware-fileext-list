@@ -40,6 +40,7 @@
 *.2new
 *.2spyware
 *.32aa
+*.34r7hGr455
 *.3admin
 *.3v3r1s
 *.4035
@@ -358,6 +359,7 @@ About_Files.txt
 *.bukyak
 *.burn
 *.bwall
+*.byya
 *.c0hen
 *.c0v
 *.C1024
@@ -523,6 +525,7 @@ Coin.Locker.txt
 *.Crypt0L0cker
 *.Crypt0r
 *.CRYPTBD
+*.cryptbit
 *.CryptConsole
 *.CryptConsole3
 *.crypte
@@ -681,6 +684,7 @@ DECRYPT_ReadMe.TXT
 *.dewd
 *.dex
 *.dexter
+*.dfwe
 *.dharma
 *.diablo6
 *.dian
@@ -830,6 +834,7 @@ encryptor_raas_readme_liesmich.txt
 *.Erica
 *.erif
 *.eris
+*.errz
 *.ESCAL*
 *.ES_HELPs
 *.esexz
@@ -881,12 +886,14 @@ encryptor_raas_readme_liesmich.txt
 *.FCP
 *.fcrypt
 *.FCT
+*.fdcv
 *.fdcz
 *.fdfk
 *.FDFK22
 *FDFK*INFO*
 *.fedasot
 *.FEEDC
+*.fefg
 *.felix
 *.FenixLocker
 *.Fenrir
@@ -1169,6 +1176,7 @@ IAMREADYTOPAY.TXT
 *.IEncrypt
 *.Ieph0uxo
 *.iFire
+*.ifla
 *.IFN643
 *.igal
 *.igdm
@@ -1242,6 +1250,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *_jamesbond
 *.jamper
 *.JANELLE
+*.japan
 *.JapanLocker
 *.javaencrypt
 *.javalocker
@@ -1303,6 +1312,7 @@ jpa.*
 *.KCW
 *.KCWTT
 *.keepcalm
+*.kekpop
 *.kekw
 *.KENS@TUTA.IO
 *.KeRanger
@@ -1360,6 +1370,7 @@ jpa.*
 *.kroput
 *.kroput1
 *.krusop
+*.kruu
 *.KryptoLocker
 *.kryptonite
 *.kuajw
@@ -2408,6 +2419,7 @@ SECRET.KEY
 *_TIME_IS_LIMITED
 *.timetime
 *.tisc
+*.titancrypt
 *.TJMBK
 *.TJODT
 *.tl30z
@@ -2458,6 +2470,7 @@ SECRET.KEY
 *.txd0t!
 *.tx_locked
 *.tx_locked!
+*.txlck
 *.UAKXC
 *.uanl
 *.UCCU
@@ -2563,6 +2576,7 @@ SECRET.KEY
 *.wal
 *.walan
 *.wallet
+*.WanaCray2023+
 *.wannacry
 *.WannaCry*
 *.wannacryv2
@@ -2703,6 +2717,7 @@ YOUR_FILES.url
 *.zaplat.*
 *.zaps
 *.zaqi
+*.ZareuS
 *.ZariqaCrypt
 *.zasifrovano*
 *.zatrov

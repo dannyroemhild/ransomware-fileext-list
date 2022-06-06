@@ -305,6 +305,7 @@ About_Files.txt
 *.bmps@*
 *.bmtf 
 *.bnfd
+*.bnrs
 *.bobelectron
 *.bomber
 *.bombo
@@ -359,6 +360,7 @@ About_Files.txt
 *.bukyak
 *.burn
 *.bwall
+*.bydes
 *.byya
 *.c0hen
 *.c0v
@@ -649,6 +651,7 @@ Coin.Locker.txt
 *.decodeme666@tutanota_com
 *.decp
 *.decrypme
+*.decrypt
 DecryptAllFiles.txt
 DECRYPT_INSTRUCTIONS.TXT
 DECRYPT_INSTRUCTION.TXT
@@ -762,6 +765,7 @@ DECRYPT_ReadMe.TXT
 *.dy8wud
 *.DynA-Crypt
 *.eaaeee
+*.eaf
 *.EAIJTP
 *.easy2lock
 *.easyransom
@@ -772,9 +776,11 @@ DECRYPT_ReadMe.TXT
 *.ecc
 *.eCh0raix
 *.ECLR*
+*.ecrp
 *.EdgeLocker
 *.EduCrypt
 *.eduransom
+*.eegf
 *.efdc
 *.efji
 *.eg
@@ -783,6 +789,7 @@ DECRYPT_ReadMe.TXT
 *.egfg
 *.egg
 *.EggLocker
+*.Ehehehx12
 *.ehre
 *.eight
 *.eject
@@ -853,6 +860,7 @@ encryptor_raas_readme_liesmich.txt
 *.EVIL*
 *.evolution
 *.evopro
+*.ewdf
 *.ExecutionerPlus
 *.exo
 *.Exocrypt
@@ -1415,6 +1423,7 @@ jpa.*
 *.lilocked
 *.limbo
 *.lina
+*.Linda
 *.Lion
 *.lisp
 *.litar
@@ -1630,6 +1639,7 @@ _Locky_recover_instructions.txt
 *.Montserrat
 *.MOON
 *.MoonCrypter
+*.moonshadow
 *.moqs
 *.mordor
 *.moresa
@@ -1730,6 +1740,7 @@ MZReverenge*
 *.nmcrypt!
 *.NMoreira
 *.nnqp
+*.nnuz
 *.nobad
 *.noblis
 *.NOBU
@@ -1846,6 +1857,7 @@ MZReverenge*
 *.pauq
 *.pausa
 *.paxynok
+*.PAY2DECRYPT*
 *.pay2me
 *.payb
 *.paycoin
@@ -1995,6 +2007,7 @@ MZReverenge*
 *.qh24
 *.qkG
 *.qlkm
+*.qlln
 *.qmak
 *.qnbqw
 *.qnty
@@ -2017,6 +2030,7 @@ MZReverenge*
 *.r3f5s
 *.R3K7M9
 *.r3store
+*.r3tr0
 *.r5a
 *.R980
 *.r9uAV
@@ -2159,7 +2173,10 @@ restorefiles.txt
 *.RotorCrypt
 *.Roza
 *.RPD
+*.rrbb
+*.rrcc
 *.RRK
+*.rryy
 *.*_rsa
 *.RSA2048Pro
 *.rsalive
@@ -2479,6 +2496,7 @@ SECRET.KEY
 *.ugmh
 *.UGMH
 *.uigd
+*.uihj
 *.UIK1J
 *.uiwix
 *.uk6ge
@@ -2631,6 +2649,7 @@ SECRET.KEY
 *.write
 *.wrui
 *.wshlp
+*.WsIR
 *.WSmile
 *.wtdi
 *.Wulfric
@@ -2733,6 +2752,7 @@ YOUR_FILES.url
 *.ZeroRansom
 *.zes
 *.ZEUS
+*.zfdv
 *.zhen
 *.zhen!
 *.zida

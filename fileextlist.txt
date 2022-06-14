@@ -231,6 +231,8 @@ About_Files.txt
 *.bbbw
 *.bbnm
 *.bboo
+*.bbyy
+*.bbzz
 *.bcBDBbAEDb
 *.BCCaEaadBA
 *.bclaw
@@ -403,6 +405,7 @@ About_Files.txt
 *.charmant
 *.chch
 *.chech
+*.checkmate
 *.cheetah
 *.chernobyl
 *.chernolocker
@@ -2150,6 +2153,7 @@ restorefiles.txt
 *.rigd
 *.righ
 *.rigj
+*.ritzer
 *.rivd
 *.rjali@protonmail.ch
 *.rlhwasted
@@ -2362,6 +2366,7 @@ SECRET.KEY
 *.StorageCrypter
 *.Storm
 *.Striked
+*.StrongX
 *.stub
 *.stun
 *.Stupid
@@ -2481,6 +2486,7 @@ SECRET.KEY
 *.ttt
 *.tunca
 *.TurkStatik
+*.tusk
 *@tuta.io
 *@tutanota.com
 *.txd0t

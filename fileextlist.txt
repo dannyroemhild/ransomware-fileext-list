@@ -197,6 +197,7 @@ About_Files.txt
 *.b29
 *.B2DR
 *.b2fr
+*.baal
 *.babaxed
 *.babaxed!
 *.babyduck
@@ -228,6 +229,7 @@ About_Files.txt
 *.Basta
 *.bb4-230*
 *.bbawasted
+*.bbii
 *.bbbw
 *.bbnm
 *.bboo
@@ -303,6 +305,7 @@ About_Files.txt
 *.Blooper
 *.blower
 *.Blue
+*.bluesky
 *.bmd
 *.bmps@*
 *.bmtf 
@@ -620,6 +623,7 @@ Coin.Locker.txt
 *.daaefc
 *.Dablio
 *.dalle
+*.damacrypt
 *.dan@cock.email
 *.danger
 *.daris
@@ -673,6 +677,7 @@ DECRYPT_ReadMe.TXT
 *.democ
 *.demon
 *.Deniz_kizi
+*.DENO
 *.DeriaLock
 *.derp
 *.DERZKO
@@ -715,6 +720,7 @@ DECRYPT_ReadMe.TXT
 *.djvus
 *.djvut
 *.djvuu
+*.dkrf
 *.dlenggrl
 *.dme
 *.dmo
@@ -783,6 +789,7 @@ DECRYPT_ReadMe.TXT
 *.EdgeLocker
 *.EduCrypt
 *.eduransom
+*.edw
 *.eegf
 *.efdc
 *.efji
@@ -1053,6 +1060,7 @@ FILESAREGONE.TXT
 *.group
 *.grovas
 *.grovat
+*.grt
 *.gtsc
 *.gtys
 *.guarded
@@ -1434,7 +1442,11 @@ jpa.*
 *.LittleFinger
 *.live
 *.LIZARD
+*.llee
+*.lloo
+*.llqq
 *.LLTP
+*.lltt
 *.lm
 *.LMAOxUS
 *.lmas
@@ -1509,6 +1521,7 @@ _Locky_recover_instructions.txt
 *.lukitus
 *.Lulz
 *.Lulz!
+*.lux
 *.lx
 *.lxhlp
 *.LyaS
@@ -1866,6 +1879,7 @@ MZReverenge*
 *.paycoin
 *.payday
 *.payfast500
+*.PayForKey
 *.payforunlock
 *.PAY_IN_MAXIM_24_HOURS_OR_ALL_YOUR_FILES_WILL_BE_PERMANENTLY_DELETED_PLEASE_BE_REZONABLE_you_have_only_1_single_chance_to_make_the_payment
 *.payload
@@ -2115,6 +2129,7 @@ RECOVERY_KEY.txt
 *.redeye
 *.redmat
 *.redrum
+*.REDTM
 *.refols
 *.reha
 *.reimageplus
@@ -2138,6 +2153,7 @@ restorefiles.txt
 *.resurrection
 *.RetMyData
 *.revenge
+*.REVENLOCK7
 *.REvil
 *.revon
 *.RexCrypt
@@ -2270,6 +2286,7 @@ SECRET.KEY
 *.shade8
 *.shadow
 *.shariz
+*.sheeva
 *.shelbyboom
 *.ShellLocker
 *.Shgv
@@ -2609,6 +2626,7 @@ SECRET.KEY
 *.wannaren
 *.WannaSmile
 *.WannaSpam
+*.warlocks
 *.wasted
 *.*wasted_info
 *.wav_list

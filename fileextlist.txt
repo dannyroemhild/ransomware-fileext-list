@@ -259,6 +259,7 @@ About_Files.txt
 *.BG85
 *.bH4T
 *.bhacks
+*.bianlian
 *.BigBobRoss
 *.biglock
 *.BI_ID
@@ -306,6 +307,7 @@ About_Files.txt
 *.Blooper
 *.blower
 *.Blue
+*.blueKey
 *.bluesky
 *.bmd
 *.bmps@*
@@ -1013,6 +1015,10 @@ FILESAREGONE.TXT
 *.getrekt
 *.GFS
 *.GFYPK
+*.ggeo
+*.ggew
+*.ggwq
+*.ggyu
 *.ghas
 *.GhostCrypt
 *.GhostHammer
@@ -1076,6 +1082,7 @@ FILESAREGONE.TXT
 *.GX40
 *.gyga
 *.H@RM@
+*.h0lyenc
 *.HA3
 *.hac
 *.hack
@@ -1142,6 +1149,8 @@ HELP_YOUR_FILES.TXT
 *.H_F_D_locked
 *.hfgd
 *.hgsh
+*.hheo
+*.hhew
 *.hhjk
 *.hhqa
 *.Hidden
@@ -1372,6 +1381,7 @@ jpa.*
 *.kmd
 *.kodc
 *.kodg
+*.KOK08
 *.KokoKrypt
 *.Kolobo
 *.kolz
@@ -1388,6 +1398,7 @@ jpa.*
 *.krab
 *.KratosCrypt
 *.Krider
+*.Kriptor
 *.Kriptovor
 *.kronos
 *.kropun
@@ -1678,8 +1689,9 @@ _Locky_recover_instructions.txt
 *.mpaj
 *.mpal
 *.mppq
-*.MrDec
 *.Mr-X666
+*.MrDec
+*.MRN
 *.ms13
 *.msf
 *.msplt
@@ -1762,6 +1774,7 @@ MZReverenge*
 *.nm8kci
 *.nmc
 *.nmcrypt!
+*.NMO
 *.NMoreira
 *.nnqp
 *.nnuz
@@ -1840,7 +1853,9 @@ MZReverenge*
 *.ooii
 *.oonn
 *.oops
+*.oori
 *.ooss
+*.ooxa
 *.OpenToYou
 *.OpJerusalem
 *.opqz
@@ -2162,6 +2177,7 @@ restorefiles.txt
 *.RetMyData
 *.revenge
 *.REVENLOCK7
+*.rever
 *.REvil
 *.revon
 *.RexCrypt
@@ -2199,6 +2215,7 @@ restorefiles.txt
 *.RoshaLock
 *.rote
 *.RotorCrypt
+*.royroy.*
 *.Roza
 *.RPD
 *.rrbb
@@ -2720,6 +2737,7 @@ SECRET.KEY
 *.xp10-ransom
 *.Xqxqx
 *.xraw
+*.xrom
 *.xrtn
 *.xsmb
 *.XTBL

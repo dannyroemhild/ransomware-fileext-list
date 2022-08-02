@@ -155,6 +155,7 @@ About_Files.txt
 *.ApolloLocker
 *.apollon865
 *.aqva
+*.araicrypt
 *.arena
 *.AresCrypt
 *.Argus
@@ -244,6 +245,7 @@ About_Files.txt
 *.bdkr
 *.BD.Recovery
 *.beaf
+*.beamed
 *.beer
 *.beethoven
 *.beets
@@ -1153,6 +1155,7 @@ HELP_YOUR_FILES.TXT
 *.hhew
 *.hhjk
 *.hhqa
+*.hhyu
 *.Hidden
 *.HiddenTear
 *.hilda
@@ -1371,6 +1374,7 @@ jpa.*
 *.kirked
 *.kiss
 *.kitty
+*.kizu.*
 *.kjh
 *.kk
 *.kkia
@@ -1440,6 +1444,7 @@ jpa.*
 *.leon
 *.leph0uxo
 *.leto
+*.letsgo290.*
 *.lexei8bo
 *.lezp
 *.LGNLCKD
@@ -1766,6 +1771,7 @@ MZReverenge*
 *.nigra
 *.nile
 *.ninja
+*.Nitro
 *.njkwe
 *.njmhqbxu
 *.nlah
@@ -1963,6 +1969,7 @@ MZReverenge*
 *.PoisonFang
 *.poker
 *.pola
+*.Polina
 *.PonyFinal
 *.poolezoor
 *.poop
@@ -2248,6 +2255,7 @@ restorefiles.txt
 *.safe
 *@safetyjabber.com
 *.SaherBlueEagleRansomware
+*.Sakura
 *.salma
 *.Salsa
 *.sambo
@@ -2632,8 +2640,11 @@ SECRET.KEY
 *.Vurten
 *.vusad
 *.vvao
+*.vveo
+*.vvew
 *.vvoa
 *.vvv
+*.vvwq
 *.vyia
 *.w7KFlkB
 *.waffle

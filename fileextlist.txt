@@ -408,6 +408,7 @@ About_Files.txt
 *.charmant
 *.chch
 *.chech
+*.checkmate
 *.cheetah
 *.chernobyl
 *.chernolocker
@@ -1140,6 +1141,7 @@ HELP_YOUR_FILES.TXT
 *.hgsh
 *.hhjk
 *.hhqa
+*.hicrypt
 *.Hidden
 *.HiddenTear
 *.hilda
@@ -1185,6 +1187,7 @@ Howto_Restore_FILES.TXT
 *.huis_bn
 *.Hydra
 *.HydraCrypt
+*.hydrox
 *.hyena
 IAMREADYTOPAY.TXT
 *.iaufkakfhsaraf
@@ -1887,6 +1890,7 @@ MZReverenge*
 *.Paymen45
 *.PayPalGenerator2019
 *.PaySafeGen
+*.Payt
 *.PClock
 *.pcqq
 *.pdff
@@ -2104,6 +2108,7 @@ ReadDecryptFilesHere.txt
 *.readinstructions
 *.ReadManual.*
 *.readme
+*.Readnet7
 READTHISNOW!!!.TXT
 Read.txt
 *.reaGAN
@@ -2502,6 +2507,7 @@ SECRET.KEY
 *.ttt
 *.tunca
 *.TurkStatik
+*.tusk
 *@tuta.io
 *@tutanota.com
 *.txd0t
@@ -2607,6 +2613,7 @@ SECRET.KEY
 *.vvao
 *.vvoa
 *.vvv
+*.vvyu
 *.vyia
 *.w7KFlkB
 *.waffle

@@ -106,6 +106,7 @@ About_Files.txt
 *.Afrodita
 *.ag88g
 *.AG88G
+*.again
 *.age
 *.agho
 *.*AgeLocker
@@ -154,6 +155,7 @@ About_Files.txt
 *.ApolloLocker
 *.apollon865
 *.aqva
+*.araicrypt
 *.arena
 *.AresCrypt
 *.Argus
@@ -243,6 +245,7 @@ About_Files.txt
 *.bdkr
 *.BD.Recovery
 *.beaf
+*.beamed
 *.beer
 *.beethoven
 *.beets
@@ -258,6 +261,7 @@ About_Files.txt
 *.BG85
 *.bH4T
 *.bhacks
+*.bianlian
 *.BigBobRoss
 *.biglock
 *.BI_ID
@@ -305,6 +309,7 @@ About_Files.txt
 *.Blooper
 *.blower
 *.Blue
+*.blueKey
 *.bluesky
 *.bmd
 *.bmps@*
@@ -931,6 +936,7 @@ FILESAREGONE.TXT
 *.FindZip
 *.fire
 *.firex3m
+*.FIXED
 *.fixt
 *.FJ7QvaR9VUmi
 *.FLAMINGO
@@ -1011,9 +1017,14 @@ FILESAREGONE.TXT
 *.getrekt
 *.GFS
 *.GFYPK
+*.ggeo
+*.ggew
+*.ggwq
+*.ggyu
 *.ghas
 *.GhostCrypt
 *.GhostHammer
+*.ghsd
 *.Gibberish
 *.Gibon
 *.Gilfillan
@@ -1073,6 +1084,7 @@ FILESAREGONE.TXT
 *.GX40
 *.gyga
 *.H@RM@
+*.h0lyenc
 *.HA3
 *.hac
 *.hack
@@ -1139,9 +1151,15 @@ HELP_YOUR_FILES.TXT
 *.H_F_D_locked
 *.hfgd
 *.hgsh
+*.hheo
+*.hhew
 *.hhjk
 *.hhqa
+<<<<<<< HEAD
 *.hicrypt
+=======
+*.hhyu
+>>>>>>> 85c3f06dd24fc21b410424c3e08ed7ceb9529722
 *.Hidden
 *.HiddenTear
 *.hilda
@@ -1290,6 +1308,8 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.jigsaw
 *.jimm
 *.jjtt
+*.jjww
+*.jjyy
 *.jnec
 *.JNEC.a
 *.JobCrypter
@@ -1359,6 +1379,7 @@ jpa.*
 *.kirked
 *.kiss
 *.kitty
+*.kizu.*
 *.kjh
 *.kk
 *.kkia
@@ -1369,6 +1390,7 @@ jpa.*
 *.kmd
 *.kodc
 *.kodg
+*.KOK08
 *.KokoKrypt
 *.Kolobo
 *.kolz
@@ -1385,6 +1407,7 @@ jpa.*
 *.krab
 *.KratosCrypt
 *.Krider
+*.Kriptor
 *.Kriptovor
 *.kronos
 *.kropun
@@ -1426,6 +1449,7 @@ jpa.*
 *.leon
 *.leph0uxo
 *.leto
+*.letsgo290.*
 *.lexei8bo
 *.lezp
 *.LGNLCKD
@@ -1433,6 +1457,7 @@ jpa.*
 *.LightningCrypt
 *.like
 *.likud
+*.lilith
 *.lilocked
 *.limbo
 *.lina
@@ -1486,6 +1511,7 @@ _Locky_recover_instructions.txt
 *.loli
 *.lolkek
 *.LolSec
+*.LoMiAt
 *.londec
 *.LongTermMemoryLoss
 *.LonleyCrypt
@@ -1673,8 +1699,9 @@ _Locky_recover_instructions.txt
 *.mpaj
 *.mpal
 *.mppq
-*.MrDec
 *.Mr-X666
+*.MrDec
+*.MRN
 *.ms13
 *.msf
 *.msplt
@@ -1730,6 +1757,7 @@ MZReverenge*
 *.Nemucod
 *.NEPHILIM
 *.neptune
+*.ner
 *.neras
 *.nermer
 *.nesa
@@ -1748,6 +1776,7 @@ MZReverenge*
 *.nigra
 *.nile
 *.ninja
+*.Nitro
 *.njkwe
 *.njmhqbxu
 *.nlah
@@ -1756,6 +1785,7 @@ MZReverenge*
 *.nm8kci
 *.nmc
 *.nmcrypt!
+*.NMO
 *.NMoreira
 *.nnqp
 *.nnuz
@@ -1834,7 +1864,9 @@ MZReverenge*
 *.ooii
 *.oonn
 *.oops
+*.oori
 *.ooss
+*.ooxa
 *.OpenToYou
 *.OpJerusalem
 *.opqz
@@ -1943,6 +1975,7 @@ MZReverenge*
 *.PoisonFang
 *.poker
 *.pola
+*.Polina
 *.PonyFinal
 *.poolezoor
 *.poop
@@ -2158,6 +2191,7 @@ restorefiles.txt
 *.RetMyData
 *.revenge
 *.REVENLOCK7
+*.rever
 *.REvil
 *.revon
 *.RexCrypt
@@ -2195,6 +2229,7 @@ restorefiles.txt
 *.RoshaLock
 *.rote
 *.RotorCrypt
+*.royroy.*
 *.Roza
 *.RPD
 *.rrbb
@@ -2227,6 +2262,7 @@ restorefiles.txt
 *.safe
 *@safetyjabber.com
 *.SaherBlueEagleRansomware
+*.Sakura
 *.salma
 *.Salsa
 *.sambo
@@ -2611,9 +2647,15 @@ SECRET.KEY
 *.Vurten
 *.vusad
 *.vvao
+*.vveo
+*.vvew
 *.vvoa
 *.vvv
+<<<<<<< HEAD
 *.vvyu
+=======
+*.vvwq
+>>>>>>> 85c3f06dd24fc21b410424c3e08ed7ceb9529722
 *.vyia
 *.w7KFlkB
 *.waffle
@@ -2717,6 +2759,7 @@ SECRET.KEY
 *.xp10-ransom
 *.Xqxqx
 *.xraw
+*.xrom
 *.xrtn
 *.xsmb
 *.XTBL

@@ -138,6 +138,7 @@ About_Files.txt
 *.andonio
 *.android
 *.angleware
+*.angry
 *.AngryDuck
 *.angus
 *.ann
@@ -270,6 +271,7 @@ About_Files.txt
 *.birbb
 *.Bisquilla
 *.bitcoin
+*.BITCOINPAYMENT
 *.Bitconnect
 *.bitcore
 *.BitCrypt
@@ -400,6 +402,7 @@ About_Files.txt
 *.ccd
 *.ccps
 *.ccryptor
+*.ccza
 *.cdrpt
 *.cekisan
 *.cerber
@@ -633,6 +636,7 @@ Coin.Locker.txt
 *.danger
 *.daris
 *.dark
+*.dark*
 *.DarkoderCryptor
 *.darus
 *.data
@@ -642,6 +646,7 @@ Coin.Locker.txt
 *.datawait
 *.davda
 *.DavesSmith
+*.Daz
 *.dbger
 *.dc
 *.dcrtr
@@ -930,6 +935,7 @@ encryptor_raas_readme_liesmich.txt
 *.file
 *.FileEncrypted
 FILESAREGONE.TXT
+*.filerec
 *.fileslack
 *.FilesLocker
 *.fileslocker@pm.me*
@@ -943,6 +949,7 @@ FILESAREGONE.TXT
 *.Flatcher3
 *.FLKR
 *.flowencryption
+*.FLSCrypt
 *.FLYU
 *.fmfgmfgm
 *.fonix
@@ -1847,6 +1854,7 @@ MZReverenge*
 *.ogdo
 *.ogre
 *.OhNo!
+*.Oiltraffic
 *.okokokokok
 *.omerta
 *.omfl
@@ -2067,6 +2075,9 @@ MZReverenge*
 *.QP
 *.qpss
 *@qq.com*
+*.qqlc
+*.qqlo
+*.qqmt
 *.qqqe
 *.qqqw
 *.qrja
@@ -2139,6 +2150,7 @@ MZReverenge*
 *.RE78P
 ReadDecryptFilesHere.txt
 *.readinstructions
+*.readlockfiles
 *.ReadManual.*
 *.readme
 *.Readnet7
@@ -2314,6 +2326,7 @@ SECRET.KEY
 *.sessions
 *.seto
 *.sev
+*.sex
 *.sext
 *.sexy
 *.SFile
@@ -2714,6 +2727,7 @@ SECRET.KEY
 *.wooly
 *.worcservice@protonmail.ch
 *.work
+*.world2022decoding
 *.worm
 *.WORMCRYPT0R
 *.wrar

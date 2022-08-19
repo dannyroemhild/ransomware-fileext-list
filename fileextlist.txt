@@ -1162,11 +1162,8 @@ HELP_YOUR_FILES.TXT
 *.hhew
 *.hhjk
 *.hhqa
-<<<<<<< HEAD
 *.hicrypt
-=======
 *.hhyu
->>>>>>> 85c3f06dd24fc21b410424c3e08ed7ceb9529722
 *.Hidden
 *.HiddenTear
 *.hilda
@@ -2080,6 +2077,7 @@ MZReverenge*
 *.qqmt
 *.qqqe
 *.qqqw
+*.qqri
 *.qrja
 *.QuakeWay
 *.quantum
@@ -2664,11 +2662,8 @@ SECRET.KEY
 *.vvew
 *.vvoa
 *.vvv
-<<<<<<< HEAD
 *.vvyu
-=======
 *.vvwq
->>>>>>> 85c3f06dd24fc21b410424c3e08ed7ceb9529722
 *.vyia
 *.w7KFlkB
 *.waffle

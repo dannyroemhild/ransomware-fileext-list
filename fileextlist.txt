@@ -745,6 +745,7 @@ DECRYPT_ReadMe.TXT
 *.dolphin
 *.domn
 *.Done
+*.DONKEYHOT
 *.DoNotChange
 *.donut
 *.dop
@@ -1400,6 +1401,7 @@ jpa.*
 *.kolz
 *.kook
 *.koom
+*.KOPYTZEMPEREEBET
 *.korea
 *.koreaGame
 *.koti
@@ -1523,6 +1525,7 @@ _Locky_recover_instructions.txt
 *.lonleyencryptedfile
 *.LooCipher
 *.loov
+*.loplup.*
 *.lordofshadow
 *.Lortok
 *.losers
@@ -2072,9 +2075,12 @@ MZReverenge*
 *.QP
 *.qpss
 *@qq.com*
+*.qqjj
+*.qqkk
 *.qqlc
 *.qqlo
 *.qqmt
+*.qqpp
 *.qqqe
 *.qqqw
 *.qqri
@@ -2739,6 +2745,7 @@ SECRET.KEY
 *.x1881
 *.x3
 *.xati
+*.xbtl
 *.xcbg
 *.xcmb
 *.XCry
@@ -2865,6 +2872,7 @@ YOUR_FILES.url
 *.Zv7uN
 *.zwer
 *.zxcv
+*.zxcvb
 *.ZyNoXiOn
 *.Zyr
 *.zzla

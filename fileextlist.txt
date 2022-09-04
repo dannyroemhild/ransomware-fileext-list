@@ -415,6 +415,7 @@ About_Files.txt
 *.charlie.j0hnson
 *.charmant
 *.chch
+*.CHEAPLAMINATE
 *.chech
 *.checkmate
 *.cheetah
@@ -523,6 +524,7 @@ Coin.Locker.txt
 *.CRPTD
 *.crptxxx
 *.cruel
+*.crxx
 *.cry
 *.Cryakl
 *.crybrazil
@@ -956,6 +958,7 @@ FILESAREGONE.TXT
 *.fonix
 *.foop
 *.fopa
+*.fopra*
 *.foqe
 *.for
 *.forasom
@@ -996,6 +999,7 @@ FILESAREGONE.TXT
 *.GandCrab
 *.GandCrab2
 *.GanP
+*.gaqtfpr
 *.garantydecrypt
 *.garminwasted
 *.garrantydecrypt
@@ -1170,6 +1174,7 @@ HELP_YOUR_FILES.TXT
 *.hilda
 *.HildaCrypt
 *.himr
+*.HIP1*
 *.hive
 *.HKCrypt
 *.hnx911
@@ -1215,6 +1220,7 @@ Howto_Restore_FILES.TXT
 IAMREADYTOPAY.TXT
 *.iaufkakfhsaraf
 *.icp
+*.ICQ@PIZZASUCKER
 *.ID.GORILLA
 *.ID.VENDETTA
 *.IEncrypt
@@ -1340,6 +1346,7 @@ jpa.*
 *.jwjs
 *.jyqji
 *.k
+*.k1ng*
 *.Kaenlupuf
 *.Karen
 *.karl
@@ -1367,6 +1374,8 @@ jpa.*
 *.key0004
 *.KeyBTC
 *.keybtc@inbox_com
+*.keygroup
+*.keygroup777
 *.KEYHolder
 *.keypass
 *.kharma
@@ -1440,6 +1449,7 @@ jpa.*
 *.lanset
 *.lapoi
 *.lasan
+*.lavasky
 *@lashbania.tv*
 *.lazarus
 *.lbiaf6c8
@@ -2834,6 +2844,7 @@ YOUR_FILES.url
 *.zemblax
 *.Zenis
 *.Zenis-*
+*.ZeNyA
 *.zeoticus
 *.ZeroFucks
 *.zeronine

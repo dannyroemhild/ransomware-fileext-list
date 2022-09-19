@@ -270,6 +270,7 @@ About_Files.txt
 *.bin2
 *.Bioawards
 *.birbb
+*.BISAMWARE
 *.Bisquilla
 *.bitcoin
 *.BITCOINPAYMENT
@@ -352,6 +353,7 @@ About_Files.txt
 *.brg
 *.brickr
 *.browec
+*.bruhnet
 *.brusaf
 *.bsc
 *.btc
@@ -805,7 +807,11 @@ DECRYPT_ReadMe.TXT
 *.EduCrypt
 *.eduransom
 *.edw
+*.eebn
 *.eegf
+*.eemv
+*.eewt
+*.eeyu
 *.efdc
 *.efji
 *.eg
@@ -1058,6 +1064,7 @@ FILESAREGONE.TXT
 *.gmn3
 *.gmpf
 *@gmx.de*
+*.gnik
 *.gnncry
 *.gns
 *.godes
@@ -1947,6 +1954,7 @@ MZReverenge*
 *.PAYLOADBIN
 *.payman
 *.Paymen45
+*.paynow
 *.PayPalGenerator2019
 *.PaySafeGen
 *.Payt
@@ -2324,6 +2332,7 @@ restorefiles.txt
 *.saylessrsnm
 *.sblock
 *.sbpg
+*.scam
 *.ScareCrow
 *.scorpion
 *.scr
@@ -2737,6 +2746,7 @@ SECRET.KEY
 *.Winnix
 *.WinRarer
 *.wintenzz
+*.winxvykljw
 *.wiot
 *.wixawm
 *.wlu

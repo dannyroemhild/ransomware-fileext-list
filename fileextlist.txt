@@ -54,6 +54,7 @@
 *.52pojie
 *.54bb47h
 *.5ss5c
+*.62IX
 *.666
 *.6be31
 *.6ix9
@@ -69,6 +70,10 @@
 *.a800
 *.aa1
 *.aaa
+*.aabn
+*.aamv
+*.aawt
+*.aayu
 *.AB89
 *.abarcy
 *.abat
@@ -291,6 +296,7 @@ About_Files.txt
 *.BKRansomware
 *@bk.ru
 *.black007
+*.BlackBit
 *.BlackCocaine
 *.BlackHeart
 *.BlackKingdom
@@ -624,6 +630,7 @@ Coin.Locker.txt
 *.cxkdata
 *.cxk_nmsl
 *.CXK-NMSL
+*.Cyber_Puffin
 *.cybergod
 *.CyberSCCP
 *.cyborg
@@ -864,6 +871,7 @@ DECRYPT_ReadMe.TXT
 encryptor_raas_readme_liesmich.txt
 *.encS
 *.enfp
+*.enigma
 *.Enjey Crypter
 *.EnkripsiPC
 *.epor
@@ -899,6 +907,7 @@ encryptor_raas_readme_liesmich.txt
 *.exotic
 *.expboot
 *.exploit
+*.exploit6
 *.Extortion
 *.Extractor
 *.exx
@@ -1516,6 +1525,7 @@ locked.*
 *.LockedByte
 *.locked_file
 *.lockedfile
+*.LOCKEDFILECR
 *.lockedv1
 *.Locked-In
 *.locker16
@@ -1670,6 +1680,7 @@ _Locky_recover_instructions.txt
 *.MILIHPEN
 *.MindSystem
 *.mine
+*.minex
 *.Minotaur
 *.mira
 *.MirCop
@@ -1905,6 +1916,7 @@ MZReverenge*
 *.OpJerusalem
 *.opqz
 *.oral
+*.ORCA.*
 *.ordinal
 *.Ordinypt
 *.origami
@@ -2011,6 +2023,7 @@ MZReverenge*
 *.poker
 *.pola
 *.Polina
+*.polis
 *.PonyFinal
 *.poolezoor
 *.poop

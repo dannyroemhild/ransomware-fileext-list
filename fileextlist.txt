@@ -92,6 +92,7 @@ About_Files.txt
 *.adame
 *.AdamLocker
 *.adhubllka
+*.adlg
 *.admin1
 *.admin2
 *.admin3
@@ -100,6 +101,7 @@ About_Files.txt
 *.AdolfHitler
 *.adr
 *.adv
+*.adww
 *.aep
 *.aes128ctr
 *.AES256-06
@@ -1287,6 +1289,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.Ipcrestore
 *.ipm
 *.IQ_IQ
+*.iq20
 *.iqll
 *.iqy
 *.iRansom
@@ -1333,6 +1336,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.jest
 *.jhbg
 *.jhgn
+*.jiang
 *.jigsaaw
 *.jigsaw
 *.jimm
@@ -1702,6 +1706,7 @@ _Locky_recover_instructions.txt
 *.mmteam
 *.mmuz
 *.mmvb
+*.MMXXII
 *.mnbzr
 *.mnc
 *.Mnd4
@@ -1805,6 +1810,7 @@ MZReverenge*
 *.net
 *.NETCrypton
 *.Netix
+*.netlock
 *.Netwalker
 *.networkmaze
 *.NewHT
@@ -1885,10 +1891,14 @@ MZReverenge*
 *.odin
 *.odveta
 *.OFFWHITE
+*.oflg
+*.ofoq
+*.ofww
 *.ogdo
 *.ogre
 *.OhNo!
 *.Oiltraffic
+*.okhacked
 *.okokokokok
 *.omerta
 *.omfl
@@ -2221,6 +2231,7 @@ RECOVERY_KEY.txt
 *.reddot
 *.redeem
 *.redeye
+*.redkrypt
 *.redmat
 *.redrum
 *.REDTM
@@ -2515,6 +2526,7 @@ SECRET.KEY
 *.sz40
 *.SZFLocker
 *.Szymekk
+*.T_TEN
 *.t1000
 *.T1Happy
 *.tabe
@@ -2566,6 +2578,7 @@ SECRET.KEY
 *.todar
 *.todarius
 *.toec
+*.tohj
 *.tokog
 *.tools_ensikology
 *.topi
@@ -2574,6 +2587,7 @@ SECRET.KEY
 *.tornado
 *.TotalWipeOut
 *.TowerWeb
+*.towz
 *.toxcrypt
 *.tr
 *.trap
@@ -2627,6 +2641,7 @@ SECRET.KEY
 *.UmbreCrypt
 *.UnblockUPC
 *.Ungluk
+*.unique
 *.unit09
 *.Unknown
 *.unlock
@@ -2729,6 +2744,7 @@ SECRET.KEY
 *.wannaren
 *.WannaSmile
 *.WannaSpam
+*.Wanqu
 *.warlocks
 *.wasted
 *.*wasted_info
@@ -2762,6 +2778,7 @@ SECRET.KEY
 *.winxvykljw
 *.wiot
 *.wixawm
+*.Wizard
 *.wlu
 *.wncry
 *.wncrypt

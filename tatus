@@ -1,0 +1,129 @@
+[33mcommit 2573f94bb5b9fa5060da047426d15a021932766a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: 1.0.76[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Danny Römhild <danny.roemhild@gmx.de>
+Date:   Sat Oct 8 21:45:09 2022 +0200
+
+    New-Fileext-221008
+
+[1mdiff --git a/fileextlist.txt b/fileextlist.txt[m
+[1mindex bc04d58..8d82998 100644[m
+[1m--- a/fileextlist.txt[m
+[1m+++ b/fileextlist.txt[m
+[36m@@ -92,6 +92,7 @@[m [mAbout_Files.txt[m
+ *.adame[m
+ *.AdamLocker[m
+ *.adhubllka[m
+[32m+[m[32m*.adlg[m
+ *.admin1[m
+ *.admin2[m
+ *.admin3[m
+[36m@@ -100,6 +101,7 @@[m [mAbout_Files.txt[m
+ *.AdolfHitler[m
+ *.adr[m
+ *.adv[m
+[32m+[m[32m*.adww[m
+ *.aep[m
+ *.aes128ctr[m
+ *.AES256-06[m
+[36m@@ -1287,6 +1289,7 @@[m [mINSTRUCCIONES_DESCIFRADO.TXT[m
+ *.Ipcrestore[m
+ *.ipm[m
+ *.IQ_IQ[m
+[32m+[m[32m*.iq20[m
+ *.iqll[m
+ *.iqy[m
+ *.iRansom[m
+[36m@@ -1333,6 +1336,7 @@[m [mINSTRUCCIONES_DESCIFRADO.TXT[m
+ *.jest[m
+ *.jhbg[m
+ *.jhgn[m
+[32m+[m[32m*.jiang[m
+ *.jigsaaw[m
+ *.jigsaw[m
+ *.jimm[m
+[36m@@ -1702,6 +1706,7 @@[m [m_Locky_recover_instructions.txt[m
+ *.mmteam[m
+ *.mmuz[m
+ *.mmvb[m
+[32m+[m[32m*.MMXXII[m
+ *.mnbzr[m
+ *.mnc[m
+ *.Mnd4[m
+[36m@@ -1805,6 +1810,7 @@[m [mMZReverenge*[m
+ *.net[m
+ *.NETCrypton[m
+ *.Netix[m
+[32m+[m[32m*.netlock[m
+ *.Netwalker[m
+ *.networkmaze[m
+ *.NewHT[m
+[36m@@ -1885,10 +1891,14 @@[m [mMZReverenge*[m
+ *.odin[m
+ *.odveta[m
+ *.OFFWHITE[m
+[32m+[m[32m*.oflg[m
+[32m+[m[32m*.ofoq[m
+[32m+[m[32m*.ofww[m
+ *.ogdo[m
+ *.ogre[m
+ *.OhNo![m
+ *.Oiltraffic[m
+[32m+[m[32m*.okhacked[m
+ *.okokokokok[m
+ *.omerta[m
+ *.omfl[m
+[36m@@ -2221,6 +2231,7 @@[m [mRECOVERY_KEY.txt[m
+ *.reddot[m
+ *.redeem[m
+ *.redeye[m
+[32m+[m[32m*.redkrypt[m
+ *.redmat[m
+ *.redrum[m
+ *.REDTM[m
+[36m@@ -2515,6 +2526,7 @@[m [mSECRET.KEY[m
+ *.sz40[m
+ *.SZFLocker[m
+ *.Szymekk[m
+[32m+[m[32m*.T_TEN[m
+ *.t1000[m
+ *.T1Happy[m
+ *.tabe[m
+[36m@@ -2566,6 +2578,7 @@[m [mSECRET.KEY[m
+ *.todar[m
+ *.todarius[m
+ *.toec[m
+[32m+[m[32m*.tohj[m
+ *.tokog[m
+ *.tools_ensikology[m
+ *.topi[m
+[36m@@ -2574,6 +2587,7 @@[m [mSECRET.KEY[m
+ *.tornado[m
+ *.TotalWipeOut[m
+ *.TowerWeb[m
+[32m+[m[32m*.towz[m
+ *.toxcrypt[m
+ *.tr[m
+ *.trap[m
+[36m@@ -2627,6 +2641,7 @@[m [mSECRET.KEY[m
+ *.UmbreCrypt[m
+ *.UnblockUPC[m
+ *.Ungluk[m
+[32m+[m[32m*.unique[m
+ *.unit09[m
+ *.Unknown[m
+ *.unlock[m
+[36m@@ -2729,6 +2744,7 @@[m [mSECRET.KEY[m
+ *.wannaren[m
+ *.WannaSmile[m
+ *.WannaSpam[m
+[32m+[m[32m*.Wanqu[m
+ *.warlocks[m
+ *.wasted[m
+ *.*wasted_info[m
+[36m@@ -2762,6 +2778,7 @@[m [mSECRET.KEY[m
+ *.winxvykljw[m
+ *.wiot[m
+ *.wixawm[m
+[32m+[m[32m*.Wizard[m
+ *.wlu[m
+ *.wncry[m
+ *.wncrypt[m

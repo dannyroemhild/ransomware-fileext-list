@@ -1114,7 +1114,6 @@ DECRYPT_ReadMe.TXT
 *.demon
 *.DEMON
 *.Deniz_kizi
-*.Deniz_Kızı
 *.DENO
 *.deria
 *.DeriaLock
@@ -1651,7 +1650,7 @@ FILESAREGONE.TXT
 *.gns
 *.GNS
 *.gocr
-*.g^od
+*.god
 *.godes
 *.godlock
 *.GodLock

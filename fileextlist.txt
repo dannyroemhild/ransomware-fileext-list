@@ -979,6 +979,7 @@ cryptolocker.*
 *.cxkdata
 *.cxk_nmsl
 *.CXK-NMSL
+*.cyber
 *.cyberdrill
 *.cybergod
 *.Cyber_Puffin
@@ -1143,6 +1144,7 @@ DesktopOsiris.*
 *.djvus
 *.djvut
 *.djvuu
+*.dkey
 *.dkrf
 *.dlenggrl
 *.dmay
@@ -1346,6 +1348,7 @@ encryptor_raas_readme_liesmich.txt
 *.error
 *.errz
 *.ESCAL*
+*.escanor
 *.esexz
 *.ES_HELPs
 *.Estemani
@@ -3051,6 +3054,7 @@ OSIRIS-*.*
 *.Po
 *.po1hg
 *.PoAr2w
+*.pohj
 *.POHU
 *.poison
 *.PoisonFang
@@ -3081,12 +3085,11 @@ OSIRIS-*.*
 *.PowerLocky
 *.PowerWare
 *.powned
+*.powz
 *.pox
-*.Pox
 *.poyvonm
 *.ppam
 *.ppdddp
-*.PPDDDP
 *.pphg
 *.PPHL
 *.pqgs
@@ -3102,7 +3105,6 @@ OSIRIS-*.*
 *.problem
 *.proced
 *.prodecryptor
-*.Prodecryptor
 *.proden
 *.Project34
 *.Project57
@@ -3214,7 +3216,7 @@ OSIRIS-*.*
 *.R4bb0l0ck
 *.__r4gN4r*
 *.r5a
-*.R5A
+*.r7
 *.R980
 *.r9uAV
 *.RaaS
@@ -3840,7 +3842,7 @@ SECRET.KEY
 *.towz
 *.toxcrypt
 *.tr
-*.TR
+*.trg
 *@trampo.info
 *.TraNs
 *.trap
@@ -3850,7 +3852,6 @@ SECRET.KEY
 *.triple_m
 *.trix
 *.trmt
-*.TRMT
 *.tro
 *.Trojan.Encoder.6491
 *.Troldesh
@@ -3870,14 +3871,15 @@ SECRET.KEY
 *.try
 *.Try2Cry
 *.tsar
-*.Tsar
 *.tsv
 *.T_TEN
 *.ttii
 *.ttt
 *.tuid
+*.tuis
 *.tunca
 *.TurkStatik
+*.tury
 *.tusk
 *@tuta.io
 *@tutanota*

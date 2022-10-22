@@ -62,7 +62,6 @@
 *.2k19sys
 *.2lwnPp2B
 *.2new
-*.2NEW
 *.2ourt0
 *.2spyware
 *.2x2d
@@ -170,7 +169,6 @@ aboutYourFiles.*
 *.actor
 *.ACTUM
 *.acuf2
-*.Acuf2
 *.Acuff
 *.acuna
 *.acute
@@ -316,6 +314,7 @@ aboutYourFiles.*
 *.asd
 *.asdasdasd
 *.asdgahgahgf
+*.ash
 *.ASN1
 *.AstraLocker
 *.asus
@@ -1356,6 +1355,7 @@ encryptor_raas_readme_liesmich.txt
 *.eTeRnItY
 *.eth
 *.etols
+*.eu
 *.euclid
 *.eucy
 *.eur
@@ -1462,6 +1462,7 @@ FILESAREGONE.TXT
 *.fixt
 *.FJ7QvaR9VUmi
 *.FLAMINGO
+*.flash*
 *.flat
 *.Flatcher3
 *.FLKR
@@ -2385,6 +2386,7 @@ _Locky_recover_instructions.txt
 *.lukitus
 *.lukitus-tiedostopäätettä
 *.Lulz
+*.lumino_locked
 *.lurk
 *.lux
 *.lx
@@ -3433,6 +3435,7 @@ RESTORE-SIGRUN.*
 *.rsalive
 *.RSA-NI
 *.RSAUtil
+*.rsjon
 *.RSNSlocked
 *.RSplited
 *.rsucozxze

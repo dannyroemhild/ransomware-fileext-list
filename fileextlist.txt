@@ -2775,6 +2775,7 @@ MZReverenge*
 *.nuclear
 *.nuclear55
 *.nuhb
+*.nuis
 *.Nuke
 *.nuke55
 *@nuke.africa
@@ -2784,6 +2785,7 @@ MZReverenge*
 *.NullByte
 *.numberdot
 *.NUMBERDOT
+*.nury
 *.nusar
 *.nusm
 *.Nutella

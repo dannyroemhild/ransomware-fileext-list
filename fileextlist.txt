@@ -266,6 +266,7 @@ aboutYourFiles.*
 *.angus
 *.anigma
 *.animus
+*.anin_by
 *.ann
 *.Annabelle
 *.Annabelle2
@@ -354,6 +355,7 @@ aboutYourFiles.*
 *.azer
 *.azero
 *.azor
+*.azov
 *.b00m
 *.b0ff
 *.bl0cked
@@ -410,6 +412,7 @@ aboutYourFiles.*
 *.bbbe
 *.bbbr
 *.bbbw
+*.bbd2.*
 *.bbii
 *.bbnm
 *.bboo
@@ -563,8 +566,10 @@ aboutYourFiles.*
 *.boruta
 *.boston
 *.bot
+*.bowd
 *.bozon
 *.bozon3
+*.bozq
 *.bpqd
 *.bqd2
 *.braincrypt
@@ -1457,6 +1462,7 @@ FILESAREGONE.TXT
 *.firex3m
 *.firmabilgileri
 *.FirstKill
+*.fisakalzb
 *.fix
 *.FIXED
 *.fixt
@@ -1923,6 +1929,7 @@ IHAVEYOURSECRET.KEY
 *.info@mymail9.com
 *.info@shareby.com
 *.infowait
+*.inlock
 *.insane
 *.InsaneCrypt
 *.insta
@@ -2108,6 +2115,7 @@ jpa.*
 *.kill
 *.killedXXX
 *.KillerLocker
+*.killnet
 *.killrabbit
 *.KillRabbit
 *.kimchenyn
@@ -3083,7 +3091,8 @@ OSIRIS-*.*
 *.pornoransom
 *.POSHKODER
 *.potato
-*.Poteston
+*.Poteston4
+*.powd
 *.powerfuldecrypt
 *.powerfulldecrypt
 *.PowerLocky

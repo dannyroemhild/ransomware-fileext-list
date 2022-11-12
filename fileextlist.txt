@@ -271,6 +271,7 @@ aboutYourFiles.*
 *.Annabelle
 *.Annabelle2
 *.anon
+*.anon_by
 *.anon000
 *.anonymous
 *.anta
@@ -423,6 +424,7 @@ aboutYourFiles.*
 *.BCCaEaadBA
 *.bclaw
 *.bd
+*.bDAT
 *.bddy
 *.bdev
 *.bdkr
@@ -845,6 +847,7 @@ Coin.Locker.txt
 *.crjoker
 *.croc
 *.CroNi.ZoNe
+*.crow
 *.crown
 *.CRP
 *.crptd
@@ -954,6 +957,7 @@ cryptolocker.*
 *.CryPy
 *.crypz
 *.CrySiS
+*.CrySpheRe
 *.Crystal
 *.cryt0y
 *.CRYZP
@@ -1185,6 +1189,7 @@ DesktopOsiris.*
 *.dqws
 *.DQXOO
 *.dragnea
+*@dr.com
 *@dr.com.gr3g
 *.dream
 *.DriedSister
@@ -1250,7 +1255,6 @@ DesktopOsiris.*
 *.efji
 *.efvc
 *.eg
-*.EG
 *.EG83
 *.egfg
 *.egg
@@ -1293,7 +1297,6 @@ DesktopOsiris.*
 *.encencenc
 *.encfiles
 *.enciphered
-*.EnCiPhErEd
 *.encmywork
 *.encoded01
 *.encoded_pl
@@ -1308,15 +1311,12 @@ DesktopOsiris.*
 *._encrypted
 *.encrypted
 *.encrypted*
-*.Encrypted
 *.encrypted5
-*.Encrypted5
 *.encryptedAES
 *.encryptedALL
 *.encrypted_backup
 *.EncryptedBatch
 *.encryptedbybb
-*.encryptedbyBB
 *.encryptedJB
 *.encryptedl
 *.encryptedped
@@ -2557,6 +2557,7 @@ _Locky_recover_instructions.txt
 *.mnbzr
 *.mnc
 *.Mnd4
+*.mnlywjzi
 *.MNS
 *.mo2
 *.mo7n
@@ -3517,6 +3518,7 @@ RESTORE-SIGRUN.*
 *.savethequeening
 *.SAVEYOURDATA
 *.saylessrsnm
+*.sbkyedekal
 *.sblock
 *.sbpg
 *.scam
@@ -3795,6 +3797,7 @@ SECRET.KEY
 *.teren
 *.termit
 *.Termite
+*.terror_ramp3
 *.Tesla
 *.TeslaCrypt
 *.teslarvng
@@ -4304,6 +4307,8 @@ YOUR_FILES.url
 *.ZareuS
 *.ZariqaCrypt
 *.zasifrovano*
+*.zate
+*.zatp
 *.zatrov
 *.zax
 *.ZAYKA

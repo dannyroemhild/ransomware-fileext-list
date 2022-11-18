@@ -149,7 +149,6 @@
 *.AB89
 *.abarcy
 *.abat
-*.ABAT
 *ABAT*INFO*.*
 *.abc
 *.abcd
@@ -276,6 +275,7 @@ aboutYourFiles.*
 *.anonymous
 *.anta
 *.AnteFrigus
+*.Anthraxbulletproof
 *.antihacker2017
 *.Antivirus
 *.anubi
@@ -428,7 +428,6 @@ aboutYourFiles.*
 *.bddy
 *.bdev
 *.bdkr
-*.BDKR
 *.BD.Recovery
 *.beaf
 *.beamed
@@ -776,7 +775,6 @@ Coin.Locker.txt
 *.con30
 *.condat
 *.conficker
-*.CONFICKER
 *.consciousness
 *.contactus
 *.conti
@@ -794,7 +792,6 @@ Coin.Locker.txt
 *.coronalock
 *.CoronaLock
 *.coronavirus
-*.CoronaVirus
 *.corp
 *.corrupt
 *.CorruptCrypt
@@ -855,7 +852,6 @@ Coin.Locker.txt
 *.crptxxx
 *.CRRRT
 *.cruel
-*.Cruel
 *.crxx
 *.cry
 *.Cry128
@@ -894,7 +890,6 @@ Coin.Locker.txt
 *.crypte
 *._crypted
 *.crypted
-*._Crypted
 *.crypted000007
 *.crypted034
 *.crypted_bizarrio@pay4me_in
@@ -982,7 +977,6 @@ cryptolocker.*
 *.cvc
 *.cve
 *.c-vir
-*.C-VIR
 *.cxk
 *.cxkdata
 *.cxk_nmsl
@@ -1089,7 +1083,6 @@ DECRYPT_ReadMe.TXT
 *.dehd
 *.*-DELETED-FOREVER
 *.delta
-*.DELTA
 *.democ
 *.demon
 *.Deniz_kizi
@@ -1189,6 +1182,7 @@ DesktopOsiris.*
 *.dqws
 *.DQXOO
 *.dragnea
+*.DRCRM
 *@dr.com
 *@dr.com.gr3g
 *.dream
@@ -1236,7 +1230,7 @@ DesktopOsiris.*
 *.ecc
 *.eCh0raix
 *.eclr
-*.ECLR*
+*.eclr*
 *.ecrp
 *.ecure
 *.eddldzor
@@ -1415,6 +1409,9 @@ encryptor_raas_readme_liesmich.txt
 *.FASTBOB
 *.fastwind
 *.fat32
+*.fate
+*.fatp
+*.faust
 *.FBSYW
 *.fbuvkngy
 *.fc
@@ -1511,7 +1508,6 @@ FILESAREGONE.TXT
 *.fsociety
 *.fsvlf4
 *.ftcode
-*.FTCODE
 *.fuchsia
 *.fuck
 *.fuckandrun
@@ -1529,7 +1525,6 @@ FILESAREGONE.TXT
 *.fun
 *.FunFact
 *.funny
-*.FUNNY
 *.FUSION
 *.futm
 *.fuXcF
@@ -1622,12 +1617,10 @@ FILESAREGONE.TXT
 *.gnik
 *.gnncry
 *.gns
-*.GNS
 *.gocr
 *.god
 *.godes
 *.godlock
-*.GodLock
 *.godra
 *.goforhelp
 *.GoGoogle
@@ -1694,7 +1687,6 @@ FILESAREGONE.TXT
 *.h0lyenc
 *.h3ll
 *.ha3
-*.HA3
 *.hac
 *.hack
 *.hackdoor
@@ -1704,7 +1696,6 @@ FILESAREGONE.TXT
 *.hacker_decryption@protonmail.ch
 *.hacking
 *.hades666
-*.Hades666
 *.HadesLocker
 *.HaHaHaHaHaHaHaHa
 *.hajd
@@ -1785,7 +1776,6 @@ HELP_YOUR_FILES.TXT
 *.H_F_D_locked
 *.hfgd
 *.hgsh
-*.HGSH
 *.hheo
 *.hhew
 *.HHFEHIOL
@@ -1834,7 +1824,6 @@ HELP_YOUR_FILES.TXT
 *.horsedeal
 *.horseleader
 *.horseliker
-*.HORSELIKER
 *.HORSEMONEY
 *.horsuke
 *.hotcoffee
@@ -1870,7 +1859,6 @@ Howto_Restore_FILES.TXT
 *.hydracrypt_ID*
 *.hydrox
 *.hyena
-*.HYENA
 IAMREADYTOPAY.TXT
 *.iaufkakfhsaraf
 *.icp
@@ -1915,7 +1903,6 @@ IHAVEYOURSECRET.KEY
 *@india.com
 *.indonesia
 *.indrik
-*.INDRIK
 *.InducVirus
 *.infected
 *.INFECTION
@@ -1984,7 +1971,6 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.javaencrypt
 *.javalocker
 *.jaythl
-*.JayTHL
 *.JB88
 *.jbptlio
 *.jc
@@ -2025,7 +2011,6 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.jojocrypt
 *.joker
 *.jope
-*.JOPE
 *.josep
 *.JosepCrypt
 jpa.*
@@ -2117,7 +2102,6 @@ jpa.*
 *.KillerLocker
 *.killnet
 *.killrabbit
-*.KillRabbit
 *.kimchenyn
 *.kimcilware
 *.king
@@ -2337,7 +2321,6 @@ _Locky_recover_instructions.txt
 *.LOL!
 *.lola
 *.loli
-*.LOLI
 *.lolita
 *.lolkek
 *.LolSec
@@ -2372,17 +2355,14 @@ _Locky_recover_instructions.txt
 *.loveyouisreal
 *.LowLevel04
 *.lowprice
-*.LOWPRICE
 *.lpsk
 *.lqqw
-*.LQQW
 *.lr
 *.lsas
 *.LSOBKMHG
 *.lssr
 *.LTC
 *.ltml
-*.LTML
 *.ltnuhr
 *.luboversova148
 *.luceq
@@ -2450,7 +2430,6 @@ _Locky_recover_instructions.txt
 *.Maoloa
 *.mapo
 *.maql
-*.Maql
 *.Marduk
 *.mariacbc
 *.Marlboro
@@ -2472,7 +2451,6 @@ _Locky_recover_instructions.txt
 *.maxicrypt
 *.MaxSteel.*
 *.maya
-*.MAYA
 *.Maykolin
 *.maykolin1234@aol.com
 *.maysomware
@@ -2492,7 +2470,6 @@ _Locky_recover_instructions.txt
 *.Medusa
 *.meduza
 *.mefilin
-*.MEFILIN
 *.megac0rtx
 *.megacortex
 *.MegaLocker
@@ -2532,7 +2509,6 @@ _Locky_recover_instructions.txt
 *.minex
 *.Minotaur
 *.mira
-*.Mira
 *.MirCop
 *.MireWare
 *.Mischa
@@ -2569,7 +2545,6 @@ _Locky_recover_instructions.txt
 *.moia
 *.moka
 *.mole
-*.MOLE
 *.MOLE00
 *.MOLE01
 *.MOLE02
@@ -2634,7 +2609,6 @@ _Locky_recover_instructions.txt
 *.myskle
 *.Mystic
 *.mz173801
-*.MZ173801
 *.MZ434376
 *.mzlq
 *.mzr
@@ -2687,7 +2661,6 @@ MZReverenge*
 *.Nemucod
 *.NEPHILIM
 *.neptune
-*.Neptune
 *.ner
 *.neras
 *.nermer
@@ -2734,7 +2707,6 @@ MZReverenge*
 *.nnqp
 *.nnuz
 *.nobad
-*.NOBAD
 *.noblis
 *.nobu
 *.nochance
@@ -2775,7 +2747,6 @@ MZReverenge*
 *.nqix
 *.nqsq
 *.nrcl
-*.NRCL
 *.NSB
 *.nsmf
 *.NTB
@@ -2793,7 +2764,6 @@ MZReverenge*
 *_nullbyte*
 *.NullByte
 *.numberdot
-*.NUMBERDOT
 *.nury
 *.nusar
 *.nusm
@@ -2906,7 +2876,6 @@ OSIRIS-*.*
 *.owned
 *.Ox4444
 *.oxr
-*.OXR
 *.Ozoza
 *.p3d374
 *.p3rf0rm4
@@ -2924,7 +2893,6 @@ OSIRIS-*.*
 *.pain
 *.palm
 *.palq
-*.PALQ
 *.PANDA
 *.pandemic
 *.pandora
@@ -2947,7 +2915,6 @@ OSIRIS-*.*
 *.PA-SIEM
 *.pauq
 *.pausa
-*.PAUSA
 *.pause
 *.paxynok
 *.PAY
@@ -2955,12 +2922,10 @@ OSIRIS-*.*
 *.pay2key
 *.pay2me
 *.payb
-*.payB
 *.paybtcs
 *.paycoin
 *.paycyka
 *.payday
-*.PayDay
 *.payfast*
 *.payfast500
 *.payfordecrypt
@@ -3268,7 +3233,6 @@ OSIRIS-*.*
 *.Ransed
 *.ransom
 *.ransomaes
-*.RansomAES
 *.ransomcrypt
 *.RansomCuck
 *.ransomed
@@ -3335,7 +3299,6 @@ RECOVERY_KEY.txt
 *.reddot
 *.redeem
 *.redeye
-*.RedEye
 *.redkrypt
 *.redl
 *.redmat
@@ -3373,7 +3336,6 @@ RESTORE-SIGRUN.*
 *.RetMyData
 *.REV
 *.revenge
-*.REVENGE 
 *.REVENLOCK7
 *.rever
 *.REvil
@@ -3458,17 +3420,14 @@ RESTORE-SIGRUN.*
 *.rtyrtyrty
 *.rubina5
 *.ruby
-*.Ruby
 *.rugj
 *.rumba
 *.rumblegoodboy
 *.Russenger
 *.Russian
-*.Russian EDA2
 *.rxqcpjoai
 *.rxx
 *.ryk
-*.RYK
 *.ryp
 *.Ryuk
 *.ryx
@@ -3503,7 +3462,6 @@ RESTORE-SIGRUN.*
 *.saramat
 *.sarbloh
 *.sars-cov-2
-*.SARS-CoV-2
 *.sarut
 *.satan
 *.SATANA
@@ -3564,6 +3522,7 @@ SECRET.KEY
 *.sev
 *.SEVENDAYS
 *.sex
+*.SEX3
 *.sext
 *.sexy
 *.SF
@@ -3587,7 +3546,6 @@ SECRET.KEY
 *.shelbyboom
 *.ShellLocker
 *.shgv
-*.Shgv
 *.shifr
 *.Shigo
 *.shinigami
@@ -3599,7 +3557,6 @@ SECRET.KEY
 *.shkskayd
 *.shootlock
 *.shrug
-*.SHRUG
 *.SHRUG2
 *.Shujin
 *.shutdown57
@@ -3679,7 +3636,6 @@ SECRET.KEY
 *SpartCrypt*
 *.spaß
 *.spct
-*.SPCT
 *.spectre
 *.spg
 *.sphinx
@@ -3806,7 +3762,6 @@ SECRET.KEY
 *tflower*
 *.tfude
 *.tfudeq
-*.Tfudeq
 *.tfudet
 *@tfwno.gf*
 *.TG33
@@ -3816,7 +3771,6 @@ SECRET.KEY
 *.thanos
 *.thbec
 *.thda
-*.THDA
 *.TheDarkEncryptor
 *.TheDMR
 *.TheTrumpLocker
@@ -3917,7 +3871,6 @@ SECRET.KEY
 *.uDz2j8mv
 *.ufwj
 *.ugmh
-*.UGMH
 *.uigd
 *.uihj
 *.UIK1J
@@ -3966,7 +3919,6 @@ unCrypte@outlook.com*
 *.vaca
 *.vacv2
 *.VAGGEN
-*.Valley
 *.vally
 *.VanGoth
 *.vanss
@@ -4144,7 +4096,6 @@ VictemKey_*_*
 *.work
 *.world2022decoding
 *.worm
-*.WORM
 *.WORMCRYPT0R
 *.wowreadfordecry
 *.wowreadfordecryp
@@ -4165,7 +4116,6 @@ VictemKey_*_*
 *.wunl
 *.wvtr0
 *.wwka
-*.WWKA
 *.WWW
 *.Wx7A6
 *.wxdrJbgSDa
@@ -4193,7 +4143,6 @@ VictemKey_*_*
 *.xdata
 *.xdrop
 *.xero
-*.XERO
 *.xfile
 *.xgpr
 *.XHAMSTER
@@ -4225,11 +4174,9 @@ VictemKey_*_*
 *.xrtn
 *.xsmb
 *.xtbl
-*.XTBL
 *.XTP
 *.xuy
 *.xvnaw
-*.XVNAW
 *.xwx
 *.xwz
 *.XXVMGQ
@@ -4255,9 +4202,9 @@ VictemKey_*_*
 *.YBNT
 *.ybtn
 *.ydhm
-*.YDHM
 *.yG
 *.ygkz
+*.yguekcbe
 *.ygvb
 *.YIAQDG
 *.yjqs
@@ -4332,6 +4279,7 @@ Zenis-*.*
 *.zeronine
 *.Zeropadypt
 *.ZeroRansom
+*.ZeRy
 *.zes
 *.ZEUS
 *.zfdv
@@ -4368,7 +4316,6 @@ Zenis-*.*
 *.zphs
 *.zpps
 *.zq
-*.ZQ
 *.zqde
 *.zqqw
 *.ZqVIkE

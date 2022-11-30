@@ -232,6 +232,7 @@ aboutYourFiles.*
 *.aleta
 *.Alfa
 *.AlfaBlock
+*.Alice
 *.alien
 *.Alienlock
 *.alilibat
@@ -709,6 +710,7 @@ aboutYourFiles.*
 *.chld
 *.choda
 *.CHRISTMAS
+*.chsch
 *.chuk
 *.Chuklock
 *.ChupaCabra
@@ -1001,6 +1003,7 @@ cryptolocker.*
 *.Czlock
 *.czvxce
 *.D00med
+*.d0nut
 *.D2550A49BF52DFC23F2C013C5
 *.d3ad
 *d3ad_Help.*
@@ -1024,6 +1027,7 @@ cryptolocker.*
 *.DarkoderCryptor
 *.darus
 *.data
+*.dataf
 *.DataKeeper
 *.Datalock
 *.datastop
@@ -1358,6 +1362,7 @@ encryptor_raas_readme_liesmich.txt
 *.eTeRnItY
 *.eth
 *.etols
+*.ety
 *.eu
 *.euclid
 *.eucy
@@ -2033,6 +2038,7 @@ jpa.*
 *.junior
 *.junked
 *.jupstb
+*.just
 *.justbtcwillhelpyou
 *.justice
 *.jwjs
@@ -2062,8 +2068,10 @@ jpa.*
 *.KAxoAgY
 *.kb15
 *.*KBK
+*.kcbu
 *.kci0n
 *.kcry
+*.kcvp
 *.KCW
 *.kcwenc
 *.KCWTT
@@ -2381,6 +2389,7 @@ _Locky_recover_instructions.txt
 *.Lulz
 *.lumino_locked
 *.lurk
+*.lUUUUUUUUU
 *.lux
 *.lx
 *.lxhlp
@@ -2796,6 +2805,7 @@ MZReverenge*
 *.obleep
 *.oblivion
 *.ocean
+*.octo
 *.octopus
 *.odayo
 *.odcodc
@@ -3924,6 +3934,7 @@ unCrypte@outlook.com*
 *.uudjvu
 *.Uyari
 *.uyjh
+*.uyro
 *.v316
 *.V8Locker
 *.vaca

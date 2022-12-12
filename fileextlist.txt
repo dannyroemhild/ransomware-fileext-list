@@ -240,6 +240,7 @@ aboutYourFiles.*
 *.alka
 *.Alkohol
 *.allcry
+*.allock*
 *.Al-Namrood
 *.ALNBR
 *.alosia
@@ -411,6 +412,7 @@ aboutYourFiles.*
 *.basslock
 *.basta
 *.BAWSUOOXE
+*.bazek
 *.bb4-230*
 *.bbawasted
 *.bbbe
@@ -1655,6 +1657,7 @@ FILESAREGONE.TXT
 *.GPAA
 *.GPCode
 *.GPGQwerty
+*.gqlmcwnhh
 *.gr3g
 *.GRANIT
 *.granny
@@ -2032,6 +2035,7 @@ jpa.*
 *.jswrm
 *.judge
 *.JuicyLemon
+*.Juli
 *.Jumper
 *.jungle@*
 *.JungleSec
@@ -2472,6 +2476,7 @@ _Locky_recover_instructions.txt
 *.mbed
 *.mbit
 *.mbrcodes
+*.mbtf
 *.mcafee
 *.MCrypt2018
 *.mded
@@ -2592,6 +2597,7 @@ _Locky_recover_instructions.txt
 *.mpag
 *.mpaj
 *.mpal
+*.mppn
 *.mppq
 *.MRCR1
 *.MrDec
@@ -2804,6 +2810,7 @@ MZReverenge*
 *.*obleep
 *.obleep
 *.oblivion
+*.OBZ
 *.ocean
 *.octo
 *.octopus
@@ -3138,7 +3145,9 @@ OSIRIS-*.*
 *.punisher
 *.PureLocker
 *.purge
+*.puspa2#mejukeni7sala029
 *.pussy
+*.puuuk
 *.pwnd
 *.PwndLocker
 *.pwned
@@ -3412,6 +3421,7 @@ RESTORE-SIGRUN.*
 *.RoshaLock
 *.rote
 *.RotorCrypt
+*.royal
 *.royal_w
 *.royroy.*
 *.Roza
@@ -3934,6 +3944,7 @@ unCrypte@outlook.com*
 *.uudjvu
 *.Uyari
 *.uyjh
+*.uyit
 *.uyro
 *.v316
 *.V8Locker

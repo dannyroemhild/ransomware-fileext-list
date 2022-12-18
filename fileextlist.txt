@@ -494,6 +494,7 @@ aboutYourFiles.*
 *.bitx
 *.biz
 *.bizer
+*.bjrtziwsgw
 *.BK
 *.bk666
 *.bkc
@@ -606,7 +607,9 @@ aboutYourFiles.*
 *.btHTIb
 *.btHTlb
 *.btix
+*.btnw
 *.btos
+*.bttu
 *.Bubble
 *.Bucbi
 *.bud
@@ -1745,6 +1748,7 @@ FILESAREGONE.TXT
 *.hdmr
 *._HE
 *.health
+*.hebem
 *.heets
 *.Heimdall
 *.heisenberg
@@ -1772,6 +1776,7 @@ HELP_TO_SAVE_FILES.txt
 HELP_YOUR_FILES.TXT
 *.hen_ry_217
 *.henry217
+*.HENTAI
 *.herad
 *.herbst
 *.Hermes
@@ -2386,6 +2391,7 @@ _Locky_recover_instructions.txt
 *.luces
 *.lucifer
 *_luck
+*.lucknite
 *.lucky
 *.luckyday
 *.lukitus
@@ -2446,7 +2452,9 @@ _Locky_recover_instructions.txt
 *.mamo434376
 *.maniac
 *.MANSORY
+*.manw
 *.Maoloa
+*.maos
 *.mapo
 *.maql
 *.Marduk
@@ -2466,6 +2474,7 @@ _Locky_recover_instructions.txt
 *.math
 *.MATILAN
 *.MATRIX
+*.matu
 *.MauriGo
 *.maxicrypt
 *.MaxSteel.*
@@ -4185,6 +4194,7 @@ VictemKey_*_*
 *.Xino
 *.xinof
 *.xLck
+*.xllm
 *.XmdXtazX
 *.XMEYU
 *.xmpp.jp

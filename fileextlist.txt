@@ -817,6 +817,7 @@ Coin.Locker.txt
 *.covid-19
 *.covid21
 *.covm
+*.cprt
 *.CQQUH
 *.cqscsfy
 *.CQXGPMKNR
@@ -1728,6 +1729,7 @@ FILESAREGONE.TXT
 *.happydayzz
 *.happyness
 *.happythreechoose
+*.hardbit2
 *.harditem
 *.harma
 *.Harzhuangzi
@@ -1871,6 +1873,7 @@ Howto_Restore_FILES.TXT
 *.HUSTONWEHAVEAPROBLEM@KEEMAIL.ME
 *.Huy
 *.hv88g2
+*.hvzgbo
 *.Hydra
 *.HydraCrypt
 *.hydracrypt_ID*
@@ -1953,6 +1956,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.Iron
 *.ironhead
 *.iroubalsct
+*.isal
 *.Ishtar
 *.isis
 *.iskaluz
@@ -1960,6 +1964,8 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.isos
 *.ispfv
 *.israbye
+*.iswr
+*.isza
 *.it
 *.ITLOCK
 *.ITTZN
@@ -3264,6 +3270,7 @@ OSIRIS-*.*
 *.RanRan
 *.ranranranran
 *.ranrans
+*.rans_recovery
 *.Rans0m
 *.Ransed
 *.ransom
@@ -3851,6 +3858,7 @@ SECRET.KEY
 *.TowerWeb
 *.towz
 *.toxcrypt
+*.tprc
 *.tr
 *.trg
 *@trampo.info
@@ -4136,6 +4144,7 @@ VictemKey_*_*
 *.worcservice@protonmail.ch
 *.work
 *.world2022decoding
+*.worlddecoding
 *.worm
 *.WORMCRYPT0R
 *.wowreadfordecry

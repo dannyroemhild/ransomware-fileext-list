@@ -85,6 +85,7 @@
 *.490
 *.491
 *.492
+*.4AGcf
 *.4k
 *.4o4
 *.4rg-d4m-rs6
@@ -1335,6 +1336,7 @@ DesktopOsiris.*
 *.encrypteds
 *.encryptedyourfiles
 *.EncrypTile
+*.Encrypto
 *.EncryptoJJS
 encryptor_raas_readme_liesmich.txt
 *.encS
@@ -2305,7 +2307,7 @@ jpa.*
 *.locked
 *.locked-*
 locked.*
-Locked.*
+lock.*
 *@LOCKED
 *.locked3
 *.locked3dllkierff
@@ -3554,6 +3556,7 @@ SECRET.KEY
 *.Seon
 *.sepsis
 *.sepsys
+*.septwolves
 *.SerbRansom
 *.serp
 *.serpent
@@ -3731,6 +3734,7 @@ SECRET.KEY
 *.SUKA
 *.sun
 *.SunCrypt
+*.sunjun
 *.SuperB
 *.SUPERCRYPT
 *.support
@@ -4147,6 +4151,7 @@ VictemKey_*_*
 *.worlddecoding
 *.worm
 *.WORMCRYPT0R
+*.worry
 *.wowreadfordecry
 *.wowreadfordecryp
 *.wowwhereismyfiles
@@ -4351,6 +4356,8 @@ Zenis-*.*
 *.ziqzqzdi
 *.zlpzdel
 *zn2016
+*.znsm
+*.znto
 *.zobm
 *.zoeticus
 *.zoh

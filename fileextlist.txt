@@ -454,6 +454,7 @@ aboutYourFiles.*
 *.BetaSup
 *.betta
 *.better_call_saul
+*.bettercallsaul
 *.BFVEY
 *.BG85
 *.bgCIb
@@ -580,6 +581,9 @@ aboutYourFiles.*
 *.bozon3
 *.bozq
 *.bpqd
+*.bpsm
+*.bpto
+*.bpws
 *.bqd2
 *.braincrypt
 *.Brazilian
@@ -994,6 +998,7 @@ cryptolocker.*
 *.cxkdata
 *.cxk_nmsl
 *.CXK-NMSL
+*.CY3
 *.cyber
 *.cyberdrill
 *.cybergod
@@ -1010,6 +1015,7 @@ cryptolocker.*
 *.Czlock
 *.czvxce
 *.D00med
+*.d0n
 *.d0nut
 *.D2550A49BF52DFC23F2C013C5
 *.d3ad
@@ -1548,6 +1554,7 @@ FILESAREGONE.TXT
 *.FuxSocy
 *.fX
 *.fxs
+*.G-Stars
 *.g0h8iwj
 *.g8R4rqWIp9
 *.G8xB
@@ -2169,6 +2176,7 @@ jpa.*
 *.korea
 *.koreaGame
 *.korrektor
+*.KoRyA
 *.kostya
 *.koti
 *.kovasoh
@@ -2461,6 +2469,7 @@ _Locky_recover_instructions.txt
 *.maniac
 *.MANSORY
 *.manw
+*.mao
 *.Maoloa
 *.maos
 *.mapo
@@ -3474,6 +3483,7 @@ RESTORE-SIGRUN.*
 *.rxqcpjoai
 *.rxx
 *.ryk
+*.RYKCRYPT
 *.ryp
 *.Ryuk
 *.ryx
@@ -3950,6 +3960,7 @@ unCrypte@outlook.com*
 *.unwa
 *.upd9ykc65v
 *.UPS-*
+*.upsil0n
 *.urnb
 *.urs
 *.usa
@@ -4322,6 +4333,7 @@ YOUR_FILES.url
 *.zcrypt
 *.Zekwacrypt
 *.zemblax
+*.Zendaya
 *.zendr4
 *.Zenis
 *.Zenis-*
@@ -4364,12 +4376,14 @@ Zenis-*.*
 *.Zoldon
 *.ZoLiSoNaL
 *.zonecare
+*.zoqw
 *.zorin
 *.ZORN
 *.zoro
 *.zorro
 *_ZOSTA
 *.ZoToN
+*.zouu
 *.ZOZL
 *.zphs
 *.zpps

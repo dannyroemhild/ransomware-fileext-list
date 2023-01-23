@@ -210,6 +210,7 @@ aboutYourFiles.*
 *.AESRT
 *.aeur
 *.AFD
+*.afhsngy
 *.Afrodita
 *.ag88g
 *.aga
@@ -577,6 +578,7 @@ aboutYourFiles.*
 *.boston
 *.bot
 *.bowd
+*.BoY
 *.bozon
 *.bozon3
 *.bozq
@@ -1313,6 +1315,7 @@ DesktopOsiris.*
 *.encfiles
 *.enciphered
 *.encmywork
+*.ENCODED
 *.encoded01
 *.encoded_pl
 *.encoderpass
@@ -1476,6 +1479,7 @@ FILESAREGONE.TXT
 *.fileslocker@pm.me*
 *.FilGZmsp
 *.filock
+*.FinD0m
 *.FindZip
 *.fire
 *.firecrypt
@@ -1647,6 +1651,7 @@ FILESAREGONE.TXT
 *.godlock
 *.godra
 *.goforhelp
+*.GOGO
 *.GoGoogle
 *.gold
 *.Golden
@@ -2477,6 +2482,7 @@ _Locky_recover_instructions.txt
 *.Marduk
 *.mariacbc
 *.Marlboro
+*.marnet2
 *.Marozka
 *.marra
 *.MarraCrypt
@@ -2659,8 +2665,10 @@ _Locky_recover_instructions.txt
 *.mz173801
 *.MZ434376
 *.mzlq
+*.mzop
+*.mzqw
 *.mzr
-*.MZR
+*.mztu
 MZReverenge*
 *.n1n1n1
 *.n3tw0rm
@@ -2745,6 +2753,7 @@ MZReverenge*
 *.njkwe
 *.njmhqbxu
 *.nlah
+*.nlb
 *.nlocker
 *.nm4
 *.nm8kci
@@ -2827,6 +2836,7 @@ MZReverenge*
 *.nypg
 *.nytom
 *.Nyton
+*.NYX
 *.o$l
 *.O67NG
 *.obagarmrk
@@ -3101,6 +3111,7 @@ OSIRIS-*.*
 *.PopCornTime
 *.popotic
 *.popoticus
+*.poqw
 *.por
 *.poret
 *.porno
@@ -3108,6 +3119,7 @@ OSIRIS-*.*
 *.POSHKODER
 *.potato
 *.Poteston4
+*.pouu
 *.powd
 *.powerfuldecrypt
 *.powerfulldecrypt
@@ -3235,6 +3247,7 @@ OSIRIS-*.*
 *.qwqd
 *.qxycv
 *_r00t_*
+*.r0n
 *.R16M01D05
 *.r2block
 *.R2D2
@@ -3314,6 +3327,7 @@ OSIRIS-*.*
 *.rbhd
 *.rbs
 *.rcrypted
+*.rdapdylvb
 *.RDM
 *.rdmk
 *.rdp
@@ -3717,6 +3731,7 @@ SECRET.KEY
 *.start
 *.stax
 *.Stealed
+*.STEEL
 *.stepik
 *.steriok
 *.sthd2
@@ -3920,6 +3935,7 @@ SECRET.KEY
 *.txlck
 *.tx_locked
 *.tzu
+*.tzw
 *.U2K
 *.UAKXC
 *.uanl
@@ -4227,6 +4243,7 @@ VictemKey_*_*
 *.xmrlocker
 *.xncrypt
 *.XNMMP
+*.xollam
 *.xolzsec
 *.XONIF
 *.xorist

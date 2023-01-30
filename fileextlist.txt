@@ -324,6 +324,7 @@ aboutYourFiles.*
 *.asdgahgahgf
 *.ash
 *.ASN1
+*.assm
 *.AstraLocker
 *.asus
 *.Ataware
@@ -488,6 +489,7 @@ aboutYourFiles.*
 *.bitcore
 *.BitCrypt
 *.BitCryptor
+*.bitenc
 *.bitkangoroo
 *.Bitpaymer
 *.bitpy
@@ -1473,6 +1475,7 @@ encryptor_raas_readme_liesmich.txt
 *.filerec
 *files_are_encrypted.*
 FILESAREGONE.TXT
+*.filesencrypted
 *.filesfucked
 *.fileslack
 *.FilesLocker
@@ -2401,6 +2404,7 @@ _Locky_recover_instructions.txt
 *.lpsk
 *.lqqw
 *.lr
+*.LRO
 *.lsas
 *.LSOBKMHG
 *.lssr
@@ -2631,10 +2635,11 @@ _Locky_recover_instructions.txt
 *.mpal
 *.mppn
 *.mppq
+*.Mr-X666
 *.MRCR1
 *.MrDec
 *.MRN
-*.Mr-X666
+*.MrWhite
 *.MS
 *.ms13
 *.msf
@@ -3166,6 +3171,7 @@ OSIRIS-*.*
 *.PrOtOnIs
 *.PrOtOnIs.VaNdElIs
 *@protonmail*
+*.Proxima
 *.prplcscd_cvxcv
 *.Prt6aV9
 *.prus
@@ -3505,6 +3511,7 @@ RESTORE-SIGRUN.*
 *.RZsGKi
 *.s1crypt
 *.s996
+*.sa58
 *.sad
 *.SadComputer
 *.Sadogo
@@ -3633,6 +3640,7 @@ SECRET.KEY
 *.shutdown57
 *.ShutUpAndDance
 *.sick
+*.sickfile
 *.sifrelendi
 *.sifreli
 *.sifreli_dosya

@@ -339,6 +339,7 @@ aboutYourFiles.*
 *.auf
 *.aulmhwpbpz
 *.Aurora
+*.auto
 *.AutoLocky
 *.AutoWannaCryV2
 *.auw2w2g0
@@ -1181,6 +1182,7 @@ DesktopOsiris.*
 *.dodged
 *.dodger
 *.dodoc
+*.dodov2
 *.dogecrypt
 *.DoggeWiper
 *.dohfzdod
@@ -1370,6 +1372,7 @@ encryptor_raas_readme_liesmich.txt
 *.Erica
 *.erif
 *.eris
+*.erqw
 *.error
 *.errz
 *.ESCAL*
@@ -1849,6 +1852,7 @@ HELP_YOUR_FILES.TXT
 *.HollyCrypt
 *.HolyCrypt
 *.homer
+*.honkai
 *.honor
 *.hoop
 *.horon
@@ -2495,6 +2499,7 @@ _Locky_recover_instructions.txt
 *.masked
 *.masodas
 *.masok
+*.masons
 *.masscan
 *.master
 *.matamoe
@@ -2530,6 +2535,7 @@ _Locky_recover_instructions.txt
 *.megacortex
 *.MegaLocker
 *.meka
+*.mekwyk
 *.ment
 *.mention9823
 *.MEOW
@@ -3500,6 +3506,7 @@ RESTORE-SIGRUN.*
 *.rumblegoodboy
 *.Russenger
 *.Russian
+*.rwg
 *.rxqcpjoai
 *.rxx
 *.ryk
@@ -3564,7 +3571,9 @@ RESTORE-SIGRUN.*
 *.scorpion
 *.scr
 *.scrcrw
+*.Script
 *.scrypt
+*.scytaleSECC
 *.SDEN
 *.sdhvqq
 *.sdjm
@@ -3767,6 +3776,7 @@ SECRET.KEY
 *.SUKA
 *.sun
 *.SunCrypt
+*.sunjn
 *.sunjun
 *.SuperB
 *.SUPERCRYPT
@@ -4376,6 +4386,7 @@ Zenis-*.*
 *.zes
 *.ZEUS
 *.zfdv
+*.ZFX
 *.zhen
 *.zida
 *.ZIEBF_4561drgf

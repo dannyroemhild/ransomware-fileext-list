@@ -40,6 +40,7 @@
 *.1c
 *.1dec
 *.1dex
+*.1iyT6bav7VyWM5
 *.1more
 *.1txt
 *.1whya
@@ -268,6 +269,7 @@ aboutYourFiles.*
 *.angleware
 *.Angry
 *.AngryDuck
+*.AnGrYTuRkEy
 *.angus
 *.anigma
 *.animus
@@ -295,6 +297,7 @@ aboutYourFiles.*
 *.ApocalypseVM
 *.ApolloLocker
 *.apollon865
+*.APT14CHIR
 *.aqva
 *.ara
 *.araicrypt
@@ -1040,6 +1043,7 @@ cryptolocker.*
 *.danger
 *.daris
 *.dark*
+*.Darkbit
 *.DARKCRY
 *.darkness
 *.DarkoderCryptor
@@ -1815,10 +1819,13 @@ HELP_YOUR_FILES.TXT
 *.H_F_D_locked
 *.hfgd
 *.hgsh
+*.hhee
 *.hheo
 *.hhew
 *.HHFEHIOL
 *.hhjk
+*.hhmm
+*.hhoo
 *.hhqa
 *.hhwq
 *.hhyu
@@ -1963,6 +1970,9 @@ IHAVEYOURSECRET.KEY
 *.insta
 INSTRUCCIONES_DESCIFRADO.TXT
 *.invaded
+*.ioqa
+*.iotr
+*.iowd
 *.Ipcrestore
 *.ipm
 *.ipygh
@@ -2218,6 +2228,7 @@ jpa.*
 *.krzffw
 *.KsiRu0w2
 *.kslhb
+*.KTBR
 *.ktc
 *.ktuhzxpi
 *.kuajw
@@ -2529,6 +2540,7 @@ _Locky_recover_instructions.txt
 *.meds
 *.medsv162
 *.Medusa
+*.medusastealer
 *.meduza
 *.mefilin
 *.megac0rtx
@@ -3559,6 +3571,7 @@ RESTORE-SIGRUN.*
 *.savethequeen
 *.savethequeening
 *.SAVEYOURDATA
+*.saw
 *.saylessrsnm
 *.sbkyedekal
 *.sblock
@@ -3645,6 +3658,7 @@ SECRET.KEY
 *.shootlock
 *.shrug
 *.SHRUG2
+*.SHTORM
 *.Shujin
 *.shutdown57
 *.ShutUpAndDance
@@ -3946,6 +3960,7 @@ SECRET.KEY
 *.TurkStatik
 *.tury
 *.tusk
+*.tuslamon
 *@tuta.io
 *@tutanota*
 *.twist
@@ -4095,7 +4110,9 @@ VictemKey_*_*
 *.vvao
 *.vveo
 *.vvew
+*.vvmm
 *.vvoa
+*.vvoo
 *.vvv
 *.vvwq
 *.vvyu

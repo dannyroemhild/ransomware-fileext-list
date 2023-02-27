@@ -918,6 +918,7 @@ Coin.Locker.txt
 *.crypted000007
 *.crypted034
 *.crypted_bizarrio@pay4me_in
+*.crypted_doebnank@*
 *.crypted_file
 *.CryptedOpps
 *.CRYPTEDPAY
@@ -1674,6 +1675,7 @@ FILESAREGONE.TXT
 *.GoodMorning
 *.goofed
 *.googl
+*.google
 *.gopher
 *.GoRansom
 *.gore
@@ -2070,6 +2072,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 jpa.*
 *.jpg.js*
 *.JRB
+*.jron
 *.JRP
 *.jse
 *.jsus
@@ -2301,6 +2304,7 @@ jpa.*
 *.like
 *.likud
 *.lilith
+*.lilmoon
 *.lilocked
 *.limbo
 *.lime
@@ -3239,6 +3243,9 @@ OSIRIS-*.*
 *.qmak
 *.qnbqw
 *.qnty
+*.qoqa
+*.qotr
+*.qowd
 *.QP
 *.qpss
 *.qQ6Q
@@ -3715,6 +3722,7 @@ SECRET.KEY
 *.SNSLocker
 *.sntg
 *.snwd
+*.snwkz
 *.SO0i
 *.SoFucked
 *.sojusz
@@ -3752,6 +3760,7 @@ SECRET.KEY
 *.sqpc
 *.sr0yz
 *.srpx
+*.ssaw
 *.sshxkej
 *.ssoi
 *.sspq
@@ -3770,6 +3779,7 @@ SECRET.KEY
 *.stj888
 *.stn
 *.stnts
+*.stolen
 *.stone
 *.stop
 *.stopdata
@@ -3890,6 +3900,7 @@ SECRET.KEY
 *.thunder
 *.Tiger4444
 *_TIME_IS_LIMITED
+*.tils
 *.Timestamp
 *.timetime
 *.tirp
@@ -4445,6 +4456,7 @@ Zenis-*.*
 *.zqqw
 *.ZqVIkE
 *.zrb
+*.zteqqd
 *.ztsysjz
 *.zuadr
 *.zuzya

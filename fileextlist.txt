@@ -666,6 +666,7 @@ aboutYourFiles.*
 *.carcn
 *.carlos
 *.carote
+*.Carver
 *.cash
 *.cashdashsentme@protonmail.com
 *.cassetto
@@ -678,6 +679,7 @@ aboutYourFiles.*
 *.ccc
 *.cccmn
 *.CCCRRRPPP
+*.cccusawasted
 *.ccd
 *.cceo
 *.ccps
@@ -1656,6 +1658,8 @@ FILESAREGONE.TXT
 *.gnik
 *.gnncry
 *.gns
+*.goaq
+*.goba
 *.gocr
 *.god
 *.godes
@@ -1681,6 +1685,7 @@ FILESAREGONE.TXT
 *.gore
 *.Gorgon
 *.GORILLA
+*.gosw
 *.gotcha
 *.GOTHAM
 *.GOTYA
@@ -3422,6 +3427,7 @@ RECOVERY_KEY.txt
 *.RENSENWARE
 *.rent
 *.Rentyr
+*.reopen
 *.repg
 *.repl
 *.repp
@@ -3702,6 +3708,7 @@ SECRET.KEY
 *.SkyFile
 *.skymap
 *.skynet
+*.skynetwork*
 *.skype
 *.skystars
 *.SLAM

@@ -165,6 +165,7 @@ aboutYourFiles.*
 *.ACCDFISA
 *.accuj
 *.acepy
+*.acessd
 *.actin
 *.Acton
 *.actor
@@ -383,6 +384,7 @@ aboutYourFiles.*
 *.babyduck
 *.babyk
 *.back
+*.BACKJOHN
 *.backup
 *.bad
 *.BadBlock
@@ -767,6 +769,8 @@ cmdRansomware.*
 *.cnc
 *.cnh
 *.CNMHR
+*.coaq
+*.coba
 *.cobain
 *.cobra
 *.CockBlocker
@@ -825,6 +829,7 @@ Coin.Locker.txt
 *.cosakos
 *.cosd
 *.Cossy
+*.cosw
 *.country82000
 *.cov19
 *.coverton
@@ -839,6 +844,7 @@ Coin.Locker.txt
 *.cr020801
 *.cr1
 *.Cr1ptT0r
+*.craa
 *.crab
 *.crabs
 *.crabslkt
@@ -2013,6 +2019,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.IWANT
 *.iwanthelpuuu
 *.iwanttits
+*.j3rd
 *.j3ster
 *.j91d
 *.JabaCrypter
@@ -2799,6 +2806,7 @@ MZReverenge*
 *.noblis
 *.nobu
 *.nochance
+*.nochi
 *.Node0
 *.nohope
 *.NOKOYAWA
@@ -3232,6 +3240,9 @@ OSIRIS-*.*
 *.pzdc
 *.Q1G
 *.qall
+*.qapo
+*.qarj
+*.qazx
 *.qbaa
 *.qbix
 *@qbmail.biz
@@ -3776,6 +3787,7 @@ SECRET.KEY
 *.Stampado
 *.stare
 *.start
+*.STARVSTHEFORCESOFEVIL
 *.stax
 *.Stealed
 *.STEEL
@@ -4355,6 +4367,7 @@ VictemKey_*_*
 *.yolo
 *.yoqs
 *.YouAreFucked
+*.youhau
 *.young
 *.youransom
 YOUR_FILES.HTML
@@ -4471,6 +4484,7 @@ Zenis-*.*
 *.ZW
 *.Zwbowhtlni
 *.zwer
+*.zxc
 *.zxcv
 *.zxcvb
 *.zXz

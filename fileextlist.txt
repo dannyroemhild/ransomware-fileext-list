@@ -418,6 +418,7 @@ aboutYourFiles.*
 *.bart.zip
 *.base
 *.bashrc
+*.basn
 *.basslock
 *.basta
 *.BAWSUOOXE
@@ -1050,13 +1051,17 @@ cryptolocker.*
 *.dance
 *.dan@cock.email
 *.danger
+*.dapo
 *.daris
+*.darj
 *.dark*
 *.Darkbit
 *.DARKCRY
 *.darkness
 *.DarkoderCryptor
+*.Dart
 *.darus
+*.darz
 *.data
 *.dataf
 *.DataKeeper
@@ -1069,6 +1074,7 @@ cryptolocker.*
 *.david
 *.da_vinci_code
 *.Daz
+*.dazx
 *.dbger
 *.dc
 *.dcom
@@ -1415,6 +1421,7 @@ encryptor_raas_readme_liesmich.txt
 *.excuses
 *.executioner
 *.ExecutionerPlus
+*.exilenceTG
 *.exo
 *.Exocrypt
 *.exolocked
@@ -2570,6 +2577,7 @@ _Locky_recover_instructions.txt
 *.Mercury
 *.MERIN
 *.merl
+*.Merlin
 *.MERRY
 *.mers
 *.Mespinoza
@@ -4048,6 +4056,7 @@ unCrypte@outlook.com*
 *.Useless
 *.UselessFiles
 *.UserFilesLocker
+*.usr
 *.usr0
 *.ust29
 *.uta

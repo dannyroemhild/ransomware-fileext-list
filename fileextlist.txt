@@ -480,6 +480,7 @@ aboutYourFiles.*
 *.bigdata
 *.biglock
 *@bigmir.net
+*@BLOCKED
 *.BI_ID
 *.billingsupp
 *.bin2
@@ -2110,7 +2111,10 @@ jpa.*
 *.justbtcwillhelpyou
 *.justice
 *.jwjs
+*.jyos
+*.jypo
 *.jyqji
+*.jywd
 *.jzphmsfs
 *.k
 *.k0stya
@@ -3350,6 +3354,7 @@ OSIRIS-*.*
 *.ranranranran
 *.ranrans
 *.rans_recovery
+*.Rans-A
 *.Rans0m
 *.Ransed
 *.ransom
@@ -3838,6 +3843,7 @@ SECRET.KEY
 *.surprise
 *.SURT
 *.surtr
+*.sus
 *.suspended
 *.sux
 *.sux.AES128
@@ -4005,6 +4011,8 @@ SECRET.KEY
 *.txd0t
 *.txlck
 *.tx_locked
+*.tyos
+*.tywd
 *.tzu
 *.tzw
 *.U2K

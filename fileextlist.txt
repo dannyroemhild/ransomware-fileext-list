@@ -2111,6 +2111,7 @@ jpa.*
 *.justbtcwillhelpyou
 *.justice
 *.jwjs
+*.jycx
 *.jyos
 *.jypo
 *.jyqji
@@ -2179,6 +2180,8 @@ jpa.*
 *.kharma
 *.khonsari
 *.kick
+*.kifr
+*.kigatsu
 *.kikiriki
 *.kilit
 *.kill
@@ -2801,6 +2804,8 @@ MZReverenge*
 *.ninja
 *.__NIST_K571__
 *.Nitro
+*.nitz
+*.niwm
 *.njkwe
 *.njmhqbxu
 *.nlah
@@ -4082,6 +4087,7 @@ unCrypte@outlook.com*
 *.vally
 *.VanGoth
 *.vanss
+*.VapeV7
 *.vapor
 *.vari
 *.vash
@@ -4228,6 +4234,7 @@ VictemKey_*_*
 *.whycry
 *wifi*hacker*
 *.wiki
+*.WiKoN
 *.WildFire
 *.Win
 *.wincry

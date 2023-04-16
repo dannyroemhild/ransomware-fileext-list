@@ -2193,12 +2193,14 @@ jpa.*
 *.kimcilware
 *.king
 *.king_ouroboros*
+*.kiop
 *.kir
 *.kiratos
 *.Kirk
 *.kirked
 *.kiss
 *.kitty
+*.kiwm
 *.kizu
 *.kizu.*
 *.kjh
@@ -3735,6 +3737,7 @@ SECRET.KEY
 *.skvtb
 *.sky
 *.SkyFile
+*.skylock
 *.skymap
 *.skynet
 *.skynetwork*
@@ -4103,6 +4106,7 @@ unCrypte@outlook.com*
 *.vcrypt
 *.vcrypt1
 *.vdul
+*.vector_
 *.Vega
 *.velar
 *.velikasrbija

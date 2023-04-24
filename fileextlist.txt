@@ -338,6 +338,7 @@ aboutYourFiles.*
 *.Atom
 *.ATOMSILO
 *.ATOMSILOR
+*.attackuk
 *.au1crypt
 *.audit
 *.auf
@@ -832,6 +833,7 @@ Coin.Locker.txt
 *.cosd
 *.Cossy
 *.cosw
+*.coty
 *.country82000
 *.cov19
 *.coverton
@@ -845,6 +847,7 @@ Coin.Locker.txt
 *.CQXGPMKNR
 *.cr020801
 *.cr1
+*.crlk
 *.Cr1ptT0r
 *.craa
 *.crab
@@ -2122,6 +2125,7 @@ jpa.*
 *.k1ng*
 *.K8VfiZ
 *.Kaenlupuf
+*.kafan
 *.kali
 *.karen
 *.karl
@@ -2213,6 +2217,7 @@ jpa.*
 *.klavins
 *.klope
 *.KLZUB
+*.kmbgdftfgdlf
 *.kmd
 *.kobos
 *.kodc
@@ -3401,6 +3406,7 @@ OSIRIS-*.*
 *.RDWF
 *.RE78P
 ReadDecryptFilesHere.txt
+*.rea
 *.readinstructions
 *.readlockfiles
 *.ReadManual.*
@@ -3420,6 +3426,7 @@ Read.txt
 *.recme
 *.reco
 *.Recon
+*.Recov
 recoverfile*.txt
 recoveryfile*.txt
 RECOVERY_FILE*.txt
@@ -3740,6 +3747,7 @@ SECRET.KEY
 *.skylock
 *.skymap
 *.skynet
+*.skynetlock
 *.skynetwork*
 *.skype
 *.skystars
@@ -3884,6 +3892,7 @@ SECRET.KEY
 *.TABGH
 *.tabufa
 *.taka
+*.tangem
 *.tanos
 *.TaRoNiS
 *.TaRRaK
@@ -4150,6 +4159,7 @@ VictemKey_*_*
 *.VoidCrypt
 *.volcano
 *.volvo33_36_37_39__44
+*.VoNiX
 *.voom
 *.Vortex
 *.vovalex

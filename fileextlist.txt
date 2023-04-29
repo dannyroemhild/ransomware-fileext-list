@@ -338,6 +338,7 @@ aboutYourFiles.*
 *.Atom
 *.ATOMSILO
 *.ATOMSILOR
+*.attack7
 *.attackuk
 *.au1crypt
 *.audit
@@ -1152,6 +1153,7 @@ DesktopOsiris.*
 *.deuscrypt
 *.dever
 *.devil
+*.devinn
 *.devon
 *.devos
 *.devoscpu
@@ -1543,9 +1545,11 @@ FILESAREGONE.TXT
 *.forasom
 *.fordan
 *.format
+*.foty
 *.four
 *.fox
 *.foxxy
+*.foza
 *.fredd
 *.freefoam
 *.FreeMe

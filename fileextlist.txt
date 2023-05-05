@@ -339,6 +339,7 @@ aboutYourFiles.*
 *.ATOMSILO
 *.ATOMSILOR
 *.attack7
+*.attacksystem
 *.attackuk
 *.au1crypt
 *.audit
@@ -618,6 +619,7 @@ aboutYourFiles.*
 *.btc
 *.BTCamant
 *.btcbtcbtc
+*.btc-Apt2
 *.btc-help-you
 *.BtcKING
 *.btc.kkk.fun.gws
@@ -908,6 +910,7 @@ Coin.Locker.txt
 *.cryp
 *.cryp1
 *.cryp70n1c
+*.CrypBits256PT2
 *.CrypMic
 *.crypo
 *.Crypren
@@ -922,6 +925,7 @@ Coin.Locker.txt
 *.crypt2019
 *.crypt38
 *.crypt888
+*.crYptA3
 *.CRYPTBD
 *.cryptbit
 *.CryptConsole
@@ -1536,6 +1540,7 @@ FILESAREGONE.TXT
 *.fmfgmfgm
 *.fmk-ta3-7ym
 *.fmoon
+*.fofd
 *.fonix
 *.foop
 *.fopa
@@ -1754,6 +1759,7 @@ FILESAREGONE.TXT
 *.gоod
 *.h0lyenc
 *.h3ll
+*.h3r
 *.ha3
 *.hac
 *.hack
@@ -3424,6 +3430,7 @@ Read.txt
 *.realfs0ciety*
 *.REBL
 *.rebus
+*.rec_rans
 *.rec
 *rec0ver*.*
 *Rec0very*
@@ -3586,6 +3593,7 @@ RESTORE-SIGRUN.*
 *.s1crypt
 *.s996
 *.sa58
+*.saba
 *.sad
 *.SadComputer
 *.Sadogo
@@ -3617,6 +3625,7 @@ RESTORE-SIGRUN.*
 *.satan
 *.SATANA
 *.SatanCryptor
+*.Sato
 *.saturn
 *.satyr
 *.save
@@ -4189,6 +4198,7 @@ VictemKey_*_*
 *.vvyu
 *.vxLock
 *.vyia
+*.Vypt
 *.W0YR8
 *.w2tnk
 *.w3qupe
@@ -4478,6 +4488,7 @@ Zenis-*.*
 *.zfdv
 *.ZFX
 *.zhen
+*.zhong
 *.zida
 *.ZIEBF_4561drgf
 *.zig

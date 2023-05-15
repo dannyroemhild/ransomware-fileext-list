@@ -529,6 +529,7 @@ aboutYourFiles.*
 *.BlackPink
 *.blackrouter
 *.blackruby
+*.blacksuit
 *.BlackSun
 *.blank
 *.blaze
@@ -1614,7 +1615,9 @@ FILESAREGONE.TXT
 *.garcewa
 *.garminwasted
 *.garrantydecrypt
+*.gash
 *.gate
+*.gatz
 *.gblock
 *.GC47
 *.gcyi
@@ -2802,6 +2805,7 @@ MZReverenge*
 *.networkmaze
 *.NewHT
 *.newlock
+*.newlocker
 *.NEWRAR
 *.news
 *.newware
@@ -3293,7 +3297,9 @@ OSIRIS-*.*
 *.qmak
 *.qnbqw
 *.qnty
+*.qopz
 *.qoqa
+*.qore
 *.qotr
 *.qowd
 *.QP
@@ -3734,6 +3740,7 @@ SECRET.KEY
 *.sigareta
 *.Sigma
 *.sigrun
+*.SIGSCH
 *.sijr
 *.Sil3nt5pring
 *.Silent
@@ -3788,6 +3795,7 @@ SECRET.KEY
 *.sojusz
 *.solaso
 *.soli
+*.Solix
 *.solo
 *.somik1
 *.son
@@ -3858,6 +3866,7 @@ SECRET.KEY
 *.styx
 *.suddentax
 *.suffer
+*.suffering
 *.SUKA
 *.sun
 *.SunCrypt
@@ -4501,6 +4510,7 @@ Zenis-*.*
 *.ZINO
 *.ZinoCrypt
 *.ZipLocker
+*.zipp3rs
 *.Zipper
 *.ziqzqzdi
 *.zlpzdel

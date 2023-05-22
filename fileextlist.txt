@@ -179,6 +179,7 @@ aboutYourFiles.*
 *.adam
 *.adame
 *.AdamLocker
+*.adfuhbazi
 *.adhubllka
 *.ADHUBLLKA
 *.adk
@@ -187,6 +188,7 @@ aboutYourFiles.*
 *.admin2
 *.admin3
 *.ADMIN@BADADMIN.XYZ
+*.ADMON
 *.adobe
 *.adobee
 *adobe.gefest
@@ -249,6 +251,7 @@ aboutYourFiles.*
 *.ALNBR
 *.alosia
 *.Alpha
+*.Alphaware
 *.altdelete@cock.li.district
 *.alumni
 *.ALVIN
@@ -527,6 +530,7 @@ aboutYourFiles.*
 *.BlackKingdom
 *.Blackout
 *.BlackPink
+*.blackrock
 *.blackrouter
 *.blackruby
 *.blacksuit
@@ -1027,6 +1031,7 @@ cryptolocker.*
 *.cxk_nmsl
 *.CXK-NMSL
 *.CY3
+*.cyb
 *.cyber
 *.cyberdrill
 *.cybergod
@@ -1610,6 +1615,7 @@ FILESAREGONE.TXT
 *.gangbang
 *.gankLocked
 *.GanP
+*.gapo
 *.gaqtfpr
 *.garantydecrypt
 *.garcewa
@@ -1617,7 +1623,9 @@ FILESAREGONE.TXT
 *.garrantydecrypt
 *.gash
 *.gate
+*.gatq
 *.gatz
+*.gaze
 *.gblock
 *.GC47
 *.gcyi
@@ -2947,6 +2955,7 @@ MZReverenge*
 *.okokokokok
 *.olduw
 *.oled
+*.olsavelock*
 *.omerta
 *.omfl
 *.OMG
@@ -3776,6 +3785,7 @@ SECRET.KEY
 *.SLAV
 *.slgh
 *.slvpawned
+*.sMilE
 *.smpl
 *.Smrss32
 *.snake
@@ -4333,7 +4343,10 @@ VictemKey_*_*
 *.x3
 *.x3m
 *.x3mpro
+*.xaro
+*.xash
 *.xati
+*.xatz
 *.xbml
 *.xbtl
 *.xcbg

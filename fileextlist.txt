@@ -1438,6 +1438,7 @@ encryptor_raas_readme_liesmich.txt
 *.executioner
 *.ExecutionerPlus
 *.exilenceTG
+*.EXISC
 *.exo
 *.Exocrypt
 *.exolocked
@@ -2044,6 +2045,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.isza
 *.it
 *.ITLOCK
+*.itlock*
 *.ITTZN
 *.itunes
 *.iudgkwv
@@ -3988,6 +3990,7 @@ SECRET.KEY
 *.tirp
 *.tisc
 *.titancrypt
+*.tiywepxb
 *.TJMBK
 *.TJODT
 *.tl30z
@@ -4132,16 +4135,19 @@ unCrypte@outlook.com*
 *.VanGoth
 *.vanss
 *.VapeV7
+*.vapo
 *.vapor
 *.vari
 *.vash
 *.vassago
 *.vassagoh
+*.vatq
 *.vault
 *.VaultCrypt
 *.vaultz
 *.vavc2
 *.vawe
+*.vaze
 *.vbox
 *.VBRANSOM
 *.vcrypt
@@ -4266,7 +4272,9 @@ VictemKey_*_*
 *.week
 *.weencedufiles
 *.weiu
+*.weon
 *.werd
+*.werz
 *.Wesker
 *.weui
 *.WFA_RANSOM
@@ -4351,6 +4359,7 @@ VictemKey_*_*
 *.xbtl
 *.xcbg
 *.xcmb
+*.xCor
 *.Xcri
 *.XCry
 *.xcry7684

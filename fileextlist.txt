@@ -2775,6 +2775,7 @@ MZReverenge*
 *.nazcrypt
 *.NB65
 *.nbes
+*.NBR
 *.ncov
 *.NCrypt
 *.ndarod
@@ -2799,11 +2800,14 @@ MZReverenge*
 *.NEMTY_AJORCUS
 *.NEMTY_VQLGC72
 *.Nemucod
+*.neon
 *.NEPHILIM
 *.neptune
+*.neqp
 *.ner
 *.neras
 *.nermer
+*.nerz
 *.nesa
 *.net
 *.NETCrypton
@@ -3982,6 +3986,7 @@ SECRET.KEY
 *.thor
 *.thTC
 *.thunder
+*.thx
 *.Tiger4444
 *_TIME_IS_LIMITED
 *.tils
@@ -4273,6 +4278,7 @@ VictemKey_*_*
 *.weencedufiles
 *.weiu
 *.weon
+*.weqp
 *.werd
 *.werz
 *.Wesker

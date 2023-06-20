@@ -181,7 +181,6 @@ aboutYourFiles.*
 *.AdamLocker
 *.adfuhbazi
 *.adhubllka
-*.ADHUBLLKA
 *.adk
 *.adlg
 *.admin1
@@ -223,7 +222,10 @@ aboutYourFiles.*
 *.AgeLocker
 *.agho
 *.ahegao
+*.ahgr
 *.ahp
+*.ahtw
+*.ahui
 *.aim
 *.air
 *.airacropencrypted!
@@ -477,6 +479,8 @@ aboutYourFiles.*
 *.bguu
 *.bH4T
 *.bhacks
+*.bhtw
+*.bhui
 *.bi
 *.bianlian
 *.biden
@@ -649,6 +653,7 @@ aboutYourFiles.*
 *.bumcoder
 *.bunny
 *.burn
+*.busavelock53
 *.BUSH
 *.bvjznsjlo
 *.bwall
@@ -2381,6 +2386,7 @@ jpa.*
 *.LLTP
 *.lltt
 *.lm
+*.LMAO
 *.LMAOxUS
 *.lmas
 *.lO8s42
@@ -2642,6 +2648,7 @@ _Locky_recover_instructions.txt
 *.MindSystem
 *.mine
 *.minex
+*.minime
 *.Minotaur
 *.mira
 *.MirCop
@@ -2692,6 +2699,7 @@ _Locky_recover_instructions.txt
 *.moncrypt
 *.money
 *.MongoLock
+*.mono
 *.monro
 *.montana
 *.Montserrat
@@ -3347,6 +3355,7 @@ OSIRIS-*.*
 *.qweuirtksd
 *.qwex
 *.qwqd
+*.qxtfkslrf
 *.qxycv
 *_r00t_*
 *.r0n
@@ -3999,6 +4008,7 @@ SECRET.KEY
 *.TJMBK
 *.TJODT
 *.tl30z
+*.TMRCRYPT0R
 *.TMS5
 *.tmteam
 *.tocue

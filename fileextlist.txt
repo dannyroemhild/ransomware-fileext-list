@@ -3275,7 +3275,7 @@ OSIRIS-*.*
 *.promoz
 *prontos@*
 *.prosperous666
-*.protect3
+*.protect*
 *.protected
 *.PrOtOnIs
 *.PrOtOnIs.VaNdElIs
@@ -3404,7 +3404,7 @@ OSIRIS-*.*
 *.ragnarok_cry
 *.raid10
 *.rails
-*.rajah
+*.rajah*
 *.rajar
 *.raldge
 *.raldug

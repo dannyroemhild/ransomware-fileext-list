@@ -1628,6 +1628,7 @@ FILESAREGONE.TXT
 *.gankLocked
 *.GanP
 *.gapo
+*.gaqq
 *.gaqtfpr
 *.garantydecrypt
 *.garcewa
@@ -1637,7 +1638,9 @@ FILESAREGONE.TXT
 *.gate
 *.gatq
 *.gatz
+*.gayn
 *.gaze
+*.gazp
 *.gblock
 *.GC47
 *.gcyi
@@ -1788,6 +1791,7 @@ FILESAREGONE.TXT
 *.hack
 *.hackdoor
 *.hacked
+*.hackedbySnea575
 *.hacker
 *.hacker*.data
 *.hacker_decryption@protonmail.ch
@@ -1876,6 +1880,7 @@ HELP_YOUR_FILES.TXT
 *.hex911
 *.H_F_D_locked
 *.hfgd
+*.hgjzitlxe
 *.hgsh
 *.hhee
 *.hheo
@@ -3270,6 +3275,7 @@ OSIRIS-*.*
 *.promoz
 *prontos@*
 *.prosperous666
+*.protect3
 *.protected
 *.PrOtOnIs
 *.PrOtOnIs.VaNdElIs
@@ -3398,6 +3404,7 @@ OSIRIS-*.*
 *.ragnarok_cry
 *.raid10
 *.rails
+*.rajah
 *.rajar
 *.raldge
 *.raldug
@@ -3956,6 +3963,7 @@ SECRET.KEY
 *.tax
 *.tcbu
 *.tcprx
+*.tcvjuo
 *.tcvp
 *.tcwwasted
 *.TCYO
@@ -4279,12 +4287,15 @@ VictemKey_*_*
 *.WannaSmile
 *.WannaSpam
 *.Wanqu
+*.waqq
 *.warlocks
 *.warn_wallet
 *.wasted
 *.*wasted_info
 *.watch
 *.wav_list
+*.wayn
+*.wazp
 *.wbxd
 *.wcg
 *.wch

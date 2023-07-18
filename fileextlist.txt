@@ -2510,6 +2510,7 @@ _Locky_recover_instructions.txt
 *.lucifer
 *_luck
 *.lucknite
+*.Lucky*
 *.lucky
 *.luckyday
 *.lukitus
@@ -2662,11 +2663,14 @@ _Locky_recover_instructions.txt
 *.minex
 *.minime
 *.Minotaur
+*.miqe
 *.mira
 *.MirCop
 *.MireWare
 *.Mischa
 *.missing
+*.mitu
+*.miza
 *.mjlx
 *.mkos
 *.mkp
@@ -2763,6 +2767,7 @@ _Locky_recover_instructions.txt
 *.MyChemicalRomance4EVER
 *.myday
 *.myjob
+*.mynvhefutrx
 *.myransext2017
 *.myskle
 *.Mystic
@@ -2933,6 +2938,7 @@ MZReverenge*
 *_nullbyte*
 *.NullByte
 *.numberdot
+*.NURRI*
 *.nury
 *.nusar
 *.nusm
@@ -3256,6 +3262,7 @@ OSIRIS-*.*
 *.PrincessLocker
 *.PRIVAT66
 *.prnds
+*.PrO
 *.problem
 *.proced
 *.prodecryptor
@@ -3388,6 +3395,7 @@ OSIRIS-*.*
 *.R980
 *.r9uAV
 *.RaaS
+*.raasv2
 *.RAA-SEP
 *.rabbit
 *.RabbitFox

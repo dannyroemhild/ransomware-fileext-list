@@ -64,6 +64,7 @@
 *.2lwnPp2B
 *.2new
 *.2ourt0
+*.2QZ3
 *.2spyware
 *.2x2d
 *.2xx9
@@ -315,6 +316,7 @@ aboutYourFiles.*
 *.aram
 *.arazite
 *.arch
+*.architects
 *.area
 *.arena
 *.AresCrypt
@@ -532,6 +534,7 @@ aboutYourFiles.*
 *.bkqfmsahpt
 *.BKRansomware
 *@bk.ru
+*.Black
 *.black007
 *.BlackBit
 *.BlackCocaine*
@@ -1960,6 +1963,7 @@ Howto_Restore_FILES.TXT
 *.Hucky
 *.hudf
 *.huis_bn
+*.Hunt2
 *.hush
 *.HUSTONWEHAVEAPROBLEM@KEEMAIL.ME
 *.Huy
@@ -2223,6 +2227,7 @@ jpa.*
 *.kgpvwnr
 *.kharma
 *.khonsari
+*.khronos
 *.kick
 *.kifr
 *.kigatsu
@@ -2238,12 +2243,14 @@ jpa.*
 *.king
 *.king_ouroboros*
 *.kiop
+*.kiqu
 *.kir
 *.kiratos
 *.Kirk
 *.kirked
 *.kiss
 *.kitty
+*.kitu
 *.kiwm
 *.kizu
 *.kizu.*
@@ -2404,6 +2411,7 @@ jpa.*
 *.lO8s42
 *.lock
 *.Lock2017
+*.LOCK2023
 *.lock2bits
 *.LOCK75
 *.lock93
@@ -4380,9 +4388,12 @@ VictemKey_*_*
 *.write_us_on_email
 *.WRNY
 *.wrui
+*.wsaz
 *.wshlp
 *.WsIR
 *.wsmile
+*.wspn
+*.wsuu
 *.wtdi
 *.wtf
 *.wuciwug
@@ -4519,6 +4530,7 @@ YOUR_FILES.url
 *.yum
 *.yyto
 *.YYYYBJQOQDU
+*.Z0V
 *.z3enc
 *.z3r0
 *.z3zmh

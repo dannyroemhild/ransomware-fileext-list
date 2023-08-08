@@ -962,6 +962,7 @@ Coin.Locker.txt
 *.crypted_pony_test_build*
 *.cryptedx
 *.crypter
+*.crypterdodo
 *.cryptes
 *.cryptfile
 *.CryptFuck
@@ -1747,6 +1748,7 @@ FILESAREGONE.TXT
 *.GPAA
 *.GPCode
 *.GPGQwerty
+*.GPT
 *.gqlmcwnhh
 *.gr3g
 *.GRANIT
@@ -2431,6 +2433,7 @@ lock.*
 *.Locked-by-Mafia
 *.locked_by_mR_Anonymous(TZ_HACKERS)
 *.LOCKED_BY_pablukl0cker
+*.lockedbycrybaby
 *.LockedByte
 *.locked_file
 *.lockedfile
@@ -2724,6 +2727,7 @@ _Locky_recover_instructions.txt
 *.money
 *.MongoLock
 *.mono
+*.monochromebear
 *.monro
 *.montana
 *.Montserrat
@@ -3219,6 +3223,7 @@ OSIRIS-*.*
 *.Po
 *.po1hg
 *.PoAr2w
+*.poaz
 *.pohj
 *.POHU
 *.poison
@@ -3236,6 +3241,7 @@ OSIRIS-*.*
 *.poop
 *.poor
 *.PopCornTime
+*.popn
 *.popotic
 *.popoticus
 *.poqw
@@ -3292,6 +3298,7 @@ OSIRIS-*.*
 *.prosperous666
 *.protect*
 *.protected
+*.Proton
 *.PrOtOnIs
 *.PrOtOnIs.VaNdElIs
 *@protonmail*
@@ -3632,6 +3639,7 @@ RESTORE-SIGRUN.*
 *.rt4block
 *RT4BLOCK
 *.rtcrypted
+*.rtg
 *.rtgf
 *.rtyrtyrty
 *.rubina5
@@ -4529,7 +4537,9 @@ YOUR_FILES.url
 *.yUixN
 *.yum
 *.yyto
+*.yytw
 *.YYYYBJQOQDU
+*.yyza
 *.Z0V
 *.z3enc
 *.z3r0

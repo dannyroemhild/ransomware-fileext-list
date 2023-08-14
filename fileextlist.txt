@@ -256,6 +256,7 @@ aboutYourFiles.*
 *.allock*
 *.Al-Namrood
 *.ALNBR
+*.alock
 *.alosia
 *.Alpha
 *.Alphaware
@@ -634,6 +635,7 @@ aboutYourFiles.*
 *.bruhnet
 *.brusaf
 *.bsc
+*.bspojzo
 *.btc
 *.BTCamant
 *.btcbtcbtc
@@ -1822,6 +1824,7 @@ FILESAREGONE.TXT
 *.hardbit2
 *.harditem
 *.harma
+*.harward
 *.Harzhuangzi
 *.hasp
 *.haters
@@ -1978,6 +1981,7 @@ Howto_Restore_FILES.TXT
 *.hyena
 IAMREADYTOPAY.TXT
 *.iaufkakfhsaraf
+*.ICE
 *.icp
 *.ICQ@PIZZASUCKER
 *.icyoaezi
@@ -3333,6 +3337,7 @@ OSIRIS-*.*
 *.PyLocky
 *.pyphyfe
 *.pysa
+*.pzcqyq
 *.pzdc
 *.Q1G
 *.qall

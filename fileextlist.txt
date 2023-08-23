@@ -252,6 +252,7 @@ aboutYourFiles.*
 *.Alix1011RVA
 *.alka
 *.Alkohol
+*.allahuakbar
 *.allcry
 *.allock*
 *.Al-Namrood
@@ -2043,6 +2044,7 @@ IHAVEYOURSECRET.KEY
 *.insta
 INSTRUCCIONES_DESCIFRADO.TXT
 *.invaded
+*.invader
 *.ioqa
 *.iotr
 *.iowd
@@ -2094,8 +2096,11 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *_jamesbond
 *.jamper
 *.JANELLE
+*.jaoy
 *.japan
 *.JapanLocker
+*.jaqw
+*.jasa
 *.java
 *.javaencrypt
 *.javalocker
@@ -2734,6 +2739,7 @@ _Locky_recover_instructions.txt
 *.monochromebear
 *.monro
 *.montana
+*.Monti
 *.Montserrat
 *.mool
 *.MOON
@@ -3559,6 +3565,7 @@ restorefiles.txt
 *.restoreserver
 RESTORE-SIGRUN.*
 *.resurrection
+*.Retch
 *.RetMyData
 *.REV
 *.revenge
@@ -3985,8 +3992,10 @@ SECRET.KEY
 *.taka
 *.tangem
 *.tanos
+*.taoy
 *.TaRoNiS
 *.TaRRaK
+*.tasa
 *.tastylock
 *.tater
 *.tax

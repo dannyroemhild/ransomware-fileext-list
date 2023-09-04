@@ -1122,6 +1122,7 @@ cryptolocker.*
 *.deadfiles
 *.Deadly
 *.deadmin
+*.deadnet26
 *.deal
 *.dealemail
 *.DeathHiddenTear
@@ -1583,6 +1584,7 @@ FILESAREGONE.TXT
 *.fredd
 *.freefoam
 *.FreeMe
+*.FreeWorldEncryption
 *.freezing
 *.frend
 *.frendi
@@ -2326,6 +2328,7 @@ jpa.*
 *.ktc
 *.ktuhzxpi
 *.kuajw
+*.kuiper
 *.kuntzware
 *.kupidon
 *.kuub
@@ -2977,6 +2980,10 @@ MZReverenge*
 *.nytom
 *.Nyton
 *.NYX
+*.nzer
+*.nzoq
+*.nzqw
+*.nztt
 *.o$l
 *.O67NG
 *.obagarmrk
@@ -3592,6 +3599,7 @@ RESTORE-SIGRUN.*
 *.R.i.P
 *.risk
 *.ritzer
+*.rival
 *.rivd
 *.rjali@protonmail.ch
 *.rjzR8
@@ -3917,6 +3925,7 @@ SECRET.KEY
 *.stax
 *.Stealed
 *.STEEL
+*.steloj
 *.stepik
 *.steriok
 *.sthd2
@@ -3940,6 +3949,7 @@ SECRET.KEY
 *.Stupid
 *.styver
 *.styx
+*.sub_to_crypto_nwo
 *.suddentax
 *.suffer
 *.suffering
@@ -4027,6 +4037,7 @@ SECRET.KEY
 *.teslarvng
 *.TeslaWare
 *.TEST
+*.teza
 *tflower*
 *.tfude
 *.tfudeq
@@ -4078,6 +4089,7 @@ SECRET.KEY
 *.tokog
 *.TomLe
 *.tools_ensikology
+*.top
 *.topi
 *.Tor+
 *.tor13
@@ -4427,6 +4439,10 @@ VictemKey_*_*
 *.Wx7A6
 *.wxdrJbgSDa
 *.wyvern
+*.wzer
+*.wzoq
+*.wzqw
+*.wztt
 *.x0lzs3c
 *.x1881
 *.x3

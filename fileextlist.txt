@@ -113,6 +113,7 @@
 *.6db8
 *.6FKR8d
 *.6ix9
+*.6y8dghklp
 *.707
 *.725
 *.726
@@ -293,6 +294,7 @@ aboutYourFiles.*
 *.anon
 *.anon_by
 *.anon000
+*.anontsugumi
 *.anonymous
 *.anta
 *.AnteFrigus
@@ -1891,7 +1893,11 @@ HELP_YOUR_FILES.TXT
 *.hex911
 *.H_F_D_locked
 *.hfgd
+*.hgew
+*.hgfu
 *.hgjzitlxe
+*.hgkd
+*.hgml
 *.hgsh
 *.hhee
 *.hheo
@@ -2021,6 +2027,7 @@ IHAVEYOURSECRET.KEY
 *.Imshifau
 *.imsorry
 *@inbox.ru*
+*.INC
 *.INCANTO
 *.inchin
 *.incpas
@@ -2567,6 +2574,7 @@ _Locky_recover_instructions.txt
 *.Mafer
 *.MAFIA
 *.MafiaWare
+*.magaskosh
 *.magic
 *.magic_software_syndicate
 *.Magniber
@@ -3678,8 +3686,12 @@ RESTORE-SIGRUN.*
 *.Ryuk
 *.ryx
 *.RZA
+*.rzew
+*.rzkd
+*.rzml
 *.RZsGKi
 *.s1crypt
+*.s4b
 *.s996
 *.sa58
 *.saba

@@ -388,6 +388,7 @@ aboutYourFiles.*
 *.azero
 *.azor
 *.azov
+*.B-Panther
 *.b00m
 *.b0ff
 *.bl0cked
@@ -1354,6 +1355,8 @@ DesktopOsiris.*
 *.ELBOW
 *.ELDAOLSA
 *.Elder
+*.eldritch
+*.elibe
 *.elpvd
 *.Elvis
 *.elvispresley
@@ -2525,6 +2528,7 @@ _Locky_recover_instructions.txt
 *.LowLevel04
 *.lowprice
 *.lpsk
+*.lqepjhgjczo
 *.lqqw
 *.lr
 *.LRO
@@ -2910,8 +2914,11 @@ MZReverenge*
 *.nmcrypt
 *.NMO
 *.NMoreira
+*.nnll
+*.nnpl
 *.nnqp
 *.nnuz
+*.nnza
 *.nobad
 *.noblis
 *.nobu
@@ -3047,9 +3054,11 @@ MZReverenge*
 *.oodt
 *.oof
 *.oofnik
+*.oohu
 *.ooii
 *.oonn
 *.OOOKJYHCTVDF
+*.oopl
 *.oops
 *.oopu
 *.oor
@@ -3058,6 +3067,7 @@ oor.*
 *.ooss
 *.oovb
 *.ooxa
+*.ooza
 *@opensourcemail.org
 *.OpenToYou
 *.OpJerusalem
@@ -3917,6 +3927,7 @@ SECRET.KEY
 *.SplinterJoke
 *.spora
 *.sport
+*.spotifyxbiden
 *.spybuster
 *.spyhunter
 *.Spyro
@@ -4073,6 +4084,7 @@ SECRET.KEY
 *.theworldisyours
 *.thgz
 *.thor
+*.threeamtime
 *.thTC
 *.thunder
 *.thx
@@ -4447,7 +4459,10 @@ VictemKey_*_*
 *.wunl
 *.wvtr0
 *.wwka
+*.wwpl
+*.wwty
 *.WWW
+*.wwza
 *.Wx7A6
 *.wxdrJbgSDa
 *.wyvern

@@ -386,8 +386,11 @@ aboutYourFiles.*
 *.aZaZeL
 *.azer
 *.azero
+*.azhi
+*.azop
 *.azor
 *.azov
+*.azqt
 *.B-Panther
 *.b00m
 *.b0ff
@@ -1250,6 +1253,7 @@ DesktopOsiris.*
 *.DONKEYHOT
 *.DoNotChange
 *.donut
+*.DOOK
 *.doomed
 *.dop
 *.doples
@@ -1752,6 +1756,7 @@ FILESAREGONE.TXT
 *.Gorgon
 *.GORILLA
 *.gosw
+*.Got
 *.gotcha
 *.GOTHAM
 *.GOTYA
@@ -2513,6 +2518,7 @@ _Locky_recover_instructions.txt
 *.lost
 *.Lost_Files
 *.Lost_Files_Encrypt
+*.losttrustencoded
 *.lote
 *.lotej
 *.lotep
@@ -2656,6 +2662,7 @@ _Locky_recover_instructions.txt
 *.Medusa
 *.medusastealer
 *.meduza
+*.meduza24
 *.mefilin
 *.megac0rtx
 *.megacortex
@@ -2810,10 +2817,13 @@ _Locky_recover_instructions.txt
 *.Mystic
 *.mz173801
 *.MZ434376
+*.mzhi
 *.mzlq
 *.mzop
+*.mzqt
 *.mzqw
 *.mzr
+*.mzre
 *.mztu
 MZReverenge*
 *.n1n1n1
@@ -2895,6 +2905,7 @@ MZReverenge*
 *.nibiru
 *.NIGG3R
 *.NIGGA
+*.NIGHT_CROW
 *.nightsky
 *.nigra
 *.nile
@@ -3526,6 +3537,7 @@ ReadDecryptFilesHere.txt
 *.readme
 *.Readnet7
 *.Reads
+*.readtext5
 *.ReadTheInstructions
 READTHISNOW!!!.TXT
 Read.txt

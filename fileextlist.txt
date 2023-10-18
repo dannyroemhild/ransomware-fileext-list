@@ -47,6 +47,7 @@
 *.1ywsmbo4
 *.2020
 *.2020END
+*.2023
 *.2048
 *.20dfs
 *.2122
@@ -677,6 +678,7 @@ aboutYourFiles.*
 *.bwall
 *.bxtyunh
 *.bydes
+*.byee
 *.byya
 *.c0hen
 *.C0rp0r@c@0Xr@
@@ -978,6 +980,7 @@ Coin.Locker.txt
 *.cryptgh0st
 *.CryptInfinite
 *.crypto
+*.crypto1317
 *.cryptoboss
 *.cryptobyte
 *.crypto_crypt
@@ -1357,6 +1360,7 @@ DesktopOsiris.*
 *.eky
 *.Elbie
 *.ELBOW
+*.ELCTRONIC
 *.ELDAOLSA
 *.Elder
 *.eldritch
@@ -1776,6 +1780,7 @@ FILESAREGONE.TXT
 *.grinch
 *.grod
 *.gropas
+*.GroundingConductor
 *.group
 *.grovas
 *.grovat
@@ -1842,6 +1847,7 @@ FILESAREGONE.TXT
 *.hasp
 *.haters
 *.havoc
+*.hazard*
 *.hb15
 *.hbdalna
 *.hc6
@@ -1933,6 +1939,7 @@ HELP_YOUR_FILES.TXT
 *.hj36MM
 *.HJAWF
 *.hjgdl
+*.hjutm
 *.HKCrypt
 *.hkgt
 *.Hknet
@@ -1996,6 +2003,7 @@ Howto_Restore_FILES.TXT
 *.hydracrypt_ID*
 *.hydrox
 *.hyena
+*.hyj
 IAMREADYTOPAY.TXT
 *.iaufkakfhsaraf
 *.ICE
@@ -2247,6 +2255,7 @@ jpa.*
 *.KEYH0LES
 *.KEYHolder
 *.KEYHOLES
+*.keylock
 *.keypass
 *.KEYZ
 *.KEYZ.KEYH0LES
@@ -2362,6 +2371,7 @@ jpa.*
 *.lalabitch
 *.lalo
 *.lama
+*.Lambda
 *.lambda_l0cked
 *.LAMBDA.LOCKED
 *.LambdaLocker
@@ -2479,6 +2489,7 @@ lock.*
 *.Lockify
 *.locklock
 *.lockme
+*.locknet
 *.lockon
 *.LOCKOUT
 *.locks
@@ -2678,6 +2689,7 @@ _Locky_recover_instructions.txt
 *.Merlin
 *.MERRY
 *.mers
+*.MesaCorp
 *.Mespinoza
 *.messenger-*
 *.metan
@@ -2717,8 +2729,12 @@ _Locky_recover_instructions.txt
 *.mkos
 *.mkp
 *mlagham.exe
+*.mlap
 *.MLF
 *.mljx
+*.mlrd
+*.mlwq
+*.mlza
 *.mmdt
 *.mmm
 *.mmnn
@@ -3303,6 +3319,7 @@ OSIRIS-*.*
 *.powerfuldecrypt
 *.powerfulldecrypt
 *.PowerLocky
+*.powerranges
 *.PowerWare
 *.powned
 *.powz
@@ -3358,6 +3375,9 @@ OSIRIS-*.*
 *.PshCrypt
 *.pstKll
 *.PTGEPVEKM
+*.pthh
+*.ptqw
+*.ptrz
 *.pulpit
 *.pulsar1
 *.puma
@@ -3754,6 +3774,7 @@ RESTORE-SIGRUN.*
 *.save
 *.saved
 *.savefiles
+*.savelock*
 *.saverswasted
 *.savethequeen
 *.savethequeening
@@ -3892,6 +3913,7 @@ SECRET.KEY
 *.slank
 *.SLAV
 *.slgh
+*.Slide
 *.slvpawned
 *.sMilE
 *.smpl
@@ -4083,6 +4105,7 @@ SECRET.KEY
 *.tgmn
 *.tgpo
 *.tgvv
+*.th
 *.THANATOS
 *.thanos
 *.thbec
@@ -4169,8 +4192,12 @@ SECRET.KEY
 *.tsar
 *.tsv
 *.T_TEN
+*.ttap
 *.ttii
+*.ttrd
 *.ttt
+*.ttwq
+*.ttza
 *.tuid
 *.tuis
 *.tunca

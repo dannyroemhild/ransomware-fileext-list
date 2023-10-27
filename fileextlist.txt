@@ -547,6 +547,7 @@ aboutYourFiles.*
 *.black007
 *.BlackBit
 *.BlackCocaine*
+*.BlackDream
 *.BlackHat
 *.BlackHeart
 *.BlackKingdom
@@ -2098,8 +2099,11 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.iswr
 *.isza
 *.it
+*.ithh
 *.ITLOCK
 *.itlock*
+*.itqw
+*.itrz
 *.ITTZN
 *.itunes
 *.iudgkwv
@@ -2125,6 +2129,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.japan
 *.JapanLocker
 *.jaqw
+*.Jarjets
 *.jasa
 *.java
 *.javaencrypt
@@ -4720,8 +4725,11 @@ Zenis-*.*
 *.ZoToN
 *.zouu
 *.ZOZL
+*.zpas
 *.zphs
 *.zpps
+*.zput
+*.zpww
 *.zq
 *.zqde
 *.zqqw

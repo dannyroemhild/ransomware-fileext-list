@@ -549,6 +549,7 @@ aboutYourFiles.*
 *.BlackCocaine*
 *.BlackDream
 *.BlackHat
+*.BlackHatUP
 *.BlackHeart
 *.BlackKingdom
 *.Blackout
@@ -3334,6 +3335,9 @@ OSIRIS-*.*
 *.ppdddp
 *.pphg
 *.PPHL
+*.ppvs
+*.ppvt
+*.ppvw
 *.pqgs
 *.pr09
 *.pr0lock
@@ -3506,6 +3510,7 @@ OSIRIS-*.*
 *.ram
 *.ramen
 *.rams1
+*.Ran
 *.rand
 *.RANDOM
 *.Random6
@@ -4442,6 +4447,7 @@ VictemKey_*_*
 *.Whereisyourfiles
 *.WhiteHorse
 *.whiterose
+*.whole
 *.wholocked
 *.why
 *.whycry
@@ -4641,6 +4647,9 @@ YOUR_FILES.url
 *.yytw
 *.YYYYBJQOQDU
 *.yyza
+*.yzaq
+*.yzoo
+*.yzqe
 *.Z0V
 *.z3enc
 *.z3r0

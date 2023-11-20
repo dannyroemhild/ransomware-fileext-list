@@ -29,6 +29,7 @@
 *.0xxx
 *.101
 *.111111
+*.1337
 *.14x
 *.1500dollars
 *.16x
@@ -72,6 +73,7 @@
 *.31342E30362E32303136*
 *.32aa
 *.3301
+*.34678
 *.34r7hGr455
 *.360
 *.3674AD9F-5958-4F2A-5CB7-F0F56A8885EA
@@ -1095,6 +1097,7 @@ cryptolocker.*
 *.dance
 *.dan@cock.email
 *.danger
+*.DangerSiker
 *.dapo
 *.daris
 *.darj
@@ -1165,8 +1168,9 @@ DECRYPT_ReadMe.TXT
 *.ded
 *.DEDCryptor
 *.dedo
-*.Deeep
 *.deep
+*.Deeep
+*.deepindeep
 *.defender
 *.Defray
 *.Defray777
@@ -1435,7 +1439,9 @@ encryptor_raas_readme_liesmich.txt
 *.Epoblockl
 *.epor
 *.epsilonred
+*.eqew
 *.eQTz
+*.eqza
 *.Erebus
 *.erenahen
 *.Erica
@@ -1765,6 +1771,7 @@ FILESAREGONE.TXT
 *.Got
 *.gotcha
 *.GOTHAM
+*.GoTiS
 *.GOTYA
 *.GPAA
 *.GPCode
@@ -2029,6 +2036,7 @@ IAMREADYTOPAY.TXT
 *.IHA
 IHAVEYOURSECRET.KEY
 *.ihsdj
+*.iicc
 *.iiof
 *.iips
 *.iisa
@@ -2205,6 +2213,8 @@ jpa.*
 *.jypo
 *.jyqji
 *.jywd
+*.jzeq
+*.jzie
 *.jzphmsfs
 *.k
 *.k0stya
@@ -3261,6 +3271,7 @@ OSIRIS-*.*
 *.pidom
 *.pidon
 *.Pig4444
+*.Pig865qq
 *.pigzqbqnvbu
 *.piiq
 *.piny
@@ -3561,6 +3572,7 @@ OSIRIS-*.*
 *.RE78P
 ReadDecryptFilesHere.txt
 *.rea
+*.read
 *.readinstructions
 *.readlockfiles
 *.ReadManual.*
@@ -3857,6 +3869,7 @@ SECRET.KEY
 *.shade8
 *.shadi
 *.shadow
+*.shanova
 *.shariz
 *.SHARK
 *.shasha
@@ -4724,6 +4737,7 @@ Zenis-*.*
 *.zoh
 *.Zoldon
 *.ZoLiSoNaL
+*.zombi*
 *.zonecare
 *.zoqw
 *.zorin

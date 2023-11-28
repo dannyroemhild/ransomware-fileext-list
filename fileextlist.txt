@@ -570,6 +570,7 @@ aboutYourFiles.*
 *.blind2
 *.bliun
 *.blm
+*.blo
 *.bloc
 *.bloccato
 *.block
@@ -1814,7 +1815,10 @@ FILESAREGONE.TXT
 *.gw3w
 *.gws
 *.GX40
+*.gycc
+*.gyew
 *.gyga
+*.gyza
 *.gzgzqc
 *.gоod
 *.h0lyenc
@@ -2707,6 +2711,7 @@ _Locky_recover_instructions.txt
 *.mers
 *.MesaCorp
 *.Mespinoza
+*.messec
 *.messenger-*
 *.metan
 *.Meteoritan
@@ -2834,6 +2839,7 @@ _Locky_recover_instructions.txt
 *.mtxlock
 *.muhstik
 *.MURK
+*.MuskOff
 *.muslat
 *.muuq
 *.mvp

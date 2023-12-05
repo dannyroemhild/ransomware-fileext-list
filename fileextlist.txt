@@ -1249,6 +1249,7 @@ DesktopOsiris.*
 *.dmo
 *.DMR
 *.dmr64
+*.doctorhelp
 *.dodged
 *.dodger
 *.dodoc
@@ -1373,6 +1374,7 @@ DesktopOsiris.*
 *.eldritch
 *.elibe
 *.elpvd
+*.elpy
 *.Elvis
 *.elvispresley
 *.EMAN
@@ -2082,6 +2084,7 @@ IHAVEYOURSECRET.KEY
 *.InsaneCrypt
 *.insta
 INSTRUCCIONES_DESCIFRADO.TXT
+*.intel
 *.invaded
 *.invader
 *.ioqa
@@ -2147,7 +2150,9 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.java
 *.javaencrypt
 *.javalocker
+*.jawr
 *.jaythl
+*.jazi
 *.JB88
 *.jbptlio
 *.jc
@@ -2417,6 +2422,7 @@ jpa.*
 *.lcphr
 *.lcry
 *.ldpr
+*.LEAKDB
 *.LEAKS
 *.LeChiffre
 *.leen
@@ -3562,6 +3568,7 @@ OSIRIS-*.*
 *.rastar
 *.rat
 *.ravack
+*.RAWLD
 *.razarac
 *.razio
 *.razor
@@ -4595,6 +4602,7 @@ VictemKey_*_*
 *.Xqxqx
 *.xraw
 *.XRNT
+*.xro
 *.xrom
 *.xrtn
 *.xsmb

@@ -674,6 +674,7 @@ aboutYourFiles.*
 *.bugware
 *.builder
 *.bukyak
+*.bulock*
 *.bumcoder
 *.bunny
 *.burn
@@ -1782,6 +1783,7 @@ FILESAREGONE.TXT
 *.GPT
 *.gqlmcwnhh
 *.gr3g
+*.GrafGrafel
 *.GRANIT
 *.granny
 *.GrAnoSinSa
@@ -1928,6 +1930,7 @@ HELP_YOUR_FILES.TXT
 *.hgkd
 *.hgml
 *.hgsh
+*.hhaz
 *.hhee
 *.hheo
 *.hhew
@@ -1936,6 +1939,7 @@ HELP_YOUR_FILES.TXT
 *.hhmm
 *.hhoo
 *.hhqa
+*.hhuy
 *.hhwq
 *.hhyu
 *.hicrypt
@@ -2892,6 +2896,8 @@ MZReverenge*
 *.NB65
 *.nbes
 *.NBR
+*.nbwr
+*.nbzi
 *.ncov
 *.NCrypt
 *.ndarod

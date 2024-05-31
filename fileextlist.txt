@@ -103,6 +103,7 @@
 *.51yupKSuX
 *.52pojie
 *.54bb47h
+*.564ba1
 *.59d49
 *.5ss5c
 *.619-300-6500
@@ -1369,6 +1370,7 @@ DesktopOsiris.*
 *.eddldzor
 *.edgel
 *.EdgeLocker
+*.EDHST
 *.EduCrypt
 *.eduransom
 *.edw
@@ -2508,6 +2510,7 @@ jpa.*
 *.like
 *.likud
 *.lilith
+*.lilium
 *.lilmoon
 *.lilocked
 *.limbo
@@ -3003,6 +3006,7 @@ MZReverenge*
 *.Netix
 *.netlock
 *.netn6
+*.nett
 *.Netwalker
 *.Networklock
 *.networkmaze
@@ -3199,6 +3203,7 @@ oor.*
 *.ooza
 *@opensourcemail.org
 *.OpenToYou
+*.OPIX
 *.OpJerusalem
 *.Oplatabtc3
 *.oplata@qq_com
@@ -3520,6 +3525,7 @@ oor.*
 *@qbmail.biz
 *.qbtex
 *.qbx
+*.qcrypt
 *.qdla
 *.qehu
 *.qensvlcbymk
@@ -4101,6 +4107,7 @@ SECRET.KEY
 *.SQ_
 *.sqpc
 *.sr0yz
+*.src
 *.srpx
 *.ssaw
 *.sshxkej
@@ -4461,6 +4468,7 @@ unCrypte@outlook.com*
 *.verschlüsselt
 *.vesad
 *.vesrato
+*.veza
 *.vfcfocxph
 *.vfgj
 *.VforVendetta
@@ -4869,6 +4877,7 @@ YOUR_FILES.url
 *.Zoldon
 *.ZoLiSoNaL
 *.zombi*
+*.ZoN
 *.zonecare
 *.zoqw
 *.zorin

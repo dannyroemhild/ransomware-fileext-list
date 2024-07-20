@@ -46,6 +46,7 @@
 *.1txt
 *.1whya
 *.1ywsmbo4
+*.2000USD
 *.2020
 *.2020END
 *.2023
@@ -401,6 +402,7 @@ aboutYourFiles.*
 *.azor
 *.azov
 *.azqt
+*.AzzaSec
 *.B-Panther
 *.b00m
 *.b0ff
@@ -752,6 +754,7 @@ aboutYourFiles.*
 *.cdrpt
 *.cdtt
 *.cdwe
+*.cebrc
 *.cekisan
 *.cerber
 *.cerber2
@@ -767,6 +770,7 @@ aboutYourFiles.*
 *.cfk
 *.cfm
 *.CGAIE
+*.chaddad
 *.CHAK
 *.charck
 *.charcl
@@ -1168,6 +1172,7 @@ cryptolocker.*
 *.deadnet26
 *.deal
 *.dealemail
+*.DeathGrip
 *.DeathHiddenTear
 *.DeathNote
 *.Death_of_Shadow
@@ -1218,6 +1223,7 @@ DECRYPT_ReadMe.TXT
 *.DERZKO
 DesktopOsiris.*
 *.destroy.executioner
+*.destroyer
 *.desu
 *.desucrpt
 *.desync
@@ -1270,6 +1276,7 @@ DesktopOsiris.*
 *.djvut
 *.djvuu
 *.dkey
+*.dkq
 *.dkrf
 *.dlenggrl
 *.dmay
@@ -1298,6 +1305,7 @@ DesktopOsiris.*
 *.doples
 *.DoppelPaymer
 *.doppled
+*.DORRA
 *.dotmap
 *.DoubleLocker
 *.doubleoffset
@@ -1309,6 +1317,7 @@ DesktopOsiris.*
 *.dqws
 *.DQXOO
 *.dragnea
+*.dragonforce_encrypted
 *.DRCRM
 *@dr.com
 *@dr.com.gr3g
@@ -1738,6 +1747,7 @@ FILESAREGONE.TXT
 *.GEnc
 *.genesis15
 *.geno
+*.geometrical
 *.Gerber
 *.gerber5
 *.GermanWiper
@@ -1760,6 +1770,7 @@ FILESAREGONE.TXT
 *.ghas
 *.ghost
 *.GhostCrypt
+*.GhostHacker
 *.GhostHammer
 *.ghsd
 *.Gibberish
@@ -2233,6 +2244,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.jigsaaw
 *.jigsaw
 *.jimm
+*.jinwooksjinwooks
 *.jjtt
 *.jjww
 *.jjyy
@@ -2450,7 +2462,8 @@ jpa.*
 *.L0CKED
 *.L1LL
 *.L33TAF
-*.l41
+*.l41#
+*.labour
 *.Ladon
 *.lalabitch
 *.lalo
@@ -2500,6 +2513,7 @@ jpa.*
 *.leto
 *.letsgo290.*
 *.lexei8bo
+*.Lexus
 *.lezp
 *.lfk
 *.lfv77az
@@ -3211,6 +3225,7 @@ oor.*
 *.optimus
 *.OQn1B
 *.oral
+*.orbit
 *.ORCA.*
 *.ordinal
 *.Ordinypt
@@ -3645,6 +3660,7 @@ oor.*
 *.RansomWarrior
 *.RANZYLOCKED
 *@rape.lol*
+*.rapax
 *.rapid
 *.RaRansomware
 *.RARE1
@@ -3845,6 +3861,7 @@ RESTORE-SIGRUN.*
 *.rugj
 *.rumba
 *.rumblegoodboy
+*.run*
 *.Russenger
 *.Russian
 *.rwg
@@ -3943,6 +3960,7 @@ SECRET.KEY
 *.see_read_me
 *.selena
 *.sell
+*.senanam
 *.SENATOR
 *.SENRUS17
 *.Seon
@@ -4080,6 +4098,7 @@ SECRET.KEY
 *.son
 *.sonic
 *.sophos
+*.sorcery
 *.sorena
 *.sorry
 *.sorryforthis
@@ -4137,6 +4156,7 @@ SECRET.KEY
 *.stopfiles
 *.StorageCrypter
 *.Storm
+*.stormous
 *.Striked
 *.stroman
 *.StrongX
@@ -4405,6 +4425,7 @@ unCrypte@outlook.com*
 *.upsil0n
 *.urnb
 *.urs
+*.ursq
 *.usa
 *.usagoo
 *.usam
@@ -4551,6 +4572,7 @@ VictemKey_*_*
 *.WannaSmile
 *.WannaSpam
 *.Wanqu
+*.waqa
 *.waqq
 *.warlocks
 *.warn_wallet

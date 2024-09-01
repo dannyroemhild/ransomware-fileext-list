@@ -404,6 +404,7 @@ aboutYourFiles.*
 *.azor
 *.azov
 *.azqt
+*.AzzaSec
 *.B-Panther
 *.b00m
 *.b0ff
@@ -756,6 +757,7 @@ aboutYourFiles.*
 *.cdrpt
 *.cdtt
 *.cdwe
+*.cebrc
 *.cekisan
 *.cerber
 *.cerber2
@@ -771,6 +773,7 @@ aboutYourFiles.*
 *.cfk
 *.cfm
 *.CGAIE
+*.chaddad
 *.CHAK
 *.charck
 *.charcl
@@ -1279,6 +1282,7 @@ DesktopOsiris.*
 *.djvut
 *.djvuu
 *.dkey
+*.dkq
 *.dkrf
 *.dlenggrl
 *.dmay
@@ -1307,6 +1311,7 @@ DesktopOsiris.*
 *.doples
 *.DoppelPaymer
 *.doppled
+*.DORRA
 *.dotmap
 *.DoubleLocker
 *.doubleoffset
@@ -1751,6 +1756,7 @@ FILESAREGONE.TXT
 *.GEnc
 *.genesis15
 *.geno
+*.geometrical
 *.Gerber
 *.gerber5
 *.GermanWiper
@@ -1773,6 +1779,7 @@ FILESAREGONE.TXT
 *.ghas
 *.ghost
 *.GhostCrypt
+*.GhostHacker
 *.GhostHammer
 *.ghsd
 *.Gibberish
@@ -2248,6 +2255,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.jigsaaw
 *.jigsaw
 *.jimm
+*.jinwooksjinwooks
 *.jjtt
 *.jjww
 *.jjyy
@@ -2465,7 +2473,11 @@ jpa.*
 *.L0CKED
 *.L1LL
 *.L33TAF
+<<<<<<< HEAD
 *.l41
+=======
+*.l41#
+>>>>>>> d1f0f3510faae17cf89846fa8073ce98e280e1d4
 *.labour
 *.Ladon
 *.lalabitch
@@ -2516,6 +2528,7 @@ jpa.*
 *.leto
 *.letsgo290.*
 *.lexei8bo
+*.Lexus
 *.lezp
 *.lfk
 *.lfv77az
@@ -3232,6 +3245,7 @@ oor.*
 *.optimus
 *.OQn1B
 *.oral
+*.orbit
 *.ORCA.*
 *.ordinal
 *.Ordinypt
@@ -3670,6 +3684,7 @@ oor.*
 *.RansomWarrior
 *.RANZYLOCKED
 *@rape.lol*
+*.rapax
 *.rapid
 *.RaRansomware
 *.RARE1
@@ -3871,6 +3886,7 @@ RESTORE-SIGRUN.*
 *.rugj
 *.rumba
 *.rumblegoodboy
+*.run*
 *.Russenger
 *.Russian
 *.rwg
@@ -4581,6 +4597,7 @@ VictemKey_*_*
 *.WannaSmile
 *.WannaSpam
 *.Wanqu
+*.waqa
 *.waqq
 *.warlocks
 *.warn_wallet

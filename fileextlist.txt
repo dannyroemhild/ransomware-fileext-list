@@ -2473,11 +2473,7 @@ jpa.*
 *.L0CKED
 *.L1LL
 *.L33TAF
-<<<<<<< HEAD
 *.l41
-=======
-*.l41#
->>>>>>> d1f0f3510faae17cf89846fa8073ce98e280e1d4
 *.labour
 *.Ladon
 *.lalabitch

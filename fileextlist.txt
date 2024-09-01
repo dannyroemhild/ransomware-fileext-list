@@ -46,6 +46,7 @@
 *.1txt
 *.1whya
 *.1ywsmbo4
+*.2000USD
 *.2020
 *.2020END
 *.2023
@@ -262,6 +263,7 @@ aboutYourFiles.*
 *.alka
 *.Alkohol
 *.allahuakbar
+*.allarich
 *.allcry
 *.allock*
 *.Al-Namrood
@@ -364,6 +366,7 @@ aboutYourFiles.*
 *.ATOMSILOR
 *.attack7
 *.attackfiles
+*.attacknew*
 *.attacksystem
 *.attackuk
 *.au1crypt
@@ -727,6 +730,7 @@ aboutYourFiles.*
 *.Carver
 *.cash
 *.cashdashsentme@protonmail.com
+*.CashRansomware
 *.cassetto
 *.cawwcca
 *.cbf
@@ -1084,6 +1088,7 @@ cryptolocker.*
 *.curumim
 *.cvc
 *.cve
+*.cvenc
 *.c-vir
 *.cxk
 *.cxkdata
@@ -1138,6 +1143,7 @@ cryptolocker.*
 *.darus
 *.darz
 *.data
+*.Datablack
 *.dataf
 *.datah
 *.DataKeeper
@@ -1168,6 +1174,7 @@ cryptolocker.*
 *.deadnet26
 *.deal
 *.dealemail
+*.DeathGrip
 *.DeathHiddenTear
 *.DeathNote
 *.Death_of_Shadow
@@ -1218,6 +1225,7 @@ DECRYPT_ReadMe.TXT
 *.DERZKO
 DesktopOsiris.*
 *.destroy.executioner
+*.destroyer
 *.desu
 *.desucrpt
 *.desync
@@ -1245,6 +1253,7 @@ DesktopOsiris.*
 *.diablo6
 *.DIAMOND
 *.dian
+*.dice
 *.die
 *.Digisom
 *.diller13
@@ -1309,6 +1318,7 @@ DesktopOsiris.*
 *.dqws
 *.DQXOO
 *.dragnea
+*.dragonforce_encrypted
 *.DRCRM
 *@dr.com
 *@dr.com.gr3g
@@ -1410,6 +1420,7 @@ DesktopOsiris.*
 *.eldritch
 *.elibe
 *.ELITTE87
+*.ELPACO-team
 *.elpvd
 *.elpy
 *.Elvis
@@ -1641,6 +1652,7 @@ FILESAREGONE.TXT
 *.for
 *.forasom
 *.FORCE
+*.forcelock
 *.fordan
 *.format
 *.foty
@@ -1699,6 +1711,7 @@ FILESAREGONE.TXT
 *.G8xB
 *.Galacti-Crypter
 *.game
+*.GameCrypt
 *.gamma
 *.GandCrab
 *.GandCrab2
@@ -1872,6 +1885,7 @@ FILESAREGONE.TXT
 *.gzgzqc
 *.gоod
 *.h0lyenc
+*.h0rus13
 *.h3ll
 *.h3r
 *.ha3
@@ -2136,6 +2150,7 @@ IHAVEYOURSECRET.KEY
 *.inlock
 *.insane
 *.InsaneCrypt
+*.insom
 *.insta
 INSTRUCCIONES_DESCIFRADO.TXT
 *.intel
@@ -2451,6 +2466,7 @@ jpa.*
 *.L1LL
 *.L33TAF
 *.l41
+*.labour
 *.Ladon
 *.lalabitch
 *.lalo
@@ -2624,6 +2640,7 @@ _Locky_recover_instructions.txt
 *.lost
 *.Lost_Files
 *.Lost_Files_Encrypt
+*.lostinfo
 *.losttrustencoded
 *.lote
 *.lotej
@@ -2672,6 +2689,7 @@ _Locky_recover_instructions.txt
 *.LyaS
 *.@LyDarkr
 *.lyli
+*.LYNX
 *.m0nk3y
 *.M0rphine
 *.m3g4c0rtx
@@ -2696,6 +2714,7 @@ _Locky_recover_instructions.txt
 *.magic_software_syndicate
 *.Magniber
 *@.mail
+*@HorrorDeadBot
 *@mail.com*
 *@mail.com.mkmk
 *@mail.ru*
@@ -2870,6 +2889,7 @@ _Locky_recover_instructions.txt
 *.moments2900
 *.moncrypt
 *.money
+*.moneyistime
 *.MongoLock
 *.mono
 *.monochromebear
@@ -3003,6 +3023,7 @@ MZReverenge*
 *.nesa
 *.net
 *.NETCrypton
+*.NetForceZ
 *.Netix
 *.netlock
 *.netn6
@@ -3407,6 +3428,7 @@ oor.*
 *.Polina
 *.polis
 *.polizia
+*.pomoch*
 *.PonyFinal
 *.pooe
 *.poof
@@ -3499,10 +3521,12 @@ oor.*
 *.pumax
 *.punisher
 *.PureLocker
+*.PURGAT0RY
 *.purge
 *.puspa2#mejukeni7sala029
 *.pussy
 *.puuuk
+*.pwn3d
 *.pwnd
 *.PwndLocker
 *.pwned
@@ -3566,6 +3590,7 @@ oor.*
 *.qscx
 *.Qtyu8vH5wDXf6OSWAm5NuA==ObcK
 *.QuakeWay
+*.qual
 *.quantum
 *.Quimera
 *qweasd*
@@ -3654,6 +3679,7 @@ oor.*
 *.rat
 *.ravack
 *.RAWLD
+*.raz
 *.razarac
 *.razio
 *.razor
@@ -3943,6 +3969,7 @@ SECRET.KEY
 *.see_read_me
 *.selena
 *.sell
+*.senanam
 *.SENATOR
 *.SENRUS17
 *.Seon
@@ -4080,6 +4107,7 @@ SECRET.KEY
 *.son
 *.sonic
 *.sophos
+*.sorcery
 *.sorena
 *.sorry
 *.sorryforthis
@@ -4137,6 +4165,7 @@ SECRET.KEY
 *.stopfiles
 *.StorageCrypter
 *.Storm
+*.stormous
 *.Striked
 *.stroman
 *.StrongX
@@ -4405,6 +4434,7 @@ unCrypte@outlook.com*
 *.upsil0n
 *.urnb
 *.urs
+*.ursq
 *.usa
 *.usagoo
 *.usam
@@ -4697,6 +4727,7 @@ VictemKey_*_*
 *.xdrop
 *.xero
 *.xfile
+*.XFUN
 *.xgpr
 *.XHAMSTER
 *.xhspythxn
@@ -4874,6 +4905,7 @@ YOUR_FILES.url
 *.zobm
 *.zoeticus
 *.zoh
+*.Zola
 *.Zoldon
 *.ZoLiSoNaL
 *.zombi*

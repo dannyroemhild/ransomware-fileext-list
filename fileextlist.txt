@@ -551,6 +551,7 @@ aboutYourFiles.*
 *.Bitshifter
 *.bitstak
 *.bitx
+*.bixi
 *.biz
 *.bizer
 *.bjrtziwsgw
@@ -578,6 +579,7 @@ aboutYourFiles.*
 *.blackruby
 *.blacksuit
 *.BlackSun
+*.blackZluk
 *.blank
 *.blaze
 *.bleep
@@ -867,6 +869,7 @@ Coin.Locker.txt
 *.CoinVault
 *.coka
 *.colambia
+*.colony96
 *.colorit
 *.com2
 *.combo
@@ -1019,6 +1022,7 @@ Coin.Locker.txt
 *.CryptInfinite
 *.crypto
 *.crypto1317
+*.crypto24
 *.cryptoboss
 *.cryptobyte
 *.crypto_crypt
@@ -1510,6 +1514,7 @@ encryptor_raas_readme_liesmich.txt
 *.ert
 *.ESCAL*
 *.escanor
+*.escovinda
 *.esexz
 *.ES_HELPs
 *.Estemani
@@ -1663,6 +1668,7 @@ FILESAREGONE.TXT
 *.foty
 *.four
 *.fox
+*.foxtrot70
 *.foxxy
 *.foza
 *.frea
@@ -2030,6 +2036,7 @@ HELP_YOUR_FILES.TXT
 *.hkgt
 *.Hknet
 *.~HL*
+*.hlas
 *.hncdumn
 *.hNcrypt
 *.hnumkhotep
@@ -2164,6 +2171,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.invaded
 *.invader
 *.ioqa
+*.ior
 *.iotr
 *.iowd
 *.Ipcrestore
@@ -2692,6 +2700,7 @@ _Locky_recover_instructions.txt
 *.lurk
 *.lUUUUUUUUU
 *.lux
+*.luxy
 *.lx
 *.lxhlp
 *.lXXwXXXNQ
@@ -2925,6 +2934,7 @@ _Locky_recover_instructions.txt
 *.mpal
 *.mppn
 *.mppq
+*.mqpoa
 *.Mr
 *.Mr-X666
 *.MRCR1
@@ -3264,6 +3274,7 @@ oor.*
 *.OVO
 *.(OwL)
 *.owned
+*.ownerd
 *.Ox4444
 *.oxr
 *.Ozoza
@@ -3377,6 +3388,7 @@ oor.*
 *.PewCrypt
 *.pezi
 *.pfanz
+*.pgp775
 *.PGPSnippet
 *.phantom
 *.PhantomChina
@@ -3747,6 +3759,7 @@ RECOVERY_KEY.txt
 *.redkrypt
 *.redl
 *.redmat
+*.redrose
 *.redrum
 *.REDTM
 *.refols
@@ -3969,6 +3982,7 @@ RESTORE-SIGRUN.*
 *.sdwwbrb
 *.sea
 *.seccrypt
+*.secdojo
 *.secles
 _secret_code.txt
 SECRETIDHERE.KEY
@@ -4234,6 +4248,7 @@ SECRET.KEY
 *.szf
 *.SZFLocker
 *.Szymekk
+trial-recovery.*
 *.t1000
 *.T1Happy
 *.tabe
@@ -4269,6 +4284,7 @@ SECRET.KEY
 *.telegram
 *.TellYouThePass
 *.teren
+*.terminator
 *.termit
 *.Termite
 *.terror_ramp3
@@ -4397,6 +4413,7 @@ SECRET.KEY
 *.txlck
 *.tx_locked
 *.tyos
+*.tyson
 *.tywd
 *.tzu
 *.tzw
@@ -4747,6 +4764,7 @@ VictemKey_*_*
 *.XiaoBa*
 *.xienvkdoc
 *.XIII
+*.XiN
 *.Xino
 *.xinof
 *.xLck

@@ -56,6 +56,8 @@
 *.21btc
 *.22btc
 *.24H
+*.247_davidhasselhoff
+*.247_dennisthehitman
 *.259
 *.2700
 *.2admin
@@ -1144,6 +1146,7 @@ cryptolocker.*
 *.dark*
 *.Darkbit
 *.DARKCRY
+*.darkeye
 *.darkness
 *.DarkoderCryptor
 *.Dart
@@ -1215,6 +1218,7 @@ DECRYPT_ReadMe.TXT
 *.Deeep
 *.deepindeep
 *.defender
+*.defi1328
 *.Defray
 *.Defray777
 *.dehd
@@ -1585,6 +1589,7 @@ encryptor_raas_readme_liesmich.txt
 *.fate
 *.fatp
 *.faust
+*.fbi
 *.FBIRAS
 *.FBSYW
 *.fbuvkngy
@@ -1914,6 +1919,7 @@ FILESAREGONE.TXT
 *.hades666
 *.HadesLocker
 *.HaHaHaHaHaHaHaHa
+*.HAHAHAIAMABULLY
 *.hajd
 *.haka
 *.Hakbit
@@ -3098,6 +3104,7 @@ MZReverenge*
 *.nochance
 *.nochi
 *.Node0
+*.nodeep
 *.nohope
 *.NOKOYAWA
 *.NOLOST
@@ -4028,6 +4035,7 @@ SECRET.KEY
 *.sgs911
 *.sgs911-*
 *.sguard
+*.shadaloo
 *.shade8
 *.shadi
 *.shadow
@@ -4129,6 +4137,7 @@ SECRET.KEY
 *.soli
 *.Solix
 *.solo
+*.solution247
 *.somik1
 *.son
 *.sonic

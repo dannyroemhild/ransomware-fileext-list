@@ -568,12 +568,14 @@ aboutYourFiles.*
 *.Black
 *.black007
 *.BlackBit
+*.blackcat
 *.BlackCocaine*
 *.BlackDream
 *.BlackHat
 *.BlackHatUP
 *.BlackHeart
 *.BlackKingdom
+*.blackmatter
 *.Blackout
 *.BlackPink
 *.blackrock
@@ -1433,6 +1435,7 @@ DesktopOsiris.*
 *.eldritch
 *.elibe
 *.ELITTE87
+*.ELONMUSKISGREEDY*
 *.ELPACO-team
 *.elpvd
 *.elpy
@@ -1938,6 +1941,7 @@ FILESAREGONE.TXT
 *.hardbit2
 *.harditem
 *.harma
+*.haron
 *.harward
 *.Harzhuangzi
 *.hasp
@@ -2533,6 +2537,7 @@ jpa.*
 *.leph0uxo
 *.les#
 *.lesli
+*.lethal
 *.LethalLock
 *.letmetrydecfiles
 *.leto
@@ -3057,7 +3062,9 @@ MZReverenge*
 *.Networklock
 *.networkmaze
 *.new24
+*.newbot
 *.NewHT
+*newlive.team
 *.newlock
 *.newlocker
 *.NEWRAR
@@ -3074,6 +3081,7 @@ MZReverenge*
 *.NIGG3R
 *.NIGGA
 *.NIGHT_CROW
+*.nightcrow
 *.nightsky
 *.nigra
 *.nile
@@ -3866,6 +3874,7 @@ RESTORE-SIGRUN.*
 *.rooster865qqz
 *.Rooster865qqZ
 *.root
+*.root4
 *.rootiunik.*
 *.rose
 *.RoshaLock
@@ -4160,6 +4169,7 @@ SECRET.KEY
 *.spg
 *.sphinx
 *.spider
+*.spider1
 *.SplinterJoke
 *.spora
 *.sport

@@ -58,6 +58,7 @@
 *.24H
 *.247_davidhasselhoff
 *.247_dennisthehitman
+*.247_haroldsquarepants
 *.259
 *.2700
 *.2admin
@@ -303,6 +304,7 @@ aboutYourFiles.*
 *.ann
 *.Annabelle
 *.Annabelle2
+*.annoy
 *.anon
 *.anon_by
 *.anon000
@@ -1148,6 +1150,7 @@ cryptolocker.*
 *.dark*
 *.Darkbit
 *.DARKCRY
+*.darkdev
 *.darkeye
 *.darkness
 *.DarkoderCryptor
@@ -1238,6 +1241,7 @@ DECRYPT_ReadMe.TXT
 *.DERZKO
 DesktopOsiris.*
 *.destroy.executioner
+*.destroy30
 *.destroyer
 *.desu
 *.desucrpt
@@ -1840,6 +1844,7 @@ FILESAREGONE.TXT
 *.gomer
 *.gommemode
 *.GoNNaCry
+*.gonzofortuna
 *.good
 *.GoodMorning
 *.goofed
@@ -3084,6 +3089,7 @@ MZReverenge*
 *.nightcrow
 *.nightsky
 *.nigra
+*.niko
 *.nile
 *.ninja
 *.__NIST_K571__
@@ -3966,6 +3972,7 @@ RESTORE-SIGRUN.*
 *.Sato
 *.saturn
 *.satyr
+*.sauron
 *.save
 *.saved
 *.savefiles

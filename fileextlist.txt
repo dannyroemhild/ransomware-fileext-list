@@ -1,6 +1,6 @@
+[ZipLOCK]*
 *.#
 *.~~~~
-.~
 *.$anta
 *.0000
 *.000G
@@ -310,6 +310,7 @@ aboutYourFiles.*
 *.anon000
 *.anontsugumi
 *.anonymous
+*.AnonymousFrance
 *.anta
 *.AnteFrigus
 *.Anthraxbulletproof
@@ -587,6 +588,7 @@ aboutYourFiles.*
 *.BlackSun
 *.blackZluk
 *.blank
+*.blassa
 *.blaze
 *.bleep
 *.bleepYourFiles
@@ -1025,6 +1027,7 @@ Coin.Locker.txt
 *.cryptfile
 *.CryptFuck
 *.cryptgh0st
+.crypticsociety
 *.CryptInfinite
 *.crypto
 *.crypto1317
@@ -1642,6 +1645,7 @@ FILESAREGONE.TXT
 *.filock
 *.FinD0m
 *.FindZip
+*.FIOI
 *.fire
 *.firecrypt
 *.firex3m
@@ -3825,6 +3829,7 @@ RESTORE-SIGRUN.*
 *.REvil
 *.revolution
 *.revon
+*.REVRAC
 *.RexCrypt
 *.Reyptson
 *.rezm
@@ -4987,6 +4992,7 @@ YOUR_FILES.url
 *.zqqw
 *.ZqVIkE
 *.zrb
+*.Ztax
 *.zteqqd
 *.ztsysjz
 *.zuadr

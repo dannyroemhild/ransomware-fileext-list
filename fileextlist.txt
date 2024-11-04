@@ -39,6 +39,7 @@
 *.1beo18
 *.1btc
 *.1c
+*.1cbu1
 *.1dec
 *.1dex
 *.1iyT6bav7VyWM5
@@ -246,6 +247,7 @@ aboutYourFiles.*
 *.ahui
 *.aim
 *.air
+*._AiraCropEncrypted
 *.airacropencrypted!
 *@airmail.cc
 *.akaibvn
@@ -980,6 +982,7 @@ Coin.Locker.txt
 *.Cryakl
 *.crybrazil
 *.CryCryptor
+*.cryeye
 *.CryFile
 *.CryForMe
 *.crying
@@ -1027,7 +1030,7 @@ Coin.Locker.txt
 *.cryptfile
 *.CryptFuck
 *.cryptgh0st
-.crypticsociety
+*.crypticsociety
 *.CryptInfinite
 *.crypto
 *.crypto1317
@@ -1956,6 +1959,7 @@ FILESAREGONE.TXT
 *.hasp
 *.haters
 *.havoc
+*.hawk
 *.hazard*
 *.hb15
 *.hbdalna
@@ -1973,6 +1977,7 @@ FILESAREGONE.TXT
 *._HE
 *.health
 *.hebem
+*.Heda
 *.heets
 *.Heimdall
 *.heisenberg
@@ -3402,6 +3407,7 @@ oor.*
 *.pepe
 *.PERDAK
 *.perfection
+*.perl
 *.persephone666
 *.PERSONAL_ID*
 *.peta
@@ -3452,6 +3458,7 @@ oor.*
 *.plant
 *.plastic
 *.plauge17
+*.PLBOY
 *.pleaseCallQQ
 *.plex
 *.PLIN
@@ -3561,6 +3568,7 @@ oor.*
 *.pthh
 *.ptqw
 *.ptrz
+*.pubg
 *.pulpit
 *.pulsar1
 *.puma
@@ -3861,6 +3869,7 @@ RESTORE-SIGRUN.*
 *.rlhwasted_info
 *.RMCM1
 *_.rmd
+*.rmd
 *.RME
 *.rnsmwr
 *.rnsmwre
@@ -3949,6 +3958,7 @@ RESTORE-SIGRUN.*
 *.SADStory
 *.safe
 *@safetyjabber.com
+*@sigaint.org.fs0ciety
 *.sage
 *.SaherBlueEagleRansomware
 *.Sakura

@@ -338,6 +338,7 @@ aboutYourFiles.*
 *.arazite
 *.arch
 *.architects
+*.Arcus
 *.area
 *.arena
 *.AresCrypt
@@ -538,6 +539,7 @@ aboutYourFiles.*
 *.billingsupp
 *.bin2
 *.Bioawards
+*.biobio
 *.bip
 *.birbb
 *.BISAMWARE
@@ -1114,6 +1116,7 @@ cryptolocker.*
 *.cxk_nmsl
 *.CXK-NMSL
 *.CY3
+*@cyberfear.com
 *.cyb
 *.cyber
 *.cyberdrill
@@ -1160,6 +1163,7 @@ cryptolocker.*
 *.darkeye
 *.darkness
 *.DarkoderCryptor
+*.DARKSET
 *.Dart
 *.darus
 *.darz
@@ -1690,6 +1694,7 @@ FILESAREGONE.TXT
 *.foxtrot70
 *.foxxy
 *.foza
+*.frag
 *.frea
 *.fredd
 *.freefoam
@@ -2192,6 +2197,7 @@ IHAVEYOURSECRET.KEY
 *.insta
 INSTRUCCIONES_DESCIFRADO.TXT
 *.intel
+*.interlock
 *.invaded
 *.invader
 *.ioqa
@@ -2356,6 +2362,7 @@ jpa.*
 *.karsovrop
 *.Kasiski
 *.kasp
+*.kasper
 *.katipuneros
 *.katyusha
 *.KawaiiLocker
@@ -2962,6 +2969,7 @@ _Locky_recover_instructions.txt
 *.mqpoa
 *.Mr
 *.Mr-X666
+*.MrBeastOfficial@firemail.cc-MrBeastRansom
 *.MRCR1
 *.MrDec
 *.MRN
@@ -3199,6 +3207,7 @@ MZReverenge*
 *.nytom
 *.Nyton
 *.NYX
+*.nyxe
 *.nzer
 *.nzoq
 *.nzqw
@@ -3657,6 +3666,7 @@ oor.*
 *.qxtfkslrf
 *.qxycv
 *_r00t_*
+*_R2Cheats
 *.r0n
 *.R16M01D05
 *.r2block
@@ -3903,6 +3913,7 @@ RESTORE-SIGRUN.*
 *.royal
 *.royal_w
 *.royroy.*
+*.rox
 *.Roza
 *.rpd
 *.rrbb
@@ -4008,6 +4019,7 @@ RESTORE-SIGRUN.*
 *.scl
 *.scorpio
 *.scorpion
+*.scp
 *.scr
 *.scrcrw
 *.Script

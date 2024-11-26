@@ -1480,6 +1480,7 @@ DesktopOsiris.*
 *.encoderpass
 *.encr
 *.enc_robbinhood
+*.encryp
 *.encrpt3d
 *.encrptd
 *.EnCryp13d
@@ -2508,6 +2509,7 @@ jpa.*
 *.kxde
 *.kyra
 *.L00KUPRU
+*.L0CK3D
 *.l0cked
 *.L0CKED
 *.L1LL
@@ -3569,6 +3571,7 @@ oor.*
 *.Prt6aV9
 *.prus
 *.psafe
+*.psaux
 *.pscrypt
 *.psh
 *.PshCrypt
@@ -4163,6 +4166,7 @@ SECRET.KEY
 *.snake4444
 *.snatch
 *.snc
+*.SNEED
 *.SNet
 *.snoopdog
 *.Snoopdoog

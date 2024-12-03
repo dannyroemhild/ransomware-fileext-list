@@ -81,6 +81,7 @@
 *.3301
 *.34678
 *.34r7hGr455
+*.34v
 *.360
 *.3674AD9F-5958-4F2A-5CB7-F0F56A8885EA
 *.3admin
@@ -333,6 +334,7 @@ aboutYourFiles.*
 *.APT14CHIR
 *.aqva
 *.ara
+*.Arachna
 *.araicrypt
 *.aram
 *.arazite
@@ -2905,6 +2907,7 @@ _Locky_recover_instructions.txt
 *.mlwq
 *.mlza
 *.mmdt
+*.mme
 *.mmm
 *.mmnn
 *.mmob
@@ -2952,6 +2955,7 @@ _Locky_recover_instructions.txt
 *.mool
 *.MOON
 *.MoonCrypter
+*.MOONMAN
 *.moonshadow
 *.moqs
 *.mordor
@@ -3848,6 +3852,7 @@ RESTORE-SIGRUN.*
 *.REVENLOCK7
 *.rever
 *.REvil
+*.revive
 *.revolution
 *.revon
 *.REVRAC
@@ -4601,6 +4606,7 @@ VictemKey_*_*
 *.VindowsLocker
 *.VIRUS
 *.VisionCrypt
+*.ViT
 *.VIVAL
 *.vivelag
 *.vjiszy1lo
@@ -4692,6 +4698,7 @@ VictemKey_*_*
 *.wecanhlep
 *.week
 *.weencedufiles
+*.wehavesolution247
 *.weiu
 *.weon
 *.weqp

@@ -270,6 +270,7 @@ aboutYourFiles.*
 *.Alkohol
 *.allahuakbar
 *.allarich
+*.allciphered*
 *.allcry
 *.allock*
 *.Al-Namrood
@@ -773,6 +774,7 @@ aboutYourFiles.*
 *.cdrpt
 *.cdtt
 *.cdwe
+*.cdxx
 *.cebrc
 *.cekisan
 *.cerber
@@ -828,6 +830,8 @@ aboutYourFiles.*
 *.cip
 *.cipher
 *.ciphered
+*.CipherTrail
+*.ciphx
 *.cityzone-*
 *.cizer
 *.Cj
@@ -1532,6 +1536,7 @@ encryptor_raas_readme_liesmich.txt
 *.Erica
 *.erif
 *.eris
+*.erop
 *.erqw
 *.error
 *.errz
@@ -1541,6 +1546,7 @@ encryptor_raas_readme_liesmich.txt
 *.escovinda
 *.esexz
 *.ES_HELPs
+*.eslock
 *.Estemani
 *.Eternal
 *.eTeRnItY
@@ -2168,6 +2174,7 @@ IHAVEYOURSECRET.KEY
 *.imi
 *.immunityyoung@aol.com.young
 *.impect
+*.imploder
 *.improved
 *.Ims00ry
 *.Imshifau
@@ -2763,6 +2770,7 @@ _Locky_recover_instructions.txt
 *.Mafer
 *.MAFIA
 *.MafiaWare
+*.maga
 *.magaskosh
 *.magic
 *.magic_software_syndicate
@@ -2848,6 +2856,7 @@ _Locky_recover_instructions.txt
 *.megac0rtx
 *.megacortex
 *.MegaLocker
+*.MEHRO
 *.meka
 *.mekwyk
 *.ment
@@ -3106,6 +3115,7 @@ MZReverenge*
 *.NHLP
 *.Nhtnwcuf
 *.nibiru
+*.nifr
 *.NIGG3R
 *.NIGGA
 *.NIGHT_CROW
@@ -4165,6 +4175,8 @@ SECRET.KEY
 *.slime
 *.slvpawned
 *.sMilE
+*.SMOCK
+*.SMOK
 *.smpl
 *.Smrss32
 *.snake
@@ -4854,6 +4866,7 @@ VictemKey_*_*
 *.xro
 *.xrom
 *.xrtn
+*.XSHC
 *.xsmb
 *.xtbl
 *.XTP

@@ -1794,6 +1794,7 @@ FILESAREGONE.TXT
 *.geminis3
 *.GEnc
 *.genesis15
+*.gengar
 *.geno
 *.geometrical
 *.Gerber
@@ -2001,6 +2002,7 @@ FILESAREGONE.TXT
 HELLOTHERE.TXT
 *.Hells
 *.help
+*.help_restoremydata
 *._HE._LP
 *.Help50
 *.HelpDCFile
@@ -3818,6 +3820,7 @@ RECOVERY_KEY.txt
 *.redeye
 *.redkrypt
 *.redl
+*.redlocker
 *.redmat
 *.redrose
 *.redrum
@@ -4244,6 +4247,7 @@ SECRET.KEY
 *.Sspq
 *.sss
 *.Stampado
+*.starcat
 *.stare
 *.start
 *.STARVSTHEFORCESOFEVIL
@@ -4804,6 +4808,7 @@ VictemKey_*_*
 *.wzqw
 *.wztt
 *.x0lzs3c
+*.X101
 *.x1881
 *.x3
 *.x3m

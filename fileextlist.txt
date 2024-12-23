@@ -210,6 +210,7 @@ aboutYourFiles.*
 *.adr
 *@adsoleware.com*
 *.adv
+*.adver
 *.adww
 *.aep
 *.AeR
@@ -995,6 +996,7 @@ Coin.Locker.txt
 *.CryForMe
 *.crying
 *.CryLocker
+*.crynox
 *.CrYo
 *.CrYo.TeOnS
 *.cryp
@@ -1920,6 +1922,7 @@ FILESAREGONE.TXT
 *.guesswho
 *.gui
 *.gujd
+*.GURAM
 *.gusau
 *.GusCrypter
 *.guvara
@@ -2659,6 +2662,7 @@ lock.*
 *.LockfilesKR
 *.Lockify
 *.locklock
+*.locklocklock
 *.lockme
 *.locknet
 *.lockon
@@ -2734,6 +2738,7 @@ _Locky_recover_instructions.txt
 *.luces
 *.lucifer
 *_luck
+*.luck_*
 *.lucknite
 *.Lucky*
 *.lucky
@@ -3180,6 +3185,7 @@ MZReverenge*
 *.notfoundrans
 *.NOT_OPEN
 *.NOV
+*.novalock
 *.novasof
 *.noway
 *.nozelesn
@@ -4290,6 +4296,7 @@ SECRET.KEY
 *.sunjun
 *.SuperB
 *.SUPERCRYPT
+*.superlock
 *.support
 *.supported2017
 *support@lzt.design*

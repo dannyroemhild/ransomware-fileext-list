@@ -2000,6 +2000,7 @@ FILESAREGONE.TXT
 *.Heimdall
 *.heisenberg
 *.hela
+*.held
 *.hello
 *.hellomynameisransom
 HELLOTHERE.TXT
@@ -2448,6 +2449,7 @@ jpa.*
 *.kitty
 *.kitu
 *.kiwm
+*.kixtixcy@tuta.io.kix
 *.kizu
 *.kizu.*
 *.kjh
@@ -2994,6 +2996,7 @@ _Locky_recover_instructions.txt
 *.MrBeastOfficial@firemail.cc-MrBeastRansom
 *.MRCR1
 *.MrDec
+*.MRJOKERPALFINGER1984
 *.MRN
 *.MrWhite
 *.MS
@@ -4653,6 +4656,7 @@ VictemKey_*_*
 *.v-society
 *.vtua
 *.vtym
+*.vulcan
 *.vulston
 *.Vurten
 *.vusad

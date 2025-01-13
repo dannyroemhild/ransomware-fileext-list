@@ -334,6 +334,7 @@ aboutYourFiles.*
 *.ApolloLocker
 *.apollon865
 *.APT14CHIR
+*.aptlock
 *.aqva
 *.ara
 *.Arachna
@@ -485,6 +486,7 @@ aboutYourFiles.*
 *.bbnm
 *.bboo
 *.bbqb
+*.bbuild
 *.bbyy
 *.bbzz
 *.bcBDBbAEDb
@@ -899,6 +901,7 @@ Coin.Locker.txt
 *.condat
 *.conficker
 *.consciousness
+*.Contacto
 *.contactus
 *.conti
 *.cookieshelper
@@ -1744,6 +1747,7 @@ FILESAREGONE.TXT
 *.fuckyourdata
 *.fun
 *.FunFact
+*.funksec
 *.funny
 *.FUSION
 *.futm
@@ -2449,7 +2453,7 @@ jpa.*
 *.kitty
 *.kitu
 *.kiwm
-*.kixtixcy@tuta.io.kix
+*.[kixtixcy@tuta.io].kix
 *.kizu
 *.kizu.*
 *.kjh
@@ -3061,6 +3065,7 @@ MZReverenge*
 *.navi
 *.nazcrypt
 *.NB65
+*.NBA
 *.nbes
 *.NBR
 *.nbwr
@@ -3786,6 +3791,7 @@ oor.*
 *.RDM
 *.rdmk
 *.rdp
+*.rdplocker
 *.rdptest
 *.RDWF
 *.RE78P
@@ -4913,6 +4919,7 @@ VictemKey_*_*
 *.YBNT
 *.ybtn
 *.ydhm
+*.YE1337
 *.yG
 *.ygkz
 *.yguekcbe

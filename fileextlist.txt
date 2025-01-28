@@ -664,6 +664,7 @@ aboutYourFiles.*
 *.bozon
 *.bozon3
 *.bozq
+*.Bpant
 *.bpqd
 *.bpsm
 *.bpto
@@ -848,6 +849,7 @@ aboutYourFiles.*
 *.clinton
 *.clman
 *.clock
+*.Clone
 *.clop
 *.C_L_O_P
 *.cloud
@@ -1360,6 +1362,7 @@ DesktopOsiris.*
 *.dragnea
 *.dragonforce_encrypted
 *.DRCRM
+*@D0glun@*
 *@dr.com
 *@dr.com.gr3g
 *.dream
@@ -1411,6 +1414,7 @@ DesktopOsiris.*
 *.ebay
 *.eBayWall
 *.ebola
+*.EByteLocker
 *.ecc
 *.eCh0raix
 *.eclr
@@ -2148,6 +2152,7 @@ Howto_Restore_FILES.TXT
 *.hydracrypt_ID*
 *.hydrox
 *.hyena
+*.hyena111
 *.hyj
 IAMREADYTOPAY.TXT
 *.iaufkakfhsaraf
@@ -2211,6 +2216,7 @@ IHAVEYOURSECRET.KEY
 *.info@shareby.com
 *.infowait
 *.inlock
+*.innok
 *.insane
 *.InsaneCrypt
 *.insom
@@ -3155,6 +3161,7 @@ MZReverenge*
 *.nmcrypt
 *.NMO
 *.NMoreira
+*.nnice
 *.nnll
 *.nnpl
 *.nnqp
@@ -4247,6 +4254,7 @@ SECRET.KEY
 *.spora
 *.sport
 *.spotifyxbiden
+*.spring
 *.spybuster
 *.spyhunter
 *.Spyro
@@ -4569,6 +4577,7 @@ unCrypte@outlook.com*
 *.ust29
 *.uta
 *.utjg
+*.utZMwPnzM
 *.uudjvu
 *.Uyari
 *.uyjh
@@ -4736,6 +4745,7 @@ VictemKey_*_*
 *.weon
 *.weqp
 *.werd
+*.werus
 *.werz
 *.Wesker
 *.wessy
@@ -5047,6 +5057,7 @@ YOUR_FILES.url
 *.ZORN
 *.zoro
 *.zorro
+*_anarchy
 *_ZOSTA
 *.ZoToN
 *.zouu

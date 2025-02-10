@@ -857,6 +857,7 @@ aboutYourFiles.*
 *.clown
 *.club
 *.cmb
+*.cmblabs
 cmdRansomware.*
 *.CmdRansomware
 *CMG
@@ -2571,6 +2572,7 @@ jpa.*
 *.lcked
 *.lcphr
 *.lcry
+*.lcryx
 *.ldhy
 *.ldpr
 *.LEAKDB
@@ -3626,6 +3628,7 @@ oor.*
 *.punisher
 *.PureLocker
 *.PURGAT0RY
+*.purgatory
 *.purge
 *.puspa2#mejukeni7sala029
 *.pussy
@@ -3840,6 +3843,7 @@ RECOVERY_KEY.txt
 *.reddot
 *.redeem
 *.redeye
+*.redkaw
 *.redkrypt
 *.redl
 *.redlocker
@@ -4583,6 +4587,7 @@ unCrypte@outlook.com*
 *.uyjh
 *.uyit
 *.uyro
+*.v
 *.v316
 *.V8Locker
 *.vaca

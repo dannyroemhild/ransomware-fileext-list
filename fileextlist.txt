@@ -1759,6 +1759,7 @@ FILESAREGONE.TXT
 *.fuXcF
 *.FuxSocy
 *.fX
+*.fxlocker
 *.fxs
 *.G-Stars
 *.g0h8iwj
@@ -4015,6 +4016,7 @@ RESTORE-SIGRUN.*
 *.Sadogo
 *.SADStory
 *.safe
+*.safepay
 *@safetyjabber.com
 *@sigaint.org.fs0ciety
 *.sage

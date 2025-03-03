@@ -587,6 +587,7 @@ aboutYourFiles.*
 *.BlackHat
 *.BlackHatUP
 *.BlackHeart
+*.blackheart*
 *.BlackKingdom
 *.blackmatter
 *.Blackout
@@ -849,6 +850,7 @@ aboutYourFiles.*
 *.clinton
 *.clman
 *.clock
+*.clocker
 *.Clone
 *.clop
 *.C_L_O_P
@@ -1561,6 +1563,7 @@ encryptor_raas_readme_liesmich.txt
 *.Eternal
 *.eTeRnItY
 *.eth
+*.ethan
 *.etols
 *.ety
 *.eu
@@ -2634,6 +2637,7 @@ jpa.*
 *.LMAOxUS
 *.lmas
 *.lO8s42
+*.loches
 *.lock
 *.Lock2017
 *.LOCK2023
@@ -3443,6 +3447,7 @@ oor.*
 *.PcS
 *.pdcr
 *.pdff
+*.pe32s
 *.PEC
 *.pecunia
 *.pedant
@@ -3678,6 +3683,7 @@ oor.*
 *.qowd
 *.QP
 *.qpss
+*.qq
 *.qQ6Q
 *.qq_com*
 *@qq.com
@@ -3865,6 +3871,7 @@ RECOVERY_KEY.txt
 *.reL
 *.reload
 *.Relock
+*.Remember_you_got_only_36_hours_to_make_the_payment_if_you_dont_pay_prize_will_triple_hunters_Ransomware
 *.remind
 *.RemindMe
 *.remk
@@ -4072,6 +4079,7 @@ RESTORE-SIGRUN.*
 *.scr
 *.scrcrw
 *.Script
+*.scrt
 *.scrypt
 *.scytaleSECC
 *.SDEN
@@ -4642,6 +4650,7 @@ unCrypte@outlook.com*
 *.vfgj
 *.VforVendetta
 *.vgkf
+*.vgod
 *.vgvx
 *.via
 *.ViACrypt

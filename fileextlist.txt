@@ -654,6 +654,7 @@ aboutYourFiles.*
 *.Booyah
 *.bopador
 *.bora
+*.boramae
 *.boris
 *.BORISHORSE*
 *.boroff
@@ -2313,6 +2314,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.jes
 *.jessy
 *.jest
+*.jett
 *.jewsomware
 *.jey
 *.JezRoz
@@ -2779,6 +2781,7 @@ _Locky_recover_instructions.txt
 *.LYNX
 *.m0nk3y
 *.M0rphine
+*.M142HIMARS
 *.m3g4c0rtx
 *.m3ga*
 *.m3gac0rtx

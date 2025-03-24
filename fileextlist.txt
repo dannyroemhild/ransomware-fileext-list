@@ -1185,6 +1185,7 @@ cryptolocker.*
 *.darus
 *.darz
 *.data
+*.data3
 *.Datablack
 *.dataf
 *.datah
@@ -1529,6 +1530,7 @@ DesktopOsiris.*
 encryptor_raas_readme_liesmich.txt
 *.encS
 *ENCx45cR*
+*.endpoint
 *.enfp
 *.enigma
 *.enjey
@@ -1844,7 +1846,7 @@ FILESAREGONE.TXT
 *.Gilfillan
 *.gillette
 *.givemenitro
-*gladius
+*.GKICKG
 *.*GLADIUS
 *.GLB
 *.glkm
@@ -1965,6 +1967,7 @@ FILESAREGONE.TXT
 *.hacking
 *.hades666
 *.HadesLocker
+*.HAes
 *.HaHaHaHaHaHaHaHa
 *.HAHAHAIAMABULLY
 *.hajd
@@ -2734,6 +2737,7 @@ _Locky_recover_instructions.txt
 *.lotep
 *.lotr
 *.LOTUS
+*.louis
 *.love
 *.love$
 *.loveransisgood
@@ -2781,6 +2785,7 @@ _Locky_recover_instructions.txt
 *.LYNX
 *.m0nk3y
 *.M0rphine
+*.m0sC0v1um
 *.M142HIMARS
 *.m3g4c0rtx
 *.m3ga*
@@ -4441,6 +4446,7 @@ trial-recovery.*
 *.thTC
 *.thunder
 *.thx
+*.tianrui
 *.Tiger4444
 *_TIME_IS_LIMITED
 *.tils
@@ -4608,6 +4614,7 @@ unCrypte@outlook.com*
 *.VAGGEN
 *.vally
 *.VanGoth
+*.vanhelsing
 *.vanss
 *.VapeV7
 *.vapo
@@ -4657,6 +4664,7 @@ unCrypte@outlook.com*
 *.vgvx
 *.via
 *.ViACrypt
+*.vico
 VictemKey_*_*
 *.video
 *.viiper
@@ -5091,6 +5099,7 @@ YOUR_FILES.url
 *.zqqw
 *.ZqVIkE
 *.zrb
+*.zsszyy
 *.Ztax
 *.zteqqd
 *.ztsysjz

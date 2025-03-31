@@ -815,6 +815,7 @@ aboutYourFiles.*
 *.chekyshka
 *.chernobyl
 *.chernolocker
+*.chewbacca
 *.chichi
 *.chifrator@qq_com
 *.Chimera
@@ -1470,6 +1471,7 @@ DesktopOsiris.*
 *.elibe
 *.ELITTE87
 *.ELONMUSKISGREEDY*
+*.Elons
 *.ELPACO-team
 *.elpvd
 *.elpy
@@ -2641,6 +2643,7 @@ jpa.*
 *.LMAO
 *.LMAOxUS
 *.lmas
+*.LO0KC1ZHDFI
 *.lO8s42
 *.loches
 *.lock
@@ -3763,6 +3766,7 @@ oor.*
 *.rajar
 *.raldge
 *.raldug
+*.RALord
 *.ram
 *.ramen
 *.rams1

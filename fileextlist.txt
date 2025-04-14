@@ -146,6 +146,7 @@
 *.8lock8
 *.911
 *.96e2
+*.9ECFA84E
 *.a0a82d
 *.a19
 *.a5zfn
@@ -961,6 +962,7 @@ Coin.Locker.txt
 *.craftul
 *.crash
 *.crashed
+*.craxsrat
 *.crazy
 *.CreamPie
 *.credo
@@ -1018,6 +1020,7 @@ Coin.Locker.txt
 *.Crypren
 *.crypt
 *_crypt
+*.crypt-*
 *.Crypt0
 *.Crypt0L0cker
 *.Crypt0r
@@ -1136,6 +1139,8 @@ cryptolocker.*
 *.CY3
 *@cyberfear.com
 *.cyb
+Cyb3rDrag0nz_ReadMe.txt
+*.Cyb3rDrag0nz
 *.cyber
 *.cyberdrill
 *.cybergod
@@ -1613,6 +1618,7 @@ encryptor_raas_readme_liesmich.txt
 *.facebook
 *.factfull
 *.Fadesoft
+FAIL_STATE_NOTIFICATION.pdf
 *.FailedAccess
 *.fair
 *.fairytail
@@ -2000,6 +2006,7 @@ FILESAREGONE.TXT
 *.hazard*
 *.hb15
 *.hbdalna
+*.hc
 *.hc6
 *.hc7
 *.hccapx
@@ -2151,6 +2158,7 @@ Howto_Restore_FILES.TXT
 *.HuiVJope
 *.hunt
 *.Hunt2
+*.Hunted3
 *.HUNTER
 *.hush
 *.HUSTONWEHAVEAPROBLEM@KEEMAIL.ME
@@ -2584,6 +2592,7 @@ jpa.*
 *.lcphr
 *.lcry
 *.lcryx
+*.lczx
 *.ldhy
 *.ldpr
 *.LEAKDB
@@ -2866,6 +2875,7 @@ _Locky_recover_instructions.txt
 *.matu
 *.MauriGo
 *.maxicrypt
+MAXIMSRU.txt
 *.MaxSteel.*
 *.maya
 *.Maykolin
@@ -3455,6 +3465,7 @@ oor.*
 *.PC-FunHACKED*
 *.PClock
 *.pcqq
+PCRISKyCOMBOCLEANER.*
 *.PcS
 *.pdcr
 *.pdff
@@ -3901,6 +3912,7 @@ RECOVERY_KEY.txt
 *.reqg
 restorefiles.txt
 *.resq100
+*.restorebackup
 *.restoreserver
 RESTORE-SIGRUN.*
 *.resurrection
@@ -4437,6 +4449,7 @@ trial-recovery.*
 *.thanos
 *.thbec
 *.thda
+*.TheAnonymousGlobal
 *.TheDarkEncryptor
 *.TheDMR
 *.TheTrumpLocker
@@ -4656,6 +4669,7 @@ unCrypte@outlook.com*
 *.ver
 *.veracrypt
 *.verasto
+*.verdant
 *.verschlüsselt
 *.vesad
 *.vesrato
@@ -5130,3 +5144,9 @@ YOUR_FILES.url
 *.zzzzz
 *.zzzzzzzz
 *.zzzzzzzzzzzzzzzzzyyy
+READ-ME-Nullhexxx.txt
+TheAnonymousGlobal_ReadMe.txt
+HELP_DECRYPT_YOUR_FILES.txt
+OPTIMUS_readme.txt
+Elons_Help.txt
+!!!_DECRYPT_INSTRUCTIONS_!!!.txt

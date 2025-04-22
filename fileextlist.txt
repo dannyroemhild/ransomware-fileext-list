@@ -1050,6 +1050,7 @@ Coin.Locker.txt
 *.crypter
 *.crypterdodo
 *.cryptes
+*.cryptevex
 *.cryptfile
 *.CryptFuck
 *.cryptgh0st
@@ -1184,6 +1185,7 @@ Cyb3rDrag0nz_ReadMe.txt
 *.DARKCRY
 *.darkdev
 *.darkeye
+*.darkmystic
 *.darkness
 *.DarkoderCryptor
 *.DARKSET
@@ -1720,6 +1722,7 @@ FILESAREGONE.TXT
 *.FORCE
 *.forcelock
 *.fordan
+*.forgive
 *.format
 *.foty
 *.four
@@ -2057,6 +2060,7 @@ HELP_YOUR_FILES.TXT
 *.Hermes
 *.hermes666
 *.hermes837
+*.hero77
 *.HeroesOftheStorm
 *.heronpiston
 *.Heropoint
@@ -2154,6 +2158,7 @@ Howto_Restore_FILES.TXT
 *.hub
 *.Hucky
 *.hudf
+*.hudson
 *.huis_bn
 *.HuiVJope
 *.hunt
@@ -2293,6 +2298,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *@jabber.mipt.ru
 *.jack
 *.Jack.Pot
+*.jackalock
 *.jaff
 *.Jager
 *.*jalicry*
@@ -2322,6 +2328,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 *.jeepers
 *.JEEPERS
 *.JeepersCrypt
+*.Jeffery
 *.Jemd
 *.jenkins
 *.jes
@@ -3388,6 +3395,7 @@ oor.*
 *.p3rf0rm4
 *.p3rf0rmr
 *.p3rt4m1n4777
+*.P4R
 *.p4wn3d
 *.p5tkjw
 *.paaa
@@ -3494,6 +3502,7 @@ PCRISKyCOMBOCLEANER.*
 *.petra
 *.petruk
 *.Petya
+*.petyax
 *.PewCrypt
 *.pezi
 *.pfanz
@@ -3692,6 +3701,7 @@ PCRISKyCOMBOCLEANER.*
 *.qewe
 *.qh24
 *qibfmkeM5*
+*.qilra
 *.qkG
 *.qlkm
 *.qlln
@@ -5150,3 +5160,6 @@ HELP_DECRYPT_YOUR_FILES.txt
 OPTIMUS_readme.txt
 Elons_Help.txt
 !!!_DECRYPT_INSTRUCTIONS_!!!.txt
+RESTORE-MY-FILES.TXT
+#Read-for-recovery.txt
+JEFFERY_README.txt

@@ -965,6 +965,7 @@ cmdRansomware.*
 *.credo
 *.creeper
 *.creepy
+*.CRFILE2
 *.cRh8
 *.crime
 *.crimson
@@ -983,6 +984,7 @@ cmdRansomware.*
 *.crjoker
 *.croc
 *.CrocodileSmile
+*.crone
 *.CroNi.ZoNe
 *.crow
 *.crown
@@ -2686,6 +2688,7 @@ lock.*
 *.lockxx
 *.locky
 *.lockymap
+*.lockz
 *.logger
 *.Lohodf
 *.lokas
@@ -3233,6 +3236,7 @@ MZReverenge*
 *_nullbyte*
 *.NullByte
 *.numberdot
+*.numec
 *.NURRI*
 *.nury
 *.nusar
@@ -3561,6 +3565,7 @@ PCRISKyCOMBOCLEANER.*
 *.powd
 *.powerfuldecrypt
 *.powerfulldecrypt
+*.PowerLocker
 *.PowerLocky
 *.powerranges
 *.PowerWare
@@ -3582,6 +3587,7 @@ PCRISKyCOMBOCLEANER.*
 *.prandel
 *.prcp
 *.predator
+*.pres
 *.PrincessLocker
 *.PRIVAT66
 *.prnds
@@ -4731,6 +4737,7 @@ VictemKey_*_*
 *.waqq
 *.warlocks
 *.warn_wallet
+*.warning!_*
 *.wasted
 *.*wasted_info
 *.watch
@@ -5110,6 +5117,7 @@ VictemKey_*_*
 *.zzzzz
 *.zzzzzzzz
 *.zzzzzzzzzzzzzzzzzyyy
+@HELP_HERE_TO_RESCUE_YOUR_FILES@.txt
 READ-ME-Nullhexxx.txt
 TheAnonymousGlobal_ReadMe.txt
 HELP_DECRYPT_YOUR_FILES.txt
@@ -5131,6 +5139,7 @@ DECRYPT_ReadMe.TXT
 encryptor_raas_readme_liesmich.txt
 FAIL_STATE_NOTIFICATION.pdf
 FILESAREGONE.TXT
+GetFilesBack.txt
 HELLOTHERE.TXT
 Help_Decrypt.txt
 HELPDECRYPT.TXT
@@ -5144,6 +5153,7 @@ HELP_TO_SAVE_FILES.txt
 HELP_YOUR_FILES.TXT
 _how_recover.txt
 howrecover+*.txt
+HOW_TO_BACK_FILES.html
 HOW_TO_DECRYPT_FILES.TXT
 How_To_Recover_Files.txt
 howto_recover_file.txt

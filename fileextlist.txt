@@ -328,6 +328,7 @@
 *.aol
 *@aol.com
 *.ap19
+*.apex
 *.apis
 *.apocalypse
 *.ApocalypseVM
@@ -435,6 +436,7 @@
 *.babyk
 *.back
 *.BACKJOHN
+*.backlock
 *.backmydata
 *.backoff
 *.backup
@@ -485,6 +487,7 @@
 *.bbii
 *.bbnm
 *.bboo
+*.bbq46
 *.bbqb
 *.bbuild
 *.bbyy
@@ -1199,6 +1202,7 @@ cryptolocker.*
 *.datah
 *.DataKeeper
 *.Datalock
+*.datarip
 *.datastop
 *.datawait
 *.datun
@@ -1271,6 +1275,7 @@ cryptolocker.*
 *.@derpymailorg
 *.DERZKO
 DesktopOsiris.*
+*.desolated
 *.destroy.executioner
 *.destroy30
 *.destroyer
@@ -1908,6 +1913,7 @@ DesktopOsiris.*
 *.GoTiS
 *.gotmydatafast
 *.GOTYA
+*.govcrypt
 *.GPAA
 *.GPCode
 *.GPGQwerty
@@ -2260,6 +2266,7 @@ DesktopOsiris.*
 *.itlock*
 *.itqw
 *.itrz
+*.itsa
 *.ITTZN
 *.itunes
 *.iudgkwv
@@ -2838,6 +2845,7 @@ lock.*
 *.maql
 *.Marduk
 *.mariacbc
+*.mark
 *.Marlboro
 *.marnet2
 *.Marozka
@@ -3224,6 +3232,7 @@ MZReverenge*
 *.nrcl
 *.NSB
 *.nsmf
+*.nspire
 *.NTB
 *.ntu
 *.ntuseg
@@ -3766,6 +3775,7 @@ PCRISKyCOMBOCLEANER.*
 *.rajar
 *.raldge
 *.raldug
+*.RALEIGHRAD
 *.RALord
 *.ram
 *.ramen
@@ -4529,9 +4539,10 @@ trial-recovery.*
 *@tuta.io
 *@tutanota*
 *.twist
+*.tx_locked
 *.txd0t
 *.txlck
-*.tx_locked
+*.txtme
 *.tyos
 *.tyson
 *.tywd
@@ -5128,8 +5139,10 @@ VictemKey_*_*
 _how_recover.txt
 _Locky_recover_instructions.txt
 _secret_code.txt
++README-WARNING+.txt
 About_Files.txt
 aboutYourFiles.*
+APEXNOTE.txt
 Coin.Locker.txt
 Cyb3rDrag0nz_ReadMe.txt
 decrypt_instruct*.*
@@ -5167,12 +5180,14 @@ IAMREADYTOPAY.TXT
 IHAVEYOURSECRET.KEY
 INSTRUCCIONES_DESCIFRADO.TXT
 JEFFERY_README.txt
+LegionRoot_ReadMe.txt
 MAXIMSRU.txt
 OPTIMUS_readme.txt
 R3ADM3.txt
 Read.txt
 READ-ME!.txt
 READ-ME-Nullhexxx.txt
+read_it.txt
 ReadDecryptFilesHere.txt
 READTHISNOW!!!.TXT
 RECOVERY_FILE*.txt
@@ -5180,7 +5195,9 @@ RECOVERY_FILE.TXT
 RECOVERY_KEY.txt
 recoverfile*.txt
 recoveryfile*.txt
+RecoverYourFiles.txt
 RESTORE-MY-FILES.TXT
+RESTORE_FILES_INFO.txt
 restorefiles.txt
 RETURN_DATA.html
 SECRET.KEY

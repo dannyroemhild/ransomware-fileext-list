@@ -786,6 +786,7 @@
 *.cdxx
 *.cebrc
 *.cekisan
+*.Celestial
 *.cerber
 *.cerber2
 *.cerber3
@@ -2918,6 +2919,7 @@ lock.*
 *.mich
 *.micro
 *.middleman2020
+*.midnight
 *.midwestsurinc
 *.mihq
 *.miia
@@ -3864,6 +3866,7 @@ PCRISKyCOMBOCLEANER.*
 *.reddot
 *.redeem
 *.redeye
+*.redfox
 *.redkaw
 *.redkrypt
 *.redl
@@ -5037,6 +5040,7 @@ VictemKey_*_*
 *.zcrypt
 *.Zekwacrypt
 *.zemblax
+*.zen
 *.Zendaya
 *.zendr4
 *.ZENEX
@@ -5202,6 +5206,8 @@ restorefiles.txt
 RETURN_DATA.html
 SECRET.KEY
 SECRETIDHERE.KEY
+StarFire-README.txt
 TheAnonymousGlobal_ReadMe.txt
+WIPED.txt
 YOUR_FILES.HTML
 YOUR_FILES.url

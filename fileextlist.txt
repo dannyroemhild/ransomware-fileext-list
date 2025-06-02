@@ -370,6 +370,7 @@
 *.ASN1
 *.assm
 *.AstraLocker
+*.asulo
 *.asus
 *.Ataware
 *.Atchbo
@@ -4228,6 +4229,7 @@ RESTORE-SIGRUN.*
 *.Slide
 *.slime
 *.slvpawned
+*.SM$LE
 *.sMilE
 *.SMOCK
 *.SMOK
@@ -4955,6 +4957,7 @@ VictemKey_*_*
 *.XYZWare
 *.xz
 *.XZZX
+*.yAGRTb
 *@yahoo.com
 *@yahoo.com.cryptotes
 *.Yakes
@@ -5193,6 +5196,7 @@ READ-ME!.txt
 READ-ME-Nullhexxx.txt
 read_it.txt
 ReadDecryptFilesHere.txt
+README.yAGRTb.txt
 READTHISNOW!!!.TXT
 RECOVERY_FILE*.txt
 RECOVERY_FILE.TXT
@@ -5206,6 +5210,7 @@ restorefiles.txt
 RETURN_DATA.html
 SECRET.KEY
 SECRETIDHERE.KEY
+SM$LE-read-it.txt
 StarFire-README.txt
 TheAnonymousGlobal_ReadMe.txt
 WIPED.txt

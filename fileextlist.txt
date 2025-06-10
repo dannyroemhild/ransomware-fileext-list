@@ -144,6 +144,8 @@
 *.8base
 *.8be1
 *.8lock8
+*.8xUsq62
+*.9062
 *.911
 *.96e2
 *.9ECFA84E
@@ -1153,6 +1155,7 @@ cryptolocker.*
 *.Cyber_Puffin
 *.CyberSCCP
 *.CyberSoldiersST
+*.CyberVolk_BlackEye
 *.cyborg
 *.cyclone
 *.cymcrypt
@@ -2041,6 +2044,7 @@ DesktopOsiris.*
 *._HE._LP
 *.Help50
 *.HelpDCFile
+*.helper
 *.helpmeencedfiles
 *.helpo
 *.helppme@india.com.ID83994902
@@ -3305,6 +3309,7 @@ MZReverenge*
 *.okokokokok
 *.olduw
 *.oled
+*.ololo
 *.olsavelock*
 *.omerta
 *.omfl
@@ -4270,6 +4275,7 @@ RESTORE-SIGRUN.*
 *.space
 *.spade
 *.spare
+*.spark
 *.spartacus
 *.SpartCript
 *.spartcrypt
@@ -5189,7 +5195,9 @@ INSTRUCCIONES_DESCIFRADO.TXT
 JEFFERY_README.txt
 LegionRoot_ReadMe.txt
 MAXIMSRU.txt
+OpenMe.txt
 OPTIMUS_readme.txt
+Pro4etiMe_ReadMe.txt
 R3ADM3.txt
 Read.txt
 READ-ME!.txt
@@ -5213,6 +5221,7 @@ SECRETIDHERE.KEY
 SM$LE-read-it.txt
 StarFire-README.txt
 TheAnonymousGlobal_ReadMe.txt
+veluth.readme.txt
 WIPED.txt
 YOUR_FILES.HTML
 YOUR_FILES.url

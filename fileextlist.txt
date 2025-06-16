@@ -443,6 +443,7 @@
 *.backmydata
 *.backoff
 *.backup
+*.backups
 *.bad
 *.BadBlock
 *.badboy
@@ -1193,6 +1194,7 @@ cryptolocker.*
 *.DARKCRY
 *.darkdev
 *.darkeye
+*.darkhack
 *.darkmystic
 *.darkness
 *.DarkoderCryptor
@@ -3653,6 +3655,7 @@ PCRISKyCOMBOCLEANER.*
 *.ptqw
 *.ptrz
 *.pubg
+*.Puld39
 *.pulpit
 *.pulsar1
 *.puma
@@ -5126,6 +5129,7 @@ VictemKey_*_*
 *.zuadr
 *.Zucdxx
 *.zuzya
+*.ZV
 *.Zv7uN
 *.ZW
 *.Zwbowhtlni
@@ -5148,6 +5152,7 @@ VictemKey_*_*
 *.zzzzzzzzzzzzzzzzzyyy
 @HELP_HERE_TO_RESCUE_YOUR_FILES@.txt
 !!!_DECRYPT_INSTRUCTIONS_!!!.txt
+#HowToRecover.txt
 #Read-for-recovery.txt
 _how_recover.txt
 _Locky_recover_instructions.txt
@@ -5225,3 +5230,4 @@ veluth.readme.txt
 WIPED.txt
 YOUR_FILES.HTML
 YOUR_FILES.url
+zelOFF.txt

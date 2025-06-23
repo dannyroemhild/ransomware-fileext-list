@@ -289,6 +289,8 @@
 *.amba
 *.amber
 *.Amelia
+*.ameriwasted
+*.ameriwasted_info
 *.Amigo
 *.AMJIXIUS
 *.amnesia
@@ -1208,6 +1210,7 @@ cryptolocker.*
 *.dataf
 *.datah
 *.DataKeeper
+*.dataleak*
 *.Datalock
 *.datarip
 *.datastop
@@ -1319,6 +1322,7 @@ DesktopOsiris.*
 *.diller13
 *.DilmaLocker
 *.__dilmaV1
+*.direwolf
 *.dirk
 *.DirtyDecrypt
 *.Dishwasher
@@ -5188,6 +5192,7 @@ HELPDECYPRT_YOUR_FILES.HTML
 HOW_TO_BACK_FILES.html
 HOW_TO_DECRYPT_FILES.TXT
 How_To_Recover_Files.txt
+HowToRecoveryFiles.txt
 howrecover+*.txt
 howtoDecrypt.txt
 howto_recover_file.txt

@@ -4,6 +4,7 @@
 *.$anta
 *.0000
 *.000G
+*.007
 *.010001
 027cc450ef5f8c5f653329641ec1fed9*.*
 *.03rK
@@ -212,6 +213,7 @@
 *.adr
 *@adsoleware.com*
 *.adv
+*.adventurer
 *.adver
 *.adww
 *.aep
@@ -381,6 +383,7 @@
 *.Athena865
 *.atlas
 *.Atom
+*.atomic
 *.ATOMSILO
 *.ATOMSILOR
 *.attack7
@@ -593,6 +596,7 @@
 *.blackcat
 *.BlackCocaine*
 *.BlackDream
+*.BlackFL
 *.BlackHat
 *.BlackHatUP
 *.BlackHeart
@@ -601,6 +605,7 @@
 *.blackmatter
 *.Blackout
 *.BlackPink
+*.blackransombdbot
 *.blackrock
 *.blackrouter
 *.blackruby
@@ -681,6 +686,7 @@
 *.bpto
 *.bpws
 *.bqd2
+*.BQTLOCK
 *.braincrypt
 *.Brazilian
 *.bRcrypT
@@ -1346,6 +1352,7 @@ DesktopOsiris.*
 *.dkq
 *.dkrf
 *.dlenggrl
+*.dlock
 *.dmay
 *.dme
 *.dmo
@@ -2555,6 +2562,7 @@ jpa.*
 *.kvllyatprotonmaildotch
 *.kwaaklocked
 *.kxde
+*.kyj
 *.kyra
 *.L00KUPRU
 *.L0CK3D
@@ -3104,6 +3112,7 @@ MZReverenge*
 *.NB65
 *.NBA
 *.nbes
+*.nbl
 *.NBR
 *.nbwr
 *.nbzi
@@ -3577,6 +3586,7 @@ PCRISKyCOMBOCLEANER.*
 *.poop
 *.poor
 *.PopCornTime
+*.POPE
 *.popn
 *.popotic
 *.popoticus
@@ -3845,6 +3855,7 @@ PCRISKyCOMBOCLEANER.*
 *.RDM
 *.rdmk
 *.rdp
+*.rdplocked
 *.rdplocker
 *.rdptest
 *.RDWF
@@ -4213,6 +4224,7 @@ RESTORE-SIGRUN.*
 *.simmyware
 *SIMMYWARE*
 *.Simple_Encoder
+*.sinobi
 *.sinopal
 *.sinta
 *.SintaLocker
@@ -4294,6 +4306,7 @@ RESTORE-SIGRUN.*
 *.sphinx
 *.spider
 *.spider1
+*.SpiderPery
 *.SplinterJoke
 *.spora
 *.sport
@@ -4466,6 +4479,7 @@ trial-recovery.*
 *.thgz
 *.thor
 *.threeamtime
+*.THRSX
 *.thTC
 *.thunder
 *.thx
@@ -4917,6 +4931,7 @@ VictemKey_*_*
 *.xdata
 *.xDec
 *.xdrop
+*.xentari
 *.xero
 *.xfile
 *.XFUN
@@ -5092,6 +5107,7 @@ VictemKey_*_*
 *.zipp3rs
 *.Zipper
 *.ziqzqzdi
+*.ziver
 *.zln
 *.zlpzdel
 *zn2016
@@ -5156,6 +5172,7 @@ VictemKey_*_*
 *.zzzzzzzzzzzzzzzzzyyy
 @HELP_HERE_TO_RESCUE_YOUR_FILES@.txt
 !!!_DECRYPT_INSTRUCTIONS_!!!.txt
+!!Restore-My-file-Kavva.txt
 #HowToRecover.txt
 #Read-for-recovery.txt
 _how_recover.txt
@@ -5165,13 +5182,17 @@ _secret_code.txt
 About_Files.txt
 aboutYourFiles.*
 APEXNOTE.txt
+bashred-reAdmE.txt
+BlackField_ReadMe.txt
 Coin.Locker.txt
 Cyb3rDrag0nz_ReadMe.txt
+Decrypt.html
 decrypt_instruct*.*
 DECRYPT_ReadMe.TXT
 DECRYPT_INSTRUCTION.TXT
 DECRYPT_INSTRUCTIONS.TXT
 DecryptAllFiles.txt
+delete.me
 Elons_Help.txt
 encryptor_raas_readme_liesmich.txt
 FAIL_STATE_NOTIFICATION.pdf
@@ -5201,6 +5222,8 @@ HowToRecover.txt
 HowtoRestore_FILES.txt
 IAMREADYTOPAY.TXT
 IHAVEYOURSECRET.KEY
+INFO-DECRYPT.txt
+info-kyj.txt
 INSTRUCCIONES_DESCIFRADO.TXT
 JEFFERY_README.txt
 LegionRoot_ReadMe.txt
@@ -5210,12 +5233,15 @@ OPTIMUS_readme.txt
 Pro4etiMe_ReadMe.txt
 R3ADM3.txt
 Read.txt
+READ-007.txt
 READ-ME!.txt
 READ-ME-Nullhexxx.txt
 read_it.txt
 ReadDecryptFilesHere.txt
 README.yAGRTb.txt
+README_XENTARI.txt
 READTHISNOW!!!.TXT
+RECOVER_INSTRUCTIONS.html
 RECOVERY_FILE*.txt
 RECOVERY_FILE.TXT
 RECOVERY_KEY.txt

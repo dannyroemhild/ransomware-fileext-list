@@ -747,6 +747,7 @@
 *.C1024
 *.c1h
 *.c300
+*.C3680868C
 *.C4H
 *.c8onnde
 *.cadq
@@ -958,6 +959,7 @@ cmdRansomware.*
 *.covid-19
 *.covid21
 *.covm
+*.cowa
 *.cprt
 *.CQQUH
 *.cqscsfy
@@ -5239,6 +5241,7 @@ READ-ME-Nullhexxx.txt
 read_it.txt
 ReadDecryptFilesHere.txt
 README.yAGRTb.txt
+read_me_fucking_bitch!
 README_XENTARI.txt
 READTHISNOW!!!.TXT
 RECOVER_INSTRUCTIONS.html

@@ -575,6 +575,7 @@
 *.Bitpaymer
 *.bitpy
 *.BitPyLock
+*.bitrix
 *.Bitshifter
 *.bitstak
 *.bitx
@@ -1801,6 +1802,7 @@ DesktopOsiris.*
 *.g0h8iwj
 *.g8R4rqWIp9
 *.G8xB
+*.GAGAKICK
 *.Galacti-Crypter
 *.game
 *.GameCrypt
@@ -3209,6 +3211,7 @@ MZReverenge*
 *.nnqp
 *.nnuz
 *.nnza
+*.nobackups
 *.nobad
 *.noblis
 *.nobu
@@ -4034,6 +4037,7 @@ RESTORE-SIGRUN.*
 *.rtcrypted
 *.rtg
 *.rtgf
+*.RTRUE
 *.rtyrtyrty
 *.rubina5
 *.ruby

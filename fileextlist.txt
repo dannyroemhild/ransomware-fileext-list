@@ -591,6 +591,7 @@
 *.bkqfmsahpt
 *.BKRansomware
 *@bk.ru
+*.BL@CKLOCKED
 *.Black
 *.black007
 *.BlackBit
@@ -1167,6 +1168,7 @@ cryptolocker.*
 *.Cyber_Puffin
 *.CyberSCCP
 *.CyberSoldiersST
+*.cybertron18
 *.CyberVolk_BlackEye
 *.cyborg
 *.cyclone
@@ -1304,6 +1306,7 @@ DesktopOsiris.*
 *.deuce
 *.deus
 *.deuscrypt
+*.dev
 *.dever
 *.devil
 *.devinn
@@ -2305,6 +2308,7 @@ DesktopOsiris.*
 *.jack
 *.Jack.Pot
 *.jackalock
+*.jackpot27
 *.jaff
 *.Jager
 *.*jalicry*
@@ -2538,6 +2542,7 @@ jpa.*
 *.kratos
 *.KratosCrypt
 *.kraussmfz
+*.KREMLIN
 *.Krider
 *.Kriptor
 *.Kriptovor
@@ -2627,6 +2632,7 @@ jpa.*
 *.letmetrydecfiles
 *.leto
 *.letsgo290.*
+*.level
 *.lexei8bo
 *.Lexus
 *.lezp
@@ -3935,6 +3941,7 @@ PCRISKyCOMBOCLEANER.*
 *.reqg
 *.resq100
 *.restorebackup
+*.restoremydata.pw
 *.restoreserver
 RESTORE-SIGRUN.*
 *.resurrection
@@ -5192,6 +5199,7 @@ bashred-reAdmE.txt
 BlackField_ReadMe.txt
 Coin.Locker.txt
 Cyb3rDrag0nz_ReadMe.txt
+DATA_RECOVERY.html
 Decrypt.html
 decrypt_instruct*.*
 DECRYPT_ReadMe.TXT
@@ -5219,6 +5227,7 @@ HELPDECYPRT_YOUR_FILES.HTML
 HOW_TO_BACK_FILES.html
 HOW_TO_DECRYPT_FILES.TXT
 How_To_Recover_Files.txt
+HOW_TO_RECOVERY_FILES.txt
 HowToRecoveryFiles.txt
 howrecover+*.txt
 howtoDecrypt.txt
@@ -5245,6 +5254,7 @@ READ-ME-Nullhexxx.txt
 read_it.txt
 ReadDecryptFilesHere.txt
 README.yAGRTb.txt
+READ_NOTE.html
 read_me_fucking_bitch!
 README_XENTARI.txt
 READTHISNOW!!!.TXT

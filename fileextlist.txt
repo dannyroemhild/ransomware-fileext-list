@@ -823,6 +823,7 @@
 *.charlie.j0hnson
 *.charm
 *.charmant
+*.Charon
 *.Chartogy
 *.chch
 *.CHE808
@@ -1163,9 +1164,10 @@ cryptolocker.*
 *.cyb
 *.Cyb3rDrag0nz
 *.cyber
+*.Cyber_Puffin
 *.cyberdrill
 *.cybergod
-*.Cyber_Puffin
+*.cyberhazard
 *.CyberSCCP
 *.CyberSoldiersST
 *.cybertron18
@@ -4290,6 +4292,7 @@ RESTORE-SIGRUN.*
 *.SoFucked
 *.SOG
 *.sojusz
+*.solara
 *.solaso
 *.soli
 *.Solix
@@ -5226,6 +5229,7 @@ HELPDECRYPT.TXT
 HELPDECYPRT_YOUR_FILES.HTML
 HOW_TO_BACK_FILES.html
 HOW_TO_DECRYPT_FILES.TXT
+HOW_TO_GET_DATA_BACK.html
 How_To_Recover_Files.txt
 HOW_TO_RECOVERY_FILES.txt
 HowToRecoveryFiles.txt
@@ -5259,6 +5263,7 @@ read_me_fucking_bitch!
 README_XENTARI.txt
 READTHISNOW!!!.TXT
 RECOVER_INSTRUCTIONS.html
+RECOVER-FILES.html
 RECOVERY_FILE*.txt
 RECOVERY_FILE.TXT
 RECOVERY_KEY.txt

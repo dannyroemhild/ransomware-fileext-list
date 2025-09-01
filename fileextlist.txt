@@ -1213,6 +1213,7 @@ cryptolocker.*
 *.darkmystic
 *.darkness
 *.DarkoderCryptor
+*.DarkRuss_CyberVolk
 *.DARKSET
 *.Dart
 *.darus
@@ -2480,6 +2481,7 @@ jpa.*
 *.kikiriki
 *.kilit
 *.kill
+*.killback
 *.killedXXX
 *.KillerLocker
 *.killnet
@@ -3182,6 +3184,7 @@ MZReverenge*
 *.news
 *.newware
 *.NextCry
+*.NeZha
 *.nginxhole
 *.NGSC
 *.NHCR

@@ -703,6 +703,7 @@
 *.brrr
 *.BRT92
 *.bruhnet
+*.bruk
 *.brusaf
 *.bsc
 *.bspojzo
@@ -1634,6 +1635,7 @@ DesktopOsiris.*
 *.exploit6
 *.explorer
 *.EXTE
+*.EXTEN
 *.Extortion
 *.Extractor
 *.exx
@@ -4303,6 +4305,7 @@ RESTORE-SIGRUN.*
 *.Solix
 *.solo
 *.solution247
+*.solutionwehave*
 *.somik1
 *.son
 *.sonic
@@ -4438,6 +4441,7 @@ trial-recovery.*
 *.tangem
 *.tanos
 *.taoy
+*.taro
 *.TaRoNiS
 *.TaRRaK
 *.tasa
@@ -5194,6 +5198,7 @@ VictemKey_*_*
 *.zzzzzzzzzzzzzzzzzyyy
 @HELP_HERE_TO_RESCUE_YOUR_FILES@.txt
 !!!_DECRYPT_INSTRUCTIONS_!!!.txt
+!!!HOW_TO_DECRYPT!!!.mht
 !!Restore-My-file-Kavva.txt
 #HowToRecover.txt
 #Read-for-recovery.txt

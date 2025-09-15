@@ -2595,6 +2595,7 @@ jpa.*
 *.lambda_l0cked
 *.LAMBDA.LOCKED
 *.LambdaLocker
+*.LamiaLoader
 *.lamo
 *.langolier
 *.LanRan*
@@ -3320,6 +3321,7 @@ MZReverenge*
 *.obfuscated
 *.obleep
 *.oblivion
+*.obscura
 *.OBZ
 *.ocean
 *.octo
@@ -5058,6 +5060,7 @@ VictemKey_*_*
 *.YTBL
 *.ytbn
 *.yUixN
+*.Yurei
 *.yum
 *.yyto
 *.yytw
@@ -5204,6 +5207,7 @@ VictemKey_*_*
 #Read-for-recovery.txt
 _how_recover.txt
 _Locky_recover_instructions.txt
+_README_Yurei.txt
 _secret_code.txt
 +README-WARNING+.txt
 About_Files.txt
@@ -5257,6 +5261,7 @@ INFO-DECRYPT.txt
 info-kyj.txt
 INSTRUCCIONES_DESCIFRADO.TXT
 JEFFERY_README.txt
+LamiaLoader.txt
 LegionRoot_ReadMe.txt
 MAXIMSRU.txt
 OpenMe.txt
@@ -5270,9 +5275,10 @@ READ-ME-Nullhexxx.txt
 read_it.txt
 ReadDecryptFilesHere.txt
 README.yAGRTb.txt
+README_XENTARI.txt
+README-OBSCURA.txt
 READ_NOTE.html
 read_me_fucking_bitch!
-README_XENTARI.txt
 READTHISNOW!!!.TXT
 recover.txt
 RECOVER_INSTRUCTIONS.html

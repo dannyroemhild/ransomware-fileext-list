@@ -564,6 +564,7 @@
 *.Bisquilla
 *.bit
 *.bitchlock
+*.Bitco1n
 *.bitcoin
 *.BITCOINPAYMENT
 *.Bitconnect
@@ -2125,6 +2126,7 @@ DesktopOsiris.*
 *.HIP1*
 *.hitler
 *.hive
+*.HIVELOCKED
 *.hj36MM
 *.HJAWF
 *.hjgdl
@@ -3539,6 +3541,7 @@ PCRISKyCOMBOCLEANER.*
 *.PGPSnippet
 *.phantom
 *.PhantomChina
+*.phenol
 *.Philadelphia
 *.phmqdw
 *.phntm
@@ -4498,6 +4501,7 @@ trial-recovery.*
 *.TheAnonymousGlobal
 *.TheDarkEncryptor
 *.TheDMR
+*.theft
 *.TheTrumpLocker
 *.TheTrumpLockerf
 *.TheTrumpLockerp
@@ -5227,6 +5231,7 @@ DECRYPT_INSTRUCTIONS.TXT
 DecryptAllFiles.txt
 delete.me
 Elons_Help.txt
+Encrypt.html
 encryptor_raas_readme_liesmich.txt
 FAIL_STATE_NOTIFICATION.pdf
 FILESAREGONE.TXT
@@ -5243,6 +5248,7 @@ HELP_YOUR_FILES.TXT
 HELLOTHERE.TXT
 HELPDECRYPT.TXT
 HELPDECYPRT_YOUR_FILES.HTML
+HiveWare-ReadMe.txt
 HOW_TO_BACK_FILES.html
 HOW_TO_DECRYPT_FILES.TXT
 HOW_TO_GET_DATA_BACK.html
@@ -5276,6 +5282,7 @@ read_it.txt
 ReadDecryptFilesHere.txt
 README.yAGRTb.txt
 README_XENTARI.txt
+README-GENTLEMEN.txt
 README-OBSCURA.txt
 READ_NOTE.html
 read_me_fucking_bitch!

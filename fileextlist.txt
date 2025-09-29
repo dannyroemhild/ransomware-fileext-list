@@ -2196,6 +2196,7 @@ DesktopOsiris.*
 *.hyena
 *.hyena111
 *.hyj
+*.hype
 *.iaufkakfhsaraf
 *.ICE
 *.icp
@@ -5279,13 +5280,14 @@ READ-007.txt
 READ-ME!.txt
 READ-ME-Nullhexxx.txt
 read_it.txt
+read_me_fucking_bitch!
+READ_NOTE.html
 ReadDecryptFilesHere.txt
 README.yAGRTb.txt
 README_XENTARI.txt
 README-GENTLEMEN.txt
 README-OBSCURA.txt
-READ_NOTE.html
-read_me_fucking_bitch!
+readmefordecrypt.txt
 READTHISNOW!!!.TXT
 recover.txt
 RECOVER_INSTRUCTIONS.html

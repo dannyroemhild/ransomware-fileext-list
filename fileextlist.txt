@@ -1,5 +1,6 @@
 [ZipLOCK]*
 *.#
+*.#~~~
 *.~~~~
 *.$anta
 *.0000
@@ -519,6 +520,7 @@
 *.beer
 *.beethoven
 *.beets
+*.befirst*
 *.beijing
 *.BELGIAN_COCOA
 *.BENTLEY
@@ -1672,6 +1674,7 @@ DesktopOsiris.*
 *.fatp
 *.faust
 *.fbi
+*.fbin
 *.FBIRAS
 *.FBSYW
 *.fbuvkngy
@@ -1714,6 +1717,8 @@ DesktopOsiris.*
 *.fileslocker@pm.me*
 *.FilGZmsp
 *.filock
+*.find
+*.find5
 *.FinD0m
 *.FindZip
 *.FIOI
@@ -2377,6 +2382,7 @@ DesktopOsiris.*
 *.JoeGo
 *.JohnnieWalker
 *.jojocrypt
+*.jokdach
 *.joker
 *.jopanaxye
 *.jope
@@ -3034,6 +3040,7 @@ lock.*
 *.money
 *.moneyistime
 *.MongoLock
+*.monkey
 *.mono
 *.monochromebear
 *.monro
@@ -3650,6 +3657,7 @@ PCRISKyCOMBOCLEANER.*
 *.prcp
 *.predator
 *.pres
+*.prey*
 *.PrincessLocker
 *.PRIVAT66
 *.prnds
@@ -4297,6 +4305,7 @@ RESTORE-SIGRUN.*
 *.Snoopdoog
 *snowpicnic*
 *.SNPDRGN
+*.sns
 *.SNSLocker
 *.sntg
 *.snwd
@@ -4373,6 +4382,7 @@ RESTORE-SIGRUN.*
 *.stn
 *.stnts
 *.stolen
+*.stolen*
 *.stone
 *.stop
 *.stopdata
@@ -4560,6 +4570,7 @@ trial-recovery.*
 *.traders
 *.TraNs
 *.trap
+*.trap2
 *.TRAPGET
 *.trchwd
 *.trins
@@ -5206,6 +5217,7 @@ VictemKey_*_*
 *.zzzzzzzzzzzzzzzzzyyy
 @HELP_HERE_TO_RESCUE_YOUR_FILES@.txt
 !!!_DECRYPT_INSTRUCTIONS_!!!.txt
+!!!_READ_ME_!!!.txt
 !!!HOW_TO_DECRYPT!!!.mht
 !!Restore-My-file-Kavva.txt
 #HowToRecover.txt
@@ -5220,6 +5232,7 @@ aboutYourFiles.*
 APEXNOTE.txt
 bashred-reAdmE.txt
 BlackField_ReadMe.txt
+c0ntact.txt
 Coin.Locker.txt
 Cyb3rDrag0nz_ReadMe.txt
 DAT_INFO.txt
@@ -5235,6 +5248,7 @@ Elons_Help.txt
 Encrypt.html
 encryptor_raas_readme_liesmich.txt
 FAIL_STATE_NOTIFICATION.pdf
+Fast-Instructions.txt
 FILESAREGONE.TXT
 GetFilesBack.txt
 Help_Decrypt.txt
@@ -5253,7 +5267,9 @@ HiveWare-ReadMe.txt
 HOW_TO_BACK_FILES.html
 HOW_TO_DECRYPT_FILES.TXT
 HOW_TO_GET_DATA_BACK.html
+HOW_TO_RECOVER_DATA.html
 How_To_Recover_Files.txt
+How_to_recover_your_files.txt
 HOW_TO_RECOVERY_FILES.txt
 HowToRecoveryFiles.txt
 howrecover+*.txt
@@ -5281,11 +5297,13 @@ READ-ME!.txt
 READ-ME-Nullhexxx.txt
 read_it.txt
 read_me_fucking_bitch!
+READ_ME_NOW.txt
 READ_NOTE.html
 ReadDecryptFilesHere.txt
 README.yAGRTb.txt
 README_XENTARI.txt
 README-GENTLEMEN.txt
+README-NOBODY.txt
 README-OBSCURA.txt
 readmefordecrypt.txt
 READTHISNOW!!!.TXT

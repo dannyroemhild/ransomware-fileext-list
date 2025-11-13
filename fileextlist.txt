@@ -450,6 +450,7 @@
 *.backoff
 *.backup
 *.backups
+*.bactor
 *.bad
 *.BadBlock
 *.badboy
@@ -459,6 +460,7 @@
 *.bado
 *.BadRabbit
 *.badutclowns
+*.BAGAJAI
 *.bagi
 *.bagli
 *.ballacks*
@@ -5280,6 +5282,7 @@ HowToRecover.txt
 HowtoRestore_FILES.txt
 IAMREADYTOPAY.TXT
 IHAVEYOURSECRET.KEY
+info.hta
 INFO-DECRYPT.txt
 info-kyj.txt
 INSTRUCCIONES_DESCIFRADO.TXT
@@ -5299,8 +5302,10 @@ read_it.txt
 read_me_fucking_bitch!
 READ_ME_NOW.txt
 READ_NOTE.html
+read_to_decrypt_files.html
 ReadDecryptFilesHere.txt
 README.yAGRTb.txt
+README_NOW_ZAROK.txt
 README_XENTARI.txt
 README-GENTLEMEN.txt
 README-NOBODY.txt

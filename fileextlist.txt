@@ -2082,6 +2082,7 @@ DesktopOsiris.*
 *.helpo
 *.helppme@india.com.ID83994902
 *.help.Ransom
+*.hels
 *.hen_ry_217
 *.henry217
 *.HENTAI
@@ -4014,6 +4015,7 @@ RESTORE-SIGRUN.*
 *_.rmd
 *.rmd
 *.RME
+*.rmg
 *.rnsmwr
 *.rnsmwre
 *.RNZ
@@ -5124,6 +5126,7 @@ VictemKey_*_*
 *.ZENEX
 *.Zenis*
 *.ZeNyA
+*.zeo
 *.zeon
 *.zeoticus
 *.zeppelin
@@ -5265,6 +5268,7 @@ HELP_YOUR_FILES.TXT
 HELLOTHERE.TXT
 HELPDECRYPT.TXT
 HELPDECYPRT_YOUR_FILES.HTML
+hels.readme.txt
 HiveWare-ReadMe.txt
 HOW_TO_BACK_FILES.html
 HOW_TO_DECRYPT_FILES.TXT

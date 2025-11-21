@@ -1819,6 +1819,7 @@ DesktopOsiris.*
 *.g8R4rqWIp9
 *.G8xB
 *.GAGAKICK
+*.gagup
 *.Galacti-Crypter
 *.game
 *.GameCrypt
@@ -3321,6 +3322,7 @@ MZReverenge*
 *.nytom
 *.Nyton
 *.NYX
+*.nyx_annihilated
 *.nyxe
 *.nzer
 *.nzoq

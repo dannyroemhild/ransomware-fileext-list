@@ -460,6 +460,7 @@
 *.bado
 *.BadRabbit
 *.badutclowns
+*.BAFAIAI
 *.BAGAJAI
 *.bagi
 *.bagli
@@ -792,6 +793,7 @@
 *.cccusawasted
 *.ccd
 *.cceo
+*.ccl
 *.ccps
 *.ccryptor
 *.ccyu
@@ -1794,6 +1796,7 @@ DesktopOsiris.*
 *.fuckandrun
 *.fucked
 *.FuckedByGhost
+*.fuckfbi
 *.fucking
 *.FuckSociety
 *.fucku
@@ -5305,9 +5308,11 @@ READ-007.txt
 READ-ME!.txt
 READ-ME-Nullhexxx.txt
 read_it.txt
+READ_ME_FBI.txt
 read_me_fucking_bitch!
 READ_ME_NOW.txt
 READ_NOTE.html
+read_this_to_decrypt_files.html
 read_to_decrypt_files.html
 ReadDecryptFilesHere.txt
 README.yAGRTb.txt
@@ -5320,9 +5325,11 @@ readmefordecrypt.txt
 READTHISNOW!!!.TXT
 recover.txt
 RECOVER_INSTRUCTIONS.html
+RECOVER_README.txt
 RECOVER-FILES.html
 RECOVERY_FILE*.txt
 RECOVERY_FILE.TXT
+RECOVERY_INSTRUCTIONS.txt
 RECOVERY_KEY.txt
 recoverfile*.txt
 recoveryfile*.txt

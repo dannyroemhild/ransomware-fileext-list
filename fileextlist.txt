@@ -527,6 +527,7 @@
 *.beijing
 *.BELGIAN_COCOA
 *.BENTLEY
+*.benzona
 *.berost
 *.berosuce
 *.best
@@ -4243,6 +4244,7 @@ RESTORE-SIGRUN.*
 *.ShkolotaCrypt
 *.shkskayd
 *.shootlock
+*.shrt
 *.shrug
 *.SHRUG2
 *.SHTORM
@@ -4445,6 +4447,7 @@ RESTORE-SIGRUN.*
 *.syrk
 *.SYSDF
 *.sysdown
+*.sysdoz
 *.sysfrog
 *.syss
 *.system
@@ -5324,6 +5327,7 @@ README-OBSCURA.txt
 readmefordecrypt.txt
 READTHISNOW!!!.TXT
 recover.txt
+RECOVERY_INFO.txt
 RECOVER_INSTRUCTIONS.html
 RECOVER_README.txt
 RECOVER-FILES.html
@@ -5340,6 +5344,7 @@ restorefiles.txt
 RETURN_DATA.html
 SECRET.KEY
 SECRETIDHERE.KEY
+shrt.readme.txt
 SM$LE-read-it.txt
 StarFire-README.txt
 TheAnonymousGlobal_ReadMe.txt

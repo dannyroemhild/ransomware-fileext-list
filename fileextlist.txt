@@ -985,6 +985,7 @@ cmdRansomware.*
 *.crabs
 *.crabslkt
 *.crack
+*.cracker
 *.cradle
 *.CradleCore
 *.craftul
@@ -1527,6 +1528,7 @@ DesktopOsiris.*
 *.emilisub
 *.emilysupp
 *.emp
+*.EMPEROR
 *.EMPg296LCK
 *.empty
 *.emsisosisoft
@@ -2208,6 +2210,7 @@ DesktopOsiris.*
 *.hydrox
 *.hyena
 *.hyena111
+*.hyfencb
 *.hyj
 *.hype
 *.iaufkakfhsaraf
@@ -2569,6 +2572,7 @@ jpa.*
 *.Krider
 *.Kriptor
 *.Kriptovor
+*.Kron
 *.kronos
 *.kropun
 *.kroput
@@ -2844,6 +2848,7 @@ lock.*
 *.M0rphine
 *.m0sC0v1um
 *.M142HIMARS
+*.m1nus*
 *.m3g4c0rtx
 *.m3ga*
 *.m3gac0rtx
@@ -3272,11 +3277,12 @@ MZReverenge*
 *.nostro
 *.nosu
 *.NOT
+*.NOT_OPEN
 *.NotAHero
 *._not_a_joke
 *.notfound
 *.notfoundrans
-*.NOT_OPEN
+*.NotHr
 *.NOV
 *.novalock
 *.novasof
@@ -5302,6 +5308,7 @@ JEFFERY_README.txt
 LamiaLoader.txt
 LegionRoot_ReadMe.txt
 MAXIMSRU.txt
+NOTE_273.txt
 OpenMe.txt
 OPTIMUS_readme.txt
 Pro4etiMe_ReadMe.txt
@@ -5349,6 +5356,7 @@ SM$LE-read-it.txt
 StarFire-README.txt
 TheAnonymousGlobal_ReadMe.txt
 veluth.readme.txt
+WHAT_HAPPEN_OF_MYFILE.html
 WIPED.txt
 YOUR_FILES.HTML
 YOUR_FILES.url

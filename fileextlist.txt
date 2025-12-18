@@ -7,6 +7,7 @@
 *.000G
 *.007
 *.010001
+*.01flip
 027cc450ef5f8c5f653329641ec1fed9*.*
 *.03rK
 *.0402
@@ -943,6 +944,7 @@ cmdRansomware.*
 *.cool
 *.coom
 *.coos
+*.Cooseagroup
 *.coot
 *.copa
 *.copan
@@ -1323,6 +1325,7 @@ DesktopOsiris.*
 *.dever
 *.devil
 *.devinn
+*.devman21
 *.devon
 *.devos
 *.devoscpu
@@ -1780,6 +1783,7 @@ DesktopOsiris.*
 *.freezing
 *.frend
 *.frendi
+*.frenesis
 *.fresh
 *.Frivinho*
 *.Frivolity
@@ -3255,6 +3259,7 @@ MZReverenge*
 *.nobu
 *.nochance
 *.nochi
+*.NOCT
 *.Node0
 *.nodeep
 *.nohope
@@ -3706,6 +3711,7 @@ PCRISKyCOMBOCLEANER.*
 *.prplcscd_cvxcv
 *.Prt6aV9
 *.prus
+*.pryct
 *.psafe
 *.psaux
 *.pscrypt
@@ -5237,6 +5243,8 @@ VictemKey_*_*
 @HELP_HERE_TO_RESCUE_YOUR_FILES@.txt
 !!!_DECRYPT_INSTRUCTIONS_!!!.txt
 !!!_READ_ME_!!!.txt
+!!!_READ_THIS_!!!.txt
+!!!_README_!!!.txt
 !!!HOW_TO_DECRYPT!!!.mht
 !!Restore-My-file-Kavva.txt
 #HowToRecover.txt
@@ -5334,6 +5342,7 @@ README-OBSCURA.txt
 readmefordecrypt.txt
 READTHISNOW!!!.TXT
 recover.txt
+RECOVER-YOUR-FILE.TXT
 RECOVERY_INFO.txt
 RECOVER_INSTRUCTIONS.html
 RECOVER_README.txt
@@ -5356,8 +5365,11 @@ SM$LE-read-it.txt
 StarFire-README.txt
 TheAnonymousGlobal_ReadMe.txt
 veluth.readme.txt
+WARNING.txt
 WHAT_HAPPEN_OF_MYFILE.html
 WIPED.txt
+XEX_README.txt
 YOUR_FILES.HTML
 YOUR_FILES.url
+YOUR_FILES_ARE_ENCRYPTED.txt
 zelOFF.txt

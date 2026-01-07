@@ -85,6 +85,7 @@
 *.34678
 *.34r7hGr455
 *.34v
+*.35RUT
 *.360
 *.3674AD9F-5958-4F2A-5CB7-F0F56A8885EA
 *.3admin
@@ -380,6 +381,7 @@
 *.AstraLocker
 *.asulo
 *.asus
+*.asyl
 *.Ataware
 *.Atchbo
 *.Athena865
@@ -1946,6 +1948,7 @@ DesktopOsiris.*
 *.GoNNaCry
 *.gonzofortuna
 *.good
+*.goodgir
 *.GoodMorning
 *.goofed
 *.googl
@@ -2750,6 +2753,7 @@ lock.*
 *.lockfile
 *.LockfilesKR
 *.Lockify
+*.lockis
 *.locklock
 *.locklocklock
 *.lockme
@@ -4018,6 +4022,7 @@ RESTORE-SIGRUN.*
 *.rincrypt3
 *.rip
 *.Ripa
+*.ripper12
 *.R.i.P
 *.risk
 *.ritzer
@@ -5247,6 +5252,7 @@ VictemKey_*_*
 !!!_README_!!!.txt
 !!!HOW_TO_DECRYPT!!!.mht
 !!Restore-My-file-Kavva.txt
+!README!.txt
 #HowToRecover.txt
 #Read-for-recovery.txt
 _how_recover.txt
@@ -5262,6 +5268,7 @@ BlackField_ReadMe.txt
 c0ntact.txt
 Coin.Locker.txt
 Cyb3rDrag0nz_ReadMe.txt
+CyberEvent-ReadMe.txt
 DAT_INFO.txt
 DATA_RECOVERY.html
 Decrypt.html

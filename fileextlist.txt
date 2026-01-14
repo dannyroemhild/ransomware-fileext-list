@@ -405,6 +405,7 @@
 *.AutoWannaCryV2
 *.auw2w2g0
 *.Avaad
+*.avaddon
 *.avan
 *.AVco3
 *.AVCrypt
@@ -879,6 +880,7 @@
 *.Cl0p
 *.clay
 *.clean
+*.clear
 *.clf
 *.ClicoCrypter
 *.clinton
@@ -939,6 +941,7 @@ cmdRansomware.*
 *.condat
 *.conficker
 *.consciousness
+*.cont
 *.Contacto
 *.contactus
 *.conti
@@ -1500,6 +1503,7 @@ DesktopOsiris.*
 *.Egh9E
 *.egmwv
 *.egmwvm
+*.egregor
 *.Ehehehx12
 *.ehiz
 *.ehre
@@ -2084,6 +2088,7 @@ DesktopOsiris.*
 *.hela
 *.held
 *.hello
+*.hellokitty
 *.hellomynameisransom
 *.Hells
 *.help
@@ -3280,6 +3285,7 @@ MZReverenge*
 *.noos
 *.NOOSE
 *.nopasaran
+*.nopetya
 *.noproblemwedecfiles
 *.norvas
 *.nosafe
@@ -3292,6 +3298,7 @@ MZReverenge*
 *.notfound
 *.notfoundrans
 *.NotHr
+*.notpetya
 *.NOV
 *.novalock
 *.novasof
@@ -3592,6 +3599,7 @@ PCRISKyCOMBOCLEANER.*
 *.Pig865qq
 *.pigzqbqnvbu
 *.piiq
+*.ping
 *.pings
 *.piny
 *.@PIPIKAKI
@@ -3888,6 +3896,7 @@ PCRISKyCOMBOCLEANER.*
 *.RansomTrojanLock
 *.ransomwared
 *.RansomWarrior
+*.ransomxx
 *.RANZYLOCKED
 *@rape.lol*
 *.rapax
@@ -5266,6 +5275,7 @@ APEXNOTE.txt
 bashred-reAdmE.txt
 BlackField_ReadMe.txt
 c0ntact.txt
+CLEARWATER_README.txt
 Coin.Locker.txt
 Cyb3rDrag0nz_ReadMe.txt
 CyberEvent-ReadMe.txt

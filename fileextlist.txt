@@ -2050,6 +2050,7 @@ DesktopOsiris.*
 *.HAPP
 *.happenencedfiles
 *.happy
+*.happy*
 *.happydayzz
 *.happyness
 *.happythreechoose
@@ -2619,6 +2620,7 @@ jpa.*
 *.L1LL
 *.L33TAF
 *.l41
+*.lab
 *.labour
 *.Ladon
 *.lalabitch
@@ -3959,6 +3961,7 @@ PCRISKyCOMBOCLEANER.*
 *.redeem
 *.redeye
 *.redfox
+*.redgov
 *.redkaw
 *.redkrypt
 *.redl
@@ -4278,6 +4281,7 @@ RESTORE-SIGRUN.*
 *.Shuriken
 *.shutdown57
 *.ShutUpAndDance
+*.sicarii
 *.sick
 *.sickfile
 *.sifrelendi
@@ -5255,6 +5259,7 @@ VictemKey_*_*
 *.zzzzzzzz
 *.zzzzzzzzzzzzzzzzzyyy
 @HELP_HERE_TO_RESCUE_YOUR_FILES@.txt
+!!!_DECRYPT_INFO_!!!.txt
 !!!_DECRYPT_INSTRUCTIONS_!!!.txt
 !!!_READ_ME_!!!.txt
 !!!_READ_THIS_!!!.txt
@@ -5386,6 +5391,7 @@ WARNING.txt
 WHAT_HAPPEN_OF_MYFILE.html
 WIPED.txt
 XEX_README.txt
+YouCanRecoverFiles.txt
 YOUR_FILES.HTML
 YOUR_FILES.url
 YOUR_FILES_ARE_ENCRYPTED.txt

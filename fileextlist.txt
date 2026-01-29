@@ -3004,6 +3004,7 @@ lock.*
 *.mikoyan
 *.MILIHPEN
 *.MILIHPENN
+*.milkyway
 *.mind
 *.MindSystem
 *.mine

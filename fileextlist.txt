@@ -3749,6 +3749,7 @@ PCRISKyCOMBOCLEANER.*
 *.PURGAT0RY
 *.purgatory
 *.purge
+*.purple
 *.puspa2#mejukeni7sala029
 *.pussy
 *.puuuk
@@ -4543,6 +4544,7 @@ trial-recovery.*
 *.tfudet
 *@tfwno.gf*
 *.TG33
+*.tgbg
 *.TGIF
 *.tgmn
 *.tgpo
@@ -4768,6 +4770,7 @@ unCrypte@outlook.com*
 *.velso
 *.vendetta
 *.vendetta2
+*.Venere1
 *.Venis
 *.Venom
 *.Venus
@@ -5259,6 +5262,8 @@ VictemKey_*_*
 *.zzzzz
 *.zzzzzzzz
 *.zzzzzzzzzzzzzzzzzyyy
+*dexter
+*Ransomware.txt
 @HELP_HERE_TO_RESCUE_YOUR_FILES@.txt
 !!!_DECRYPT_INFO_!!!.txt
 !!!_DECRYPT_INSTRUCTIONS_!!!.txt
@@ -5266,6 +5271,7 @@ VictemKey_*_*
 !!!_READ_THIS_!!!.txt
 !!!_README_!!!.txt
 !!!HOW_TO_DECRYPT!!!.mht
+!!!READ_ME_TO_RECOVER_FILES!!!.txt
 !!Restore-My-file-Kavva.txt
 !README!.txt
 #HowToRecover.txt
@@ -5387,6 +5393,7 @@ shrt.readme.txt
 SM$LE-read-it.txt
 StarFire-README.txt
 TheAnonymousGlobal_ReadMe.txt
+UFFIZI_README.html
 veluth.readme.txt
 WARNING.txt
 WHAT_HAPPEN_OF_MYFILE.html

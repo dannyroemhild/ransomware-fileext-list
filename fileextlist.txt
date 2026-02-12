@@ -805,6 +805,7 @@
 *.ccza
 *.cdaz
 *.cdcc
+*.cdd
 *.cdmx
 *.cdpo
 *.cdqw
@@ -1209,6 +1210,7 @@ cryptolocker.*
 *.daaefc
 *.Dablio
 *.daddycrypt
+*.daibang
 *.DALE
 *.dalle
 *.damacrypt
@@ -2227,12 +2229,14 @@ DesktopOsiris.*
 *.hyj
 *.hype
 *.iaufkakfhsaraf
+*.icanfix
 *.ICE
 *.icp
 *.ICQ@PIZZASUCKER
 *.icyoaezi
 *.ID.GORILLA
 *.ID.VENDETTA
+*.IdontCareLOck
 *.IEncrypt
 *.Ieph0uxo
 *.Iexei8bo
@@ -2871,6 +2875,7 @@ lock.*
 *.maak
 *.maas
 *.macaw
+*.MackDEV
 *.MadBit
 *.maddog
 *.madebyadam
@@ -3176,6 +3181,7 @@ MZReverenge*
 *.ncov
 *.NCrypt
 *.ndarod
+*.ndm448
 *.ndpyhss
 *.nebupa
 *.needdecrypt
@@ -3428,6 +3434,7 @@ oor.*
 *.ooxa
 *.ooza
 *@opensourcemail.org
+*.open
 *.OpenToYou
 *.OPIX
 *.OpJerusalem
@@ -3901,6 +3908,7 @@ PCRISKyCOMBOCLEANER.*
 *.ransomwared
 *.RansomWarrior
 *.ransomxx
+*.ransoomed
 *.RANZYLOCKED
 *@rape.lol*
 *.rapax
@@ -5271,11 +5279,13 @@ VictemKey_*_*
 !!!_READ_THIS_!!!.txt
 !!!_README_!!!.txt
 !!!HOW_TO_DECRYPT!!!.mht
+!!!READ_ME!!!.txt
 !!!READ_ME_TO_RECOVER_FILES!!!.txt
 !!Restore-My-file-Kavva.txt
 !README!.txt
 #HowToRecover.txt
 #Read-for-recovery.txt
+___RestoreYourFiles___.txt
 _how_recover.txt
 _Locky_recover_instructions.txt
 _README_Yurei.txt
@@ -5336,6 +5346,7 @@ Howto_Restore_FILES.TXT
 HowToRecover.txt
 HowtoRestore_FILES.txt
 IAMREADYTOPAY.TXT
+IdontCareLOck.txt
 IHAVEYOURSECRET.KEY
 info.hta
 INFO-DECRYPT.txt
@@ -5344,6 +5355,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 JEFFERY_README.txt
 LamiaLoader.txt
 LegionRoot_ReadMe.txt
+MackDEV_README.txt
 MAXIMSRU.txt
 NOTE_273.txt
 OpenMe.txt

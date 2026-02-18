@@ -13,6 +13,7 @@
 *.0402
 *.08kJA
 *.0.cs
+*.0apt
 *.0D34E0
 *.0day
 *.0day0
@@ -746,6 +747,7 @@
 *.bulock*
 *.bumcoder
 *.bunny
+*.BuP!w3
 *.burn
 *.busavelock53
 *.BUSH
@@ -858,6 +860,7 @@
 *.ChineseRarypt
 *.chinz
 *.CHIP
+*.chip1
 *.chld
 *.chocolate
 *.choda
@@ -1589,6 +1592,7 @@ DesktopOsiris.*
 *.EncryptoJJS
 *.encS
 *ENCx45cR*
+*.end11
 *.endpoint
 *.enfp
 *.enigma
@@ -5187,6 +5191,7 @@ VictemKey_*_*
 *.ZeroRansom
 *.ZeRy
 *.zes
+*.ZETARINK
 *.ZEUS
 *.zfdv
 *.ZFX
@@ -5272,6 +5277,7 @@ VictemKey_*_*
 *.zzzzzzzzzzzzzzzzzyyy
 *dexter
 *Ransomware.txt
+*-HOW-TO-DECRYPT.txt
 @HELP_HERE_TO_RESCUE_YOUR_FILES@.txt
 !!!_DECRYPT_INFO_!!!.txt
 !!!_DECRYPT_INSTRUCTIONS_!!!.txt
@@ -5296,6 +5302,7 @@ aboutYourFiles.*
 APEXNOTE.txt
 bashred-reAdmE.txt
 BlackField_ReadMe.txt
+BuP1wDecryptor@.txt
 c0ntact.txt
 CLEARWATER_README.txt
 Coin.Locker.txt
@@ -5380,6 +5387,7 @@ README_XENTARI.txt
 README-GENTLEMEN.txt
 README-NOBODY.txt
 README-OBSCURA.txt
+README0apt.txt
 readmefordecrypt.txt
 READTHISNOW!!!.TXT
 recover.txt
@@ -5392,6 +5400,7 @@ RECOVERY_FILE*.txt
 RECOVERY_FILE.TXT
 RECOVERY_INSTRUCTIONS.txt
 RECOVERY_KEY.txt
+Recovery_README.html
 recoverfile*.txt
 recoveryfile*.txt
 RecoverYourFiles.txt

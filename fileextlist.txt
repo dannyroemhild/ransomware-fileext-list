@@ -969,6 +969,7 @@ cmdRansomware.*
 *.corrupt
 *.CorruptCrypt
 *.corrupted
+*.Cortizol
 *.cosakos
 *.cosd
 *.Cossy
@@ -4127,6 +4128,7 @@ RESTORE-SIGRUN.*
 *.rugj
 *.rumba
 *.rumblegoodboy
+*.run
 *.run*
 *.Russenger
 *.Russian
@@ -4445,6 +4447,7 @@ RESTORE-SIGRUN.*
 *.StorageCrypter
 *.Storm
 *.stormous
+*.strike7
 *.Striked
 *.stroman
 *.StrongX
@@ -5341,6 +5344,7 @@ HiveWare-ReadMe.txt
 HOW_TO_BACK_FILES.html
 HOW_TO_DECRYPT_FILES.TXT
 HOW_TO_GET_DATA_BACK.html
+HOW_TO_RECOVER.txt
 HOW_TO_RECOVER_DATA.html
 How_To_Recover_Files.txt
 How_to_recover_your_files.txt
@@ -5394,6 +5398,7 @@ recover.txt
 RECOVER-YOUR-FILE.TXT
 RECOVERY_INFO.txt
 RECOVER_INSTRUCTIONS.html
+RECOVER_payload.txt
 RECOVER_README.txt
 RECOVER-FILES.html
 RECOVERY_FILE*.txt

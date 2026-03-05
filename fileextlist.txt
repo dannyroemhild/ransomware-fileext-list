@@ -2838,6 +2838,7 @@ lock.*
 *.lr
 *.LRO
 *.lsas
+*.lsd
 *.LSOBKMHG
 *.lssr
 *.LTC
@@ -3456,6 +3457,7 @@ oor.*
 *.origami
 *.orion
 *.orkf
+*.osa
 *.oshit
 *.osiris
 *.osk
@@ -4950,6 +4952,7 @@ VictemKey_*_*
 *.winxvykljw
 *.wiot
 *.wisz
+*.witch
 *.wixawm
 *.Wizard
 *.WKSGJ
@@ -5366,6 +5369,7 @@ INSTRUCCIONES_DESCIFRADO.TXT
 JEFFERY_README.txt
 LamiaLoader.txt
 LegionRoot_ReadMe.txt
+LSD_README.txt
 MackDEV_README.txt
 MAXIMSRU.txt
 NOTE_273.txt

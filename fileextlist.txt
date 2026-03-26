@@ -70,6 +70,7 @@
 *.2cXpCihgsVxB3
 *.2DA-1FF-401
 *.2du1mj8
+*.2ed2
 *.2heRi1
 *.2k19
 *.2k19sys
@@ -148,6 +149,7 @@
 *.888
 *.8base
 *.8be1
+*.8c7f
 *.8lock8
 *.8xUsq62
 *.9062
@@ -224,6 +226,9 @@
 *.AeR
 *.aeroware
 *.AES
+*.aes_ni
+*.aes_ni_0day 
+*.aes_ni_gov
 *.aes128ctr
 *.AES256
 *.AES256-06
@@ -441,6 +446,7 @@
 *.b2dr
 *.b2fr
 *.b5c6
+*.B6E1
 *.b78vi7v6ri66b
 *.b89b
 *.baal
@@ -1096,6 +1102,7 @@ cmdRansomware.*
 *.crypterdodo
 *.cryptes
 *.cryptevex
+*.crYptF
 *.cryptfile
 *.CryptFuck
 *.cryptgh0st
@@ -1212,6 +1219,7 @@ cryptolocker.*
 *d3ad_Help.*
 *.d3g1d5
 *.d4nk
+*.da_vinci_code
 *.daaefc
 *.Dablio
 *.daddycrypt
@@ -1365,6 +1373,7 @@ DesktopOsiris.*
 *.direwolf
 *.dirk
 *.DirtyDecrypt
+*.disappeared
 *.Dishwasher
 *.DiskDoctor
 *.dispf*osed2017
@@ -1540,6 +1549,7 @@ DesktopOsiris.*
 *.elvispresley
 *.EMAN
 *.eman50
+*.emario
 *.embrace
 *.emc
 *.emilisub
@@ -1713,10 +1723,12 @@ DesktopOsiris.*
 *.fdcz
 *.fdfk
 *.FDFK22
+*.fear
 *.fedasot
 *.FEEDC
 *.fefg
 *.felix
+*.FenixIloveyou!!
 *.FenixLocker
 *.Fenrir
 *.ferosas
@@ -1932,6 +1944,7 @@ DesktopOsiris.*
 *.GlobeimposterAlpha865qqz
 *.glock
 *.GlUtEzOn.VaNoLe
+*.glutton
 *@gmail.com
 *.gman
 *.gmbn
@@ -2005,6 +2018,7 @@ DesktopOsiris.*
 *.grupothermot3k
 *.grux
 *.gryphon
+*.GSupport*
 *.GSupport3
 *.gtsc
 *.gtys
@@ -2113,6 +2127,7 @@ DesktopOsiris.*
 *.help.Ransom
 *.hels
 *.hen_ry_217
+*.hendrix
 *.henry217
 *.HENTAI
 *.herad
@@ -2410,6 +2425,7 @@ DesktopOsiris.*
 *.jjyy
 *.JKOUOGVG
 *.JLCW2
+*.JLQUF
 *.jnec
 *.JNEC.a
 *.JobCrypter
@@ -2760,6 +2776,7 @@ lock.*
 *.LOCKEDFILECR
 *.lockedgood
 *.Locked-In
+*.locked-mafiaware
 *.LOCKED_PAY
 *.LOCKED.txt
 *.lockedpayransom1@gmailcom*
@@ -2810,6 +2827,7 @@ lock.*
 *.loov
 *.looy
 *.loplup.*
+*.loprt
 *.loptr
 *.lordofshadow
 *.Lortok
@@ -2933,6 +2951,7 @@ lock.*
 *.maql
 *.Marduk
 *.mariacbc
+*.mario
 *.mark
 *.Marlboro
 *.marnet2
@@ -3292,6 +3311,7 @@ MZReverenge*
 *.NOKOYAWA
 *.NOLOST
 *.nols
+*.nolvalid
 *.nomad
 *.Nomikon
 *.no_more_ransom
@@ -3316,6 +3336,7 @@ MZReverenge*
 *.notfoundrans
 *.NotHr
 *.notpetya
+*.NotStonks
 *.NOV
 *.novalock
 *.novasof
@@ -3408,6 +3429,7 @@ MZReverenge*
 *.omerta
 *.omfl
 *.OMG
+*.OMG!
 *.omnisphere
 *.oneway
 *.one-we_can-help_you
@@ -3552,6 +3574,7 @@ oor.*
 *.PayPalGenerator2019
 *.payransom
 *.payrms
+*.payrtms
 *.pays
 *.PaySafeGen
 *.Payt
@@ -3561,6 +3584,7 @@ oor.*
 *.PB
 *.PC-FunHACKED*
 *.PClock
+*.pclocked
 *.pcqq
 PCRISKyCOMBOCLEANER.*
 *.PcS
@@ -4042,6 +4066,7 @@ RESTORE-SIGRUN.*
 *.rezm
 *.rezuc
 *.rgnk
+*.RGNR_ESXI
 *.rguy
 *.rhino
 *.rhmlm
@@ -4102,6 +4127,7 @@ RESTORE-SIGRUN.*
 *.rote
 *.RotorCrypt
 *.royal
+*.royal_u
 *.royal_w
 *.royroy.*
 *.rox
@@ -4514,6 +4540,7 @@ RESTORE-SIGRUN.*
 *.Szymekk
 trial-recovery.*
 *.t1000
+*.t5019
 *.T1Happy
 *.tabe
 *.TABGH
@@ -4787,6 +4814,7 @@ unCrypte@outlook.com*
 *.vector_
 *.Vega
 *.vehu
+*.vekanhelpu
 *.velar
 *.velikasrbija
 *.velso
@@ -4804,6 +4832,7 @@ unCrypte@outlook.com*
 *.verasto
 *.verdant
 *.verschlüsselt
+*.versiegelt
 *.vesad
 *.vesrato
 *.veza
@@ -4968,6 +4997,7 @@ VictemKey_*_*
 *.wncryt
 *.wndie
 *.wnry
+*.wnx
 *.WOLF
 *.WonderCrypter
 *.woodrat
@@ -5040,7 +5070,6 @@ VictemKey_*_*
 *.xd
 *.XD-99
 *.xda
-*.~xdata~
 *.xdata
 *.xDec
 *.xdrop
@@ -5313,12 +5342,15 @@ _secret_code.txt
 About_Files.txt
 aboutYourFiles.*
 APEXNOTE.txt
+ASSISTANCE_IN_RECOVERY.txt
+ATTENTION!!!.txt
 bashred-reAdmE.txt
 BlackField_ReadMe.txt
 BuP1wDecryptor@.txt
 c0ntact.txt
 CLEARWATER_README.txt
 Coin.Locker.txt
+confirmation.key
 Cyb3rDrag0nz_ReadMe.txt
 CyberEvent-ReadMe.txt
 DAT_INFO.txt
@@ -5326,11 +5358,14 @@ DATA_RECOVERY.html
 Decrypt.html
 decrypt_instruct*.*
 DECRYPT_ReadMe.TXT
+DECRYPT_INSTRUCTION.HTML
 DECRYPT_INSTRUCTION.TXT
+DECRYPT_INSTRUCTIONS.HTML
 DECRYPT_INSTRUCTIONS.TXT
 DecryptAllFiles.txt
 delete.me
 Elons_Help.txt
+enc_files.txt
 Encrypt.html
 encryptor_raas_readme_liesmich.txt
 FAIL_STATE_NOTIFICATION.pdf
@@ -5338,6 +5373,9 @@ Fast-Instructions.txt
 FILESAREGONE.TXT
 GetFilesBack.txt
 Help_Decrypt.txt
+HELP_DECRYPT.HTML
+HELP_DECRYPT.lnk
+HELP_DECRYPT.PNG
 help_decrypt_your_files.html
 HELP_DECRYPT_YOUR_FILES.txt
 HELP_RECOVER_FILES.txt
@@ -5359,6 +5397,9 @@ HOW_TO_RECOVER_DATA.html
 How_To_Recover_Files.txt
 How_to_recover_your_files.txt
 HOW_TO_RECOVERY_FILES.txt
+How_Decrypt.html
+How_Decrypt.txt
+HowDecrypt.txt
 HowToRecoveryFiles.txt
 howrecover+*.txt
 howtoDecrypt.txt
@@ -5375,10 +5416,12 @@ info-kyj.txt
 INSTRUCCIONES_DESCIFRADO.TXT
 JEFFERY_README.txt
 LamiaLoader.txt
+last_chance.txt
 LegionRoot_ReadMe.txt
 LSD_README.txt
 MackDEV_README.txt
 MAXIMSRU.txt
+message.txt
 NOTE_273.txt
 OpenMe.txt
 OPTIMUS_readme.txt
@@ -5407,7 +5450,6 @@ readmefordecrypt.txt
 READTHISNOW!!!.TXT
 recover.txt
 RECOVER-YOUR-FILE.TXT
-RECOVERY_INFO.txt
 RECOVER_DATA.html
 RECOVER_INSTRUCTIONS.html
 RECOVER_payload.txt
@@ -5415,6 +5457,8 @@ RECOVER_README.txt
 RECOVER-FILES.html
 RECOVERY_FILE*.txt
 RECOVERY_FILE.TXT
+RECOVERY_ID.txt
+RECOVERY_INFO.txt
 RECOVERY_INSTRUCTIONS.txt
 RECOVERY_KEY.txt
 Recovery_README.html

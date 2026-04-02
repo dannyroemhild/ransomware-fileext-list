@@ -495,6 +495,7 @@
 *.barrel
 *.bart
 *.bart.zip
+*.BASANAI
 *.base
 *.bashrc
 *.basn
@@ -528,6 +529,7 @@
 *.beaf
 *.beamed
 *.Bear
+*.bear26
 *.BEAST
 *.beef
 *.beep
@@ -1664,6 +1666,7 @@ DesktopOsiris.*
 *.ExecutionerPlus
 *.exilenceTG
 *.EXISC
+*.exitium
 *.exo
 *.Exocrypt
 *.exolocked
@@ -4811,6 +4814,7 @@ unCrypte@outlook.com*
 *.vcrypt
 *.vcrypt1
 *.vdul
+*.vect
 *.vector_
 *.Vega
 *.vehu

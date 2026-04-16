@@ -1412,6 +1412,7 @@ DesktopOsiris.*
 *.DoggeWiper
 *.dohfzdod
 *.dolphin
+*.domination
 *.domino
 *.domn
 *.Done
@@ -3205,6 +3206,7 @@ MZReverenge*
 *.NBA
 *.nbes
 *.nbl
+*.NBLock
 *.NBR
 *.nbwr
 *.nbzi
@@ -4652,6 +4654,7 @@ trial-recovery.*
 *.topi
 *.Tor+
 *.tor13
+*.torbrowsertor
 *.Torchwood
 *.tornado
 *.tortoise
@@ -5368,6 +5371,7 @@ DECRYPT_INSTRUCTIONS.HTML
 DECRYPT_INSTRUCTIONS.TXT
 DecryptAllFiles.txt
 delete.me
+elite_ransom.html
 Elons_Help.txt
 enc_files.txt
 Encrypt.html
@@ -5444,6 +5448,7 @@ read_this_to_decrypt_files.html
 read_to_decrypt_files.html
 ReadDecryptFilesHere.txt
 README.yAGRTb.txt
+README_NBLOCK.txt
 README_NOW_ZAROK.txt
 README_XENTARI.txt
 README-GENTLEMEN.txt

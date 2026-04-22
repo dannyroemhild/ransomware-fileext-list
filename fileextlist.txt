@@ -4580,6 +4580,7 @@ trial-recovery.*
 *.Telecrypt
 *.telegram
 *.TellYouThePass
+*.TENGU
 *.teren
 *.terminator
 *.termit
@@ -4751,6 +4752,7 @@ trial-recovery.*
 *.unavailable
 *.UnblockUPC
 *.unbrecrypt_ID_*
+*.UNC
 unCrypte@outlook.com*
 *.Ungluk
 *.unique
@@ -5332,6 +5334,7 @@ VictemKey_*_*
 !!!_READ_ME_!!!.txt
 !!!_READ_THIS_!!!.txt
 !!!_README_!!!.txt
+!!!ELITE_ENTERPRISE_RANSOMWARE!!!.txt
 !!!HOW_TO_DECRYPT!!!.mht
 !!!READ_ME!!!.txt
 !!!READ_ME_TO_RECOVER_FILES!!!.txt
@@ -5343,6 +5346,7 @@ VictemKey_*_*
 ___RestoreYourFiles___.txt
 _how_recover.txt
 _Locky_recover_instructions.txt
+_README_TENGU.txt
 _README_Yurei.txt
 _secret_code.txt
 +README-WARNING+.txt

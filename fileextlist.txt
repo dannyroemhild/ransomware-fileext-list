@@ -958,6 +958,7 @@ cmdRansomware.*
 *.Contacto
 *.contactus
 *.conti
+*.cooked
 *.cookieshelper
 *.cool
 *.coom
@@ -2623,6 +2624,7 @@ jpa.*
 *.kroput1
 *.krusop
 *.kruu
+*.KRYBIT
 *.krypted
 *.KryptoLocker
 *.kryptonite
@@ -3245,6 +3247,15 @@ MZReverenge*
 *.nerz
 *.nesa
 *.net
+*.net1*
+*.net2*
+*.net3*
+*.net4*
+*.net5*
+*.net6*
+*.net7*
+*.net8*
+*.net9*
 *.NETCrypton
 *.NetForceZ
 *.Netix
@@ -5462,6 +5473,7 @@ README0apt.txt
 readmefordecrypt.txt
 READTHISNOW!!!.TXT
 recover.txt
+RECOVER-README.txt
 RECOVER-YOUR-FILE.TXT
 RECOVER_DATA.html
 RECOVER_INSTRUCTIONS.html
@@ -5472,6 +5484,7 @@ RECOVERY_FILE*.txt
 RECOVERY_FILE.TXT
 RECOVERY_ID.txt
 RECOVERY_INFO.txt
+Recovery_Instructions.html
 RECOVERY_INSTRUCTIONS.txt
 RECOVERY_KEY.txt
 Recovery_README.html

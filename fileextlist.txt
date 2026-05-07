@@ -489,6 +489,7 @@
 *.banks1
 *.banta
 *.bantana
+*.BARADAI
 *.barak
 *.barracuda
 *.BarRax
@@ -501,6 +502,7 @@
 *.basn
 *.basslock
 *.basta
+*.BAVACAI
 *.BAWSUOOXE
 *.bazek
 *.bb4-230*
@@ -1414,6 +1416,7 @@ DesktopOsiris.*
 *.dohfzdod
 *.dolphin
 *.domination
+*.dominus*
 *.domino
 *.domn
 *.Done
@@ -4077,6 +4080,7 @@ RESTORE-SIGRUN.*
 *.revolution
 *.revon
 *.REVRAC
+*.rex*
 *.RexCrypt
 *.Reyptson
 *.rezm
@@ -5450,6 +5454,7 @@ OpenMe.txt
 OPTIMUS_readme.txt
 Pro4etiMe_ReadMe.txt
 R3ADM3.txt
+RANSOM_NOTE.html
 Read.txt
 READ-007.txt
 READ-ME!.txt

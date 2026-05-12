@@ -2660,6 +2660,7 @@ jpa.*
 *.labour
 *.Ladon
 *.lalabitch
+*.lalia
 *.lalo
 *.lama
 *.Lambda
@@ -4873,6 +4874,7 @@ VictemKey_*_*
 *.video
 *.viiper
 *.viki
+*.vile
 *.VinDizelPux
 *.vindows
 *.VindowsLocker
@@ -5353,6 +5355,7 @@ VictemKey_*_*
 !!!HOW_TO_DECRYPT!!!.mht
 !!!READ_ME!!!.txt
 !!!READ_ME_TO_RECOVER_FILES!!!.txt
+!!!README!!!DO_NOT_DELETE.txt
 !!Restore-My-file-Kavva.txt
 !README!.txt
 #HowToRecover.txt
@@ -5508,6 +5511,7 @@ StarFire-README.txt
 TheAnonymousGlobal_ReadMe.txt
 UFFIZI_README.html
 veluth.readme.txt
+VILE_README.txt
 WARNING.txt
 WHAT_HAPPEN_OF_MYFILE.html
 WHATS_HAPPEND.txt

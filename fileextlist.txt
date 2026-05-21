@@ -1076,6 +1076,7 @@ cmdRansomware.*
 *.crypt
 *_crypt
 *.crypt-*
+*.crypt_lock
 *.Crypt0
 *.Crypt0L0cker
 *.Crypt0r
@@ -1967,6 +1968,7 @@ DesktopOsiris.*
 *.goba
 *.gocr
 *.god
+*.God8Damn
 *.godes
 *.godlock
 *.godra
@@ -2865,6 +2867,7 @@ lock.*
 *.lpsk
 *.lqepjhgjczo
 *.lqqw
+*.lqtoreq
 *.lr
 *.LRO
 *.lsas
@@ -5471,6 +5474,7 @@ read_this_to_decrypt_files.html
 read_to_decrypt_files.html
 ReadDecryptFilesHere.txt
 README.yAGRTb.txt
+README_LQTOREG.txt
 README_NBLOCK.txt
 README_NOW_ZAROK.txt
 README_XENTARI.txt

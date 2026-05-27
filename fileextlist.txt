@@ -251,6 +251,7 @@
 *.again
 *.age
 *.AgeLocker
+*.agenda
 *.agho
 *.aghz
 *.agpo
@@ -1940,6 +1941,7 @@ DesktopOsiris.*
 *.gigahertz
 *.Gilfillan
 *.gillette
+*.gines
 *.givemenitro
 *.GKICKG
 *.*GLADIUS
@@ -2328,6 +2330,7 @@ DesktopOsiris.*
 *.insom
 *.insta
 *.intel
+*.inter10ck
 *.interlock
 *.invaded
 *.invader
@@ -3847,6 +3850,7 @@ PCRISKyCOMBOCLEANER.*
 *.qewe
 *.qh24
 *qibfmkeM5*
+*.qilin
 *.qilra
 *.qkG
 *.qlkm

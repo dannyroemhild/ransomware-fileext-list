@@ -3889,6 +3889,7 @@ PCRISKyCOMBOCLEANER.*
 *.qual
 *.quantum
 *.Quimera
+*.Qv
 *qweasd*
 *.qwerty
 *.QwertyCrypt

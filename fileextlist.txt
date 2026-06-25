@@ -17,6 +17,7 @@
 *.0D34E0
 *.0day
 *.0day0
+*.0JELvV
 *.0kilobypt
 *.0l0lqq
 *.0.locked
@@ -118,6 +119,7 @@
 *.564ba1
 *.59d49
 *.5ss5c
+*.5vypSa
 *.619-300-6500
 *.61yhi
 *.62IX
@@ -385,6 +387,7 @@
 *.ash
 *.ASN1
 *.assm
+*.astra
 *.AstraLocker
 *.asulo
 *.asus
@@ -663,6 +666,7 @@
 *.blOOdy
 *.Blooper
 *.blower
+*.blt
 *.blue
 *.blueKey
 *.bluesky
@@ -830,6 +834,7 @@
 *.cebrc
 *.cekisan
 *.Celestial
+*.centrumfr@india.com!!
 *.cerber
 *.cerber2
 *.cerber3
@@ -1210,6 +1215,7 @@ cryptolocker.*
 *.cybertron18
 *.CyberVolk_BlackEye
 *.cyborg
+*.Cyborg1
 *.cyclone
 *.cymcrypt
 *.cyn
@@ -1600,6 +1606,8 @@ DesktopOsiris.*
 *.EncryptedBatch
 *.encryptedbybb
 *.encryptedbybert
+*.Encryptedfile
+*.EncryptedFilePayToGetBack
 *.encryptedJB
 *.encryptedl
 *.encryptedped
@@ -2597,6 +2605,7 @@ jpa.*
 *.KOK08
 *.KOK8
 *.KokoKrypt
+*.kokolocker
 *.Kolobo
 *.kolz
 *.kook
@@ -2765,6 +2774,7 @@ jpa.*
 *.lock2bits
 *.lock3
 *.LOCK75
+*.lock64
 *.lock93
 *.lockbeast
 *.lockbit
@@ -2804,6 +2814,7 @@ lock.*
 *.LockfilesKR
 *.Lockify
 *.lockis
+*.LockIt
 *.locklock
 *.locklocklock
 *.lockme
@@ -3194,6 +3205,7 @@ lock.*
 *.mztu
 MZReverenge*
 *.n1n1n1
+*.n1wLp0
 *.n3tw0rm
 *.n3xtpharma
 *.n53yb34tbb2
@@ -4803,6 +4815,7 @@ unCrypte@outlook.com*
 *.Useless
 *.UselessFiles
 *.UserFilesLocker
+*.UslJ6m
 *.usr
 *.usr0
 *.ust29
@@ -5054,6 +5067,7 @@ VictemKey_*_*
 *.write_us_on_email
 *.WRNY
 *.wrui
+*.ws
 *.wsaz
 *.wshlp
 *.WsIR
@@ -5120,6 +5134,7 @@ VictemKey_*_*
 *.XiN
 *.Xino
 *.xinof
+*.xj5v2
 *.xLck
 *.xllm
 *.XmdXtazX
@@ -5186,6 +5201,7 @@ VictemKey_*_*
 *.ykup
 *.YKUP
 *.yl
+*.YNhlv1
 *.yoAD
 *.yoba
 *.yoewy
@@ -5388,10 +5404,12 @@ c0ntact.txt
 CLEARWATER_README.txt
 Coin.Locker.txt
 confirmation.key
+Contact_Here_To_Recover_Your_Files.txt
 Cyb3rDrag0nz_ReadMe.txt
 CyberEvent-ReadMe.txt
 DAT_INFO.txt
 DATA_RECOVERY.html
+DECRYPT.hta
 Decrypt.html
 decrypt_instruct*.*
 DECRYPT_ReadMe.TXT
@@ -5399,6 +5417,7 @@ DECRYPT_INSTRUCTION.HTML
 DECRYPT_INSTRUCTION.TXT
 DECRYPT_INSTRUCTIONS.HTML
 DECRYPT_INSTRUCTIONS.TXT
+DECRYPT_YOUR_FILES.txt
 DecryptAllFiles.txt
 delete.me
 elite_ransom.html
@@ -5406,6 +5425,7 @@ Elons_Help.txt
 enc_files.txt
 Encrypt.html
 encryptor_raas_readme_liesmich.txt
+ENCx45cR*
 FAIL_STATE_NOTIFICATION.pdf
 Fast-Instructions.txt
 FILESAREGONE.TXT
@@ -5428,6 +5448,7 @@ HELPDECYPRT_YOUR_FILES.HTML
 hels.readme.txt
 HiveWare-ReadMe.txt
 HOW_TO_BACK_FILES.html
+How_To_Decrypt.txt
 HOW_TO_DECRYPT_FILES.TXT
 HOW_TO_GET_DATA_BACK.html
 HOW_TO_RECOVER.txt
@@ -5459,6 +5480,7 @@ LegionRoot_ReadMe.txt
 LSD_README.txt
 MackDEV_README.txt
 MAXIMSRU.txt
+MERRY_I_LOVE_YOU_BRUCE.HTA
 message.txt
 NOTE_273.txt
 OpenMe.txt
@@ -5524,10 +5546,12 @@ VILE_README.txt
 WARNING.txt
 WHAT_HAPPEN_OF_MYFILE.html
 WHATS_HAPPEND.txt
+Where_my_files.txt
 WIPED.txt
 XEX_README.txt
 YouCanRecoverFiles.txt
 YOUR_FILES.HTML
 YOUR_FILES.url
+YOUR_FILES_ARE_DEAD.HTA
 YOUR_FILES_ARE_ENCRYPTED.txt
 zelOFF.txt

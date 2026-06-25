@@ -1830,6 +1830,7 @@ DesktopOsiris.*
 *.frendi
 *.frenesis
 *.fresh
+*.friends124
 *.Frivinho*
 *.Frivolity
 *.frm
@@ -2218,6 +2219,7 @@ DesktopOsiris.*
 *.HollyCrypt
 *.HolyCrypt
 *.homer
+*.hommy
 *.honkai
 *.honor
 *.hoop
@@ -3772,6 +3774,7 @@ PCRISKyCOMBOCLEANER.*
 *.pres
 *.prey*
 *.PrincessLocker
+*.prinzeugen
 *.PRIVAT66
 *.prnds
 *.PrO

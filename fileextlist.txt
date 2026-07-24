@@ -446,6 +446,7 @@
 *.b00m
 *.b0ff
 *.bl0cked
+*.bl4ck
 *.b29
 *.b2dr
 *.b2fr
@@ -631,6 +632,7 @@
 *.blackheart*
 *.BlackKingdom
 *.blackmatter
+*.blacknet
 *.Blackout
 *.BlackPink
 *.blackransombdbot
@@ -2423,6 +2425,7 @@ DesktopOsiris.*
 *.jcrypt
 *.JDPR
 *.jdyi
+*.jeckel-lock
 *.jeepers
 *.JEEPERS
 *.JeepersCrypt
@@ -2616,6 +2619,7 @@ jpa.*
 *.kool
 *.koom
 *.KOPYTZEMPEREEBET
+*.kora
 *.korea
 *.koreaGame
 *.korrektor
@@ -3520,6 +3524,7 @@ oor.*
 *.ORCA.*
 *.ordinal
 *.Ordinypt
+*.orexin
 *.origami
 *.orion
 *.orkf
@@ -4976,6 +4981,7 @@ VictemKey_*_*
 *.WannaSmile
 *.WannaSpam
 *.Wanqu
+*.want_to_cry
 *.waqa
 *.waqq
 *.warlocks
@@ -5389,7 +5395,9 @@ VictemKey_*_*
 !!!READ_ME_TO_RECOVER_FILES!!!.txt
 !!!README!!!DO_NOT_DELETE.txt
 !!Restore-My-file-Kavva.txt
+!.txt
 !README!.txt
+!Want_To_Cry.txt 
 #HowToRecover.txt
 #HowToRecoverFiles.txt
 #Read-for-recovery.txt
@@ -5406,6 +5414,7 @@ APEXNOTE.txt
 ASSISTANCE_IN_RECOVERY.txt
 ATTENTION!!!.txt
 bashred-reAdmE.txt
+BL4CK_SP1D3R_README.txt
 BlackField_ReadMe.txt
 BuP1wDecryptor@.txt
 c0ntact.txt
@@ -5428,6 +5437,7 @@ DECRYPT_INSTRUCTIONS.HTML
 DECRYPT_INSTRUCTIONS.TXT
 DECRYPT_YOUR_FILES.txt
 DecryptAllFiles.txt
+Decryptyourfilesnow.txt
 delete.me
 elite_ransom.html
 Elons_Help.txt
@@ -5482,6 +5492,7 @@ info.hta
 INFO-DECRYPT.txt
 info-kyj.txt
 INSTRUCCIONES_DESCIFRADO.TXT
+INSTRUCTIONS.txt
 JEFFERY_README.txt
 LamiaLoader.txt
 last_chance.txt
@@ -5502,6 +5513,7 @@ READ-007.txt
 READ-ME!.txt
 READ-ME-Nullhexxx.txt
 read_it.txt
+READ_ME_BLACKNET.txt
 READ_ME_FBI.txt
 read_me_fucking_bitch!
 READ_ME_NOW.txt

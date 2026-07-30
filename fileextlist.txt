@@ -447,6 +447,7 @@
 *.b0ff
 *.bl0cked
 *.bl4ck
+*.BLWZ
 *.b29
 *.b2dr
 *.b2fr
@@ -1709,6 +1710,7 @@ DesktopOsiris.*
 *.Fabiansomware
 *.facebook
 *.factfull
+*.fadeSEC
 *.Fadesoft
 *.FailedAccess
 *.fair
@@ -2346,6 +2348,7 @@ DesktopOsiris.*
 *.intel
 *.inter10ck
 *.interlock
+*.interserver*
 *.invaded
 *.invader
 *.ioqa
@@ -2505,6 +2508,7 @@ jpa.*
 *.Kaenlupuf
 *.kafan
 *.kali
+*.kansas4life
 *.karen
 *.karl
 *.KARLOS
@@ -3544,6 +3548,7 @@ oor.*
 *.ovgm
 *.OVO
 *.(OwL)
+*.own
 *.owned
 *.ownerd
 *.Ox4444
@@ -5494,6 +5499,7 @@ info-kyj.txt
 INSTRUCCIONES_DESCIFRADO.TXT
 INSTRUCTIONS.txt
 JEFFERY_README.txt
+KANSASGROUP.txt
 LamiaLoader.txt
 last_chance.txt
 LegionRoot_ReadMe.txt

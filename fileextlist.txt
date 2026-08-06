@@ -2642,6 +2642,7 @@ jpa.*
 *.kratos
 *.KratosCrypt
 *.kraussmfz
+*.kreepr
 *.KREMLIN
 *.Krider
 *.Kriptor
@@ -4919,6 +4920,7 @@ VictemKey_*_*
 *.VIRUS
 *.VisionCrypt
 *.ViT
+*.vitek
 *.VIVAL
 *.vivelag
 *.vjiszy1lo

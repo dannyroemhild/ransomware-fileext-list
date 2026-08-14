@@ -142,6 +142,7 @@
 *.7ev3n
 *.7h9r
 *.7jo22z5m
+*.7mtzhh
 *.7z.encrypted
 *.7zipper
 *.82a80
@@ -2965,6 +2966,7 @@ lock.*
 *.MailRU
 *.mails
 *.maiv
+*.majin
 *.major
 *.makkonahi
 *.makop
@@ -3145,6 +3147,7 @@ lock.*
 *.mono
 *.monochromebear
 *.monro
+*.montage9
 *.montana
 *.Monti
 *.Montserrat
@@ -4801,6 +4804,7 @@ trial-recovery.*
 *.UKCZA
 *.ukrain
 *ukr.net*
+*.umbra
 *.UmbreCrypt
 *.un1que
 *.unavailable
@@ -5415,6 +5419,7 @@ _README_TENGU.txt
 _README_Yurei.txt
 _secret_code.txt
 +README-WARNING+.txt
+AAA_READ_AAA.TXT
 About_Files.txt
 aboutYourFiles.*
 APEXNOTE.txt
@@ -5446,6 +5451,8 @@ DECRYPT_YOUR_FILES.txt
 DecryptAllFiles.txt
 Decryptyourfilesnow.txt
 delete.me
+Details_Cleo.txt
+DtMXQFOCos-RECOVER-README.txt
 elite_ransom.html
 Elons_Help.txt
 enc_files.txt
@@ -5455,6 +5462,7 @@ ENCx45cR*
 FAIL_STATE_NOTIFICATION.pdf
 Fast-Instructions.txt
 FILESAREGONE.TXT
+FLOCK_DECRYPT.txt
 GetFilesBack.txt
 Help_Decrypt.txt
 HELP_DECRYPT.HTML
@@ -5510,6 +5518,7 @@ MackDEV_README.txt
 MAXIMSRU.txt
 MERRY_I_LOVE_YOU_BRUCE.HTA
 message.txt
+nightspire_readme.txt
 NOTE_273.txt
 OpenMe.txt
 OPTIMUS_readme.txt
@@ -5539,6 +5548,8 @@ README_XENTARI.txt
 README-GENTLEMEN.txt
 README-NOBODY.txt
 README-OBSCURA.txt
+README-RECOVER.txt
+README-RECOVER-*.txt
 README0apt.txt
 readmefordecrypt.txt
 READTHISNOW!!!.TXT
@@ -5579,6 +5590,7 @@ WARNING.txt
 WHAT_HAPPEN_OF_MYFILE.html
 WHATS_HAPPEND.txt
 Where_my_files.txt
+White_Rabbit.txt
 WIPED.txt
 XEX_README.txt
 YouCanRecoverFiles.txt

@@ -556,6 +556,7 @@
 *.besub
 *.betarasite
 *.BetaSup
+*.betelgeuse
 *.betta
 *.better_call_saul
 *.bettercallsaul
@@ -1799,6 +1800,7 @@ DesktopOsiris.*
 *.flat
 *.Flatcher3
 *.FLKR
+*.Flock
 *.flowencryption
 *.FLSCrypt
 *.Flux
@@ -2520,6 +2522,7 @@ jpa.*
 *.Karmen
 *.karne
 *.Karo
+*.karrytech
 *.karsovrop
 *.Kasiski
 *.kasp
@@ -2583,6 +2586,7 @@ jpa.*
 *.killrabbit
 *.kimchenyn
 *.kimcilware
+*.KIMO
 *.king
 *.king_ouroboros*
 *.kiop

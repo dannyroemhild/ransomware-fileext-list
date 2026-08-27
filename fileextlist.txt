@@ -855,6 +855,7 @@
 *.cfm
 *.CGAIE
 *.chaddad
+*.chained
 *.CHAK
 *.charck
 *.charcl
@@ -2029,6 +2030,7 @@ DesktopOsiris.*
 *.gqlmcwnhh
 *.gr3g
 *.GrafGrafel
+*.grandeur
 *.GRANIT
 *.granny
 *.GrAnoSinSa
@@ -5445,6 +5447,7 @@ DAT_INFO.txt
 DATA_RECOVERY.html
 DECRYPT.hta
 Decrypt.html
+Decrypt-info.txt
 decrypt_instruct*.*
 DECRYPT_ReadMe.TXT
 DECRYPT_INSTRUCTION.HTML
@@ -5463,6 +5466,7 @@ enc_files.txt
 Encrypt.html
 encryptor_raas_readme_liesmich.txt
 ENCx45cR*
+EVERESTRANSOMWARE.txt
 FAIL_STATE_NOTIFICATION.pdf
 Fast-Instructions.txt
 FILESAREGONE.TXT
@@ -5526,6 +5530,7 @@ nightspire_readme.txt
 NOTE_273.txt
 OpenMe.txt
 OPTIMUS_readme.txt
+PLEASEREADTHIS.txt
 Pro4etiMe_ReadMe.txt
 R3ADM3.txt
 RANSOM_NOTE.html

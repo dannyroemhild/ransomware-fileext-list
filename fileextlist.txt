@@ -276,6 +276,7 @@
 *.al1b1nal1
 *.al8p
 *.Alcatraz
+*.aldet
 *.aleta
 *.Alfa
 *.AlfaBlock
@@ -5411,6 +5412,7 @@ VictemKey_*_*
 !!!READ_ME!!!.txt
 !!!READ_ME_TO_RECOVER_FILES!!!.txt
 !!!README!!!DO_NOT_DELETE.txt
+!!README_HMDL!!.txt
 !!Restore-My-file-Kavva.txt
 !.txt
 !README!.txt

@@ -2357,6 +2357,7 @@ DesktopOsiris.*
 *.interserver*
 *.invaded
 *.invader
+*.InWatch
 *.ioqa
 *.ior
 *.iotr
@@ -3922,6 +3923,7 @@ PCRISKyCOMBOCLEANER.*
 *.qqri
 *.qrja
 *.qscx
+*.qtox
 *.Qtyu8vH5wDXf6OSWAm5NuA==ObcK
 *.QuakeWay
 *.qual
@@ -4083,6 +4085,7 @@ PCRISKyCOMBOCLEANER.*
 *.REDTM
 *.refols
 *.regq
+*.regulus*
 *.reha
 *.reig
 *.reimageplus

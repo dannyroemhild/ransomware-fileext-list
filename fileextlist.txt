@@ -298,6 +298,7 @@
 *.alosia
 *.Alpha
 *.Alphaware
+*.altair*
 *.altdelete@cock.li.district
 *.alumni
 *.ALVIN
@@ -1713,6 +1714,7 @@ DesktopOsiris.*
 *.f41o1
 *.Fabiansomware
 *.facebook
+*.facemelter
 *.factfull
 *.fadeSEC
 *.Fadesoft
@@ -4143,6 +4145,7 @@ RESTORE-SIGRUN.*
 *.ribd
 *.ricksanchez
 *.ridik
+*.RIED
 *.rigd
 *.righ
 *.rigj
@@ -4589,6 +4592,7 @@ RESTORE-SIGRUN.*
 *.swagkarna
 *.SWIFT
 *.switch
+*.SWORD
 *.SWP
 *.SXS
 *.symbiom_ransomware_locked
@@ -4953,6 +4957,7 @@ VictemKey_*_*
 *.voyager
 *.vpgvlkb
 *.vpsh
+*.vricpe
 *.vrmrkz
 *.vscrypt
 *.v-society
@@ -5554,6 +5559,7 @@ read_to_decrypt_files.html
 ReadDecryptFilesHere.txt
 README.yAGRTb.txt
 README_DECRYPT.txt
+README_DONOTREMOVE.txt
 readme_locker.txt
 README_LQTOREG.txt
 README_NBLOCK.txt
@@ -5575,6 +5581,7 @@ RECOVER_INSTRUCTIONS.html
 RECOVER_payload.txt
 RECOVER_README.txt
 RECOVER-FILES.html
+recoverfile*.txt
 RECOVERY_FILE*.txt
 RECOVERY_FILE.TXT
 RECOVERY_ID.txt
@@ -5583,7 +5590,7 @@ Recovery_Instructions.html
 RECOVERY_INSTRUCTIONS.txt
 RECOVERY_KEY.txt
 Recovery_README.html
-recoverfile*.txt
+RecoveryHelp.txt
 recoveryfile*.txt
 RecoverYourFiles.txt
 RESTORE-MY-FILES.TXT
@@ -5596,6 +5603,7 @@ shrt.readme.txt
 SM$LE-read-it.txt
 SquadLocker_ReadMe.txt
 StarFire-README.txt
+SwordReadme!!!*.txt
 TheAnonymousGlobal_ReadMe.txt
 UFFIZI_README.html
 veluth.readme.txt

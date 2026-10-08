@@ -793,6 +793,7 @@
 *.cago
 *.caleb
 *.caley
+*.calipso
 *.calix
 *.calum
 *.cammora
@@ -1809,6 +1810,7 @@ DesktopOsiris.*
 *.FLSCrypt
 *.Flux
 *.flyper
+*.flyware
 *.FLYU
 *.fmfgmfgm
 *.fmk-ta3-7ym
@@ -2975,6 +2977,7 @@ lock.*
 *@mail.ru*
 *.MailRU
 *.mails
+*.MAIN
 *.maiv
 *.majin
 *.major
@@ -5397,6 +5400,7 @@ VictemKey_*_*
 *.zycrypt
 *.zyklon
 *.ZyNoXiOn
+*.zynx
 *.zypto*
 *.Zyr
 *.zzla
@@ -5582,6 +5586,7 @@ RECOVER_payload.txt
 RECOVER_README.txt
 RECOVER-FILES.html
 recoverfile*.txt
+recovery.txt
 RECOVERY_FILE*.txt
 RECOVERY_FILE.TXT
 RECOVERY_ID.txt

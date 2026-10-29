@@ -779,6 +779,7 @@
 *.bxtyunh
 *.bydes
 *.byee
+*.bytebane
 *.byya
 *.c0hen
 *.C0rp0r@c@0Xr@
@@ -902,6 +903,7 @@
 *.ciphered
 *.CipherTrail
 *.ciphx
+*.citrus
 *.cityzone-*
 *.cizer
 *.Cj
@@ -955,6 +957,7 @@ cmdRansomware.*
 *.codnet
 *.codnet1
 *.coffee
+*.coffin
 *.coharos
 *.coin
 *.CoinVault
@@ -2120,6 +2123,7 @@ DesktopOsiris.*
 *.haron
 *.harward
 *.Harzhuangzi
+*.has
 *.hasp
 *.haters
 *.havoc
@@ -2182,6 +2186,7 @@ DesktopOsiris.*
 *.hets
 *.hex911
 *.hexalocker
+*.hexsomeware
 *.H_F_D_locked
 *.hfgd
 *.hgew
@@ -3480,6 +3485,7 @@ MZReverenge*
 *.oflg
 *.ofoq
 *.ofww
+*.ofx
 *.ogdo
 *.OGONIA
 *.ogre
@@ -4006,6 +4012,7 @@ PCRISKyCOMBOCLEANER.*
 *.ransomcrypt
 *.RansomCuck
 *.ransomed
+*.ransomexx
 *RANSOMED*
 *.RansomMine
 *.Ransomnix
@@ -4277,6 +4284,7 @@ RESTORE-SIGRUN.*
 *.same
 *.SamSam
 *.SaMsUnG
+*.samurai
 *.sanction
 *.Sanctions
 *.sandboxtest
@@ -5502,11 +5510,13 @@ HELLOTHERE.TXT
 HELPDECRYPT.TXT
 HELPDECYPRT_YOUR_FILES.HTML
 hels.readme.txt
+HEXSOMEWARE_READ_ME.txt
 HiveWare-ReadMe.txt
 HOW_TO_BACK_FILES.html
 How_To_Decrypt.txt
 HOW_TO_DECRYPT_FILES.TXT
 HOW_TO_GET_DATA_BACK.html
+how_to_recover.coffin.txt
 HOW_TO_RECOVER.txt
 HOW_TO_RECOVER_DATA.html
 How_To_Recover_Files.txt
@@ -5526,6 +5536,7 @@ IAMREADYTOPAY.TXT
 IdontCareLOck.txt
 IHAVEYOURSECRET.KEY
 info.hta
+info_note.txt
 INFO-DECRYPT.txt
 info-kyj.txt
 INSTRUCCIONES_DESCIFRADO.TXT
@@ -5568,6 +5579,7 @@ readme_locker.txt
 README_LQTOREG.txt
 README_NBLOCK.txt
 README_NOW_ZAROK.txt
+README_ONECRYPTOR.txt
 README_XENTARI.txt
 README-GENTLEMEN.txt
 README-NOBODY.txt

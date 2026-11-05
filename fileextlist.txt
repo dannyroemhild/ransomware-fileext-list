@@ -940,6 +940,7 @@ cmdRansomware.*
 *.coba
 *.cobain
 *.cobra
+*.coca
 *.CockBlocker
 *.cock.email
 *@cock.email
@@ -1717,6 +1718,7 @@ DesktopOsiris.*
 *.ezzyl
 *.f41o1
 *.Fabiansomware
+*.fable
 *.facebook
 *.facemelter
 *.factfull
@@ -3321,6 +3323,7 @@ MZReverenge*
 *.Netwalker
 *.Networklock
 *.networkmaze
+*.neutrino
 *.new24
 *.newbot
 *.NewHT
@@ -3473,6 +3476,7 @@ MZReverenge*
 *.obleep
 *.oblivion
 *.obscura
+*.obsoft
 *.OBZ
 *.ocean
 *.octo
@@ -5545,6 +5549,7 @@ JEFFERY_README.txt
 KANSASGROUP.txt
 LamiaLoader.txt
 last_chance.txt
+LEEME.txt
 LegionRoot_ReadMe.txt
 LSD_README.txt
 MackDEV_README.txt
@@ -5586,6 +5591,7 @@ README-NOBODY.txt
 README-OBSCURA.txt
 README-RECOVER.txt
 README-RECOVER-*.txt
+README-RECOVERY.txt
 README0apt.txt
 readmefordecrypt.txt
 READTHISNOW!!!.TXT
@@ -5607,8 +5613,9 @@ Recovery_Instructions.html
 RECOVERY_INSTRUCTIONS.txt
 RECOVERY_KEY.txt
 Recovery_README.html
-RecoveryHelp.txt
 recoveryfile*.txt
+RecoveryHelp.txt
+RecoveryNotice.txt
 RecoverYourFiles.txt
 RESTORE-MY-FILES.TXT
 RESTORE_FILES_INFO.txt

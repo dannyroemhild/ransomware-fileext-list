@@ -348,6 +348,7 @@
 *.AnubisCrypt
 *.aol
 *@aol.com
+*.AOQIN
 *.ap19
 *.apex
 *.apis
@@ -625,6 +626,7 @@
 *@bk.ru
 *.BL@CKLOCKED
 *.Black
+*.black_lotus
 *.black007
 *.BlackBit
 *.blackcat
@@ -1840,6 +1842,7 @@ DesktopOsiris.*
 *.foxxy
 *.foza
 *.frag
+*.fraud
 *.frea
 *.fredd
 *.freefoam
@@ -4833,6 +4836,7 @@ trial-recovery.*
 *.UKCZA
 *.ukrain
 *ukr.net*
+*.ULTIMATE
 *.umbra
 *.UmbreCrypt
 *.un1que
@@ -5510,6 +5514,7 @@ help_recover_instructions+*.txt
 HELP_TO_DECRYPT_YOUR_FILES.txt
 HELP_TO_SAVE_FILES.txt
 HELP_YOUR_FILES.TXT
+HELP-SUPPORT.txt
 HELLOTHERE.TXT
 HELPDECRYPT.TXT
 HELPDECYPRT_YOUR_FILES.HTML
@@ -5528,6 +5533,7 @@ How_to_recover_your_files.txt
 HOW_TO_RECOVERY_FILES.txt
 How_Decrypt.html
 How_Decrypt.txt
+how2recovery.txt
 HowDecrypt.txt
 HowToRecoveryFiles.txt
 howrecover+*.txt
@@ -5571,6 +5577,7 @@ READ-ME-Nullhexxx.txt
 read_it.txt
 READ_ME_BLACKNET.txt
 READ_ME_FBI.txt
+READ_ME_FRAUD.txt
 read_me_fucking_bitch!
 READ_ME_NOW.txt
 READ_NOTE.html
@@ -5579,6 +5586,8 @@ read_to_decrypt_files.html
 ReadDecryptFilesHere.txt
 README.yAGRTb.txt
 README_DECRYPT.txt
+README_DECRYPT_*.txt
+README_DECRYPT_*.html
 README_DONOTREMOVE.txt
 readme_locker.txt
 README_LQTOREG.txt
@@ -5592,6 +5601,7 @@ README-OBSCURA.txt
 README-RECOVER.txt
 README-RECOVER-*.txt
 README-RECOVERY.txt
+README-RECOVERY-*.txt
 README0apt.txt
 readmefordecrypt.txt
 READTHISNOW!!!.TXT
